@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Georgian <ka_GE>\n"
+"Language: ka-GE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "ტექსტი"
+
+msgid "Tabled Text"
+msgstr "ტაბულირებული ტექსტი"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "მხარდაჭერა"
+
+msgid "Square Size:"
+msgstr "კვადრატის ზომა:"
+
+msgid "Row Sum:"
+msgstr "მწვრის ჯამი:"
+
+msgid "Algorithm:"
+msgstr "ალგორითმი:"
+
+msgid "Generate"
+msgstr "გენერირება"
+
+msgid "Rotate"
+msgstr "გადაბრუნება"
+
+msgid "Mirror"
+msgstr "სარკე"
+
+msgid "Output format:"
+msgstr "გამომავალი ფორმატი:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "ცხრილებისთვის ტაბ-გამოყოფილი მნიშვნელობები."
+
+msgid "Box borders:"
+msgstr "ყუთის კიდეები:"
+
+msgid "Cell height:"
+msgstr "უჯრის სიმაღლე:"
+
+msgid "Cell width:"
+msgstr "უჯრის სიგანე:"
+
+msgid "Ink color:"
+msgstr "კატამნის ფერი:"
+
+msgid "Rotation start direction"
+msgstr "გადააბრუნების დაწყების მიმართულება"
+
+msgid "Left (-45°)"
+msgstr "მარცხენა (-45°)"
+
+msgid "Right (+45°)"
+msgstr "მარჯვენა (+45°)"
+
+msgid "No rotation"
+msgstr "არა გადაბრუნება"
+
+msgid "Select a document size:"
+msgstr "აირჩიეთ დოკუმენტის ზომა:"
+
+msgid "Dream sized, contains content"
+msgstr "შიგთავსის მიხედვით ზომა"
+
+msgid "Magic Square:"
+msgstr "მაგიური კვადრატი:"
+
+msgid "Copy to Clipboard"
+msgstr "კოპირება ბუფერში"
+
+msgid "Save File"
+msgstr "ფაილი შენახვა"
+
+msgid "Use Indian Numbers"
+msgstr "გამოიყენე ინდური რიცხვები"
+
+msgid "Odd sized (Siamese)"
+msgstr "ცუდი ზომა (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "ორმაგად-იგივე (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "ორმაგად-იგივე (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "ორმაგად ლუწი (მარტივი გაცვლა)"
+
+msgid "Singly even (Strachey)"
+msgstr "ერთჯერად ლუწი (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "ჯადოსნური კონსტანტა:"
+
+msgid "Row"
+msgstr "ხაზი"
+
+msgid "Column"
+msgstr "სვეტი"
+
+msgid "Main Diagonal:"
+msgstr "მთავარი დიაგონალი:"
+
+msgid "Side Diagonal:"
+msgstr "გვერდითი დიაგონალი:"
+
+msgid "Total"
+msgstr "სულ"
+
+msgid "Magic square is valid!"
+msgstr "ჯადოსნური კვადრატი დამადასტურებულია!"
+
+msgid "Magic square is NOT valid!"
+msgstr "ჯადოსნური კვადრატი არამართალია!"
+
+msgid "Thank you for your support!"
+msgstr "გმადლობთ თქვენს მხარდაჭერას!"
+
+msgid "Magic Square Widget"
+msgstr "ჯადოსნური კვადრატული Widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"დაამატებს მორგებადი ჯადოსნური კვადრატული გენერატორი (widget) თქვენს საიტის "
+"კუთხეში."

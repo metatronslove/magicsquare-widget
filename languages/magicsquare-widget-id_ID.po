@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Indonesian <id_ID>\n"
+"Language: id-ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Teks"
+
+msgid "Tabled Text"
+msgstr "Teks Tabel"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Dukungan"
+
+msgid "Square Size:"
+msgstr "Ukuran Persegi:"
+
+msgid "Row Sum:"
+msgstr "Jumlah Baris:"
+
+msgid "Algorithm:"
+msgstr "Algoritma:"
+
+msgid "Generate"
+msgstr "Buat"
+
+msgid "Rotate"
+msgstr "Putar"
+
+msgid "Mirror"
+msgstr "Cermin"
+
+msgid "Output format:"
+msgstr "Format output:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Nilai dipisahkan tab untuk spreadsheet."
+
+msgid "Box borders:"
+msgstr "Batas Kotak:"
+
+msgid "Cell height:"
+msgstr "Tinggi Sel:"
+
+msgid "Cell width:"
+msgstr "Lebar Sel:"
+
+msgid "Ink color:"
+msgstr "Warna Tinta:"
+
+msgid "Rotation start direction"
+msgstr "Arah Mulai Rotasi"
+
+msgid "Left (-45°)"
+msgstr "Kiri (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Kanan (+45°)"
+
+msgid "No rotation"
+msgstr "Tanpa Rotasi"
+
+msgid "Select a document size:"
+msgstr "Pilih ukuran dokumen:"
+
+msgid "Dream sized, contains content"
+msgstr "Berukuran mimpi, berisi konten"
+
+msgid "Magic Square:"
+msgstr "Kotak Sihir:"
+
+msgid "Copy to Clipboard"
+msgstr "Salin ke Clipboard"
+
+msgid "Save File"
+msgstr "Simpan File"
+
+msgid "Use Indian Numbers"
+msgstr "Gunakan Angka India"
+
+msgid "Odd sized (Siamese)"
+msgstr "Ukuran ganjil (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Ganda genap (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Ganda genap (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Ganda genap (pertukaran sederhana)"
+
+msgid "Singly even (Strachey)"
+msgstr "Singly even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Konstanta Sihir:"
+
+msgid "Row"
+msgstr "Baris"
+
+msgid "Column"
+msgstr "Kolom"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal Utama:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonal Samping:"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Magic square is valid!"
+msgstr "Bujur sangkar ajaib valid!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Bujur sangkar ajaib TIDAK valid!"
+
+msgid "Thank you for your support!"
+msgstr "Terima kasih atas dukungan Anda!"
+
+msgid "Magic Square Widget"
+msgstr "Widget Bujur Sangkarnya"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Menambahkan generator bujur sangkar ajaib (widget) yang dapat disesuaikan ke"
+" sudut situs Anda."

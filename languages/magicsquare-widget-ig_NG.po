@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Igbo <ig_NG>\n"
+"Language: ig-NG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Okwu"
+
+msgid "Tabled Text"
+msgstr "Okwu Ndepụta"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Nkwado"
+
+msgid "Square Size:"
+msgstr "Nche Square:"
+
+msgid "Row Sum:"
+msgstr "Ngụkọta Ntụ:"
+
+msgid "Algorithm:"
+msgstr "Algorithm:"
+
+msgid "Generate"
+msgstr "Mepụta"
+
+msgid "Rotate"
+msgstr "Tụọ"
+
+msgid "Mirror"
+msgstr "Mirọ"
+
+msgid "Output format:"
+msgstr "Ụdị Mbupụ:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Ụdị data e depụtara na tab maka akwụkwọ mgbakwunye."
+
+msgid "Box borders:"
+msgstr "Na-agba Ụlọ:"
+
+msgid "Cell height:"
+msgstr "Nchepụta elu nke sel:"
+
+msgid "Cell width:"
+msgstr "Nchepụta ogologo nke sel:"
+
+msgid "Ink color:"
+msgstr "Agba ink:"
+
+msgid "Rotation start direction"
+msgstr "Ndụmọdụ mmalite ntụgharị"
+
+msgid "Left (-45°)"
+msgstr "Mgbatị (-45°)"
+
+msgid "Right (+45°)"
+msgstr "N'aka nri (+45°)"
+
+msgid "No rotation"
+msgstr "Ọnweghị ntụgharị"
+
+msgid "Select a document size:"
+msgstr "Họrọ nha akwụkwọ:"
+
+msgid "Dream sized, contains content"
+msgstr "Dream Sized, nwere ọdịnaya"
+
+msgid "Magic Square:"
+msgstr "Square Mgbakọ:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopie na Clipboard"
+
+msgid "Save File"
+msgstr "Chekwa Faịlụ"
+
+msgid "Use Indian Numbers"
+msgstr "Jiri nọmba India"
+
+msgid "Odd sized (Siamese)"
+msgstr "Nke dị (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Doubly even (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Doubly even (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Doubly even (Nkwuru Simpulu)"
+
+msgid "Singly even (Strachey)"
+msgstr "Singly even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Nkezi Ọma:"
+
+msgid "Row"
+msgstr "Ndu"
+
+msgid "Column"
+msgstr "Kọlụm"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal isi:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonal akụkụ:"
+
+msgid "Total"
+msgstr "Mkpokọta"
+
+msgid "Magic square is valid!"
+msgstr "Square magị dị ezigbo!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Square magị ọ bụghị ezigbo!"
+
+msgid "Thank you for your support!"
+msgstr "Daalụ maka nkwado gị!"
+
+msgid "Magic Square Widget"
+msgstr "Igwe Square magị"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Tinye igwe na-eme square magị (widget) dị iche iche n'azụta nke weebụsaịtị "
+"gị."

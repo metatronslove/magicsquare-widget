@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Konkani <kok_IN>\n"
+"Language: kok-IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "मजकूर"
+
+msgid "Tabled Text"
+msgstr "सारणीमधील मजकूर"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "समर्थन"
+
+msgid "Square Size:"
+msgstr "चौरस आकार:"
+
+msgid "Row Sum:"
+msgstr "पंक्तीची बेरीज:"
+
+msgid "Algorithm:"
+msgstr "अल्गोरिदम:"
+
+msgid "Generate"
+msgstr "निर्माण करा"
+
+msgid "Rotate"
+msgstr "फिरवा"
+
+msgid "Mirror"
+msgstr "दर्पण"
+
+msgid "Output format:"
+msgstr "आउटपुट स्वरूप:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "स्प्रेडशीटसाठी टॅबने विभक्त केलेली मूल्ये."
+
+msgid "Box borders:"
+msgstr "बॉक्सचे किनारी:"
+
+msgid "Cell height:"
+msgstr "सेलची उंची:"
+
+msgid "Cell width:"
+msgstr "सेलची रुंदी:"
+
+msgid "Ink color:"
+msgstr "शाईचा रंग:"
+
+msgid "Rotation start direction"
+msgstr "फिरवण्याची सुरुवातीची दिशा"
+
+msgid "Left (-45°)"
+msgstr "डावा (-45°)"
+
+msgid "Right (+45°)"
+msgstr "उजवा (+45°)"
+
+msgid "No rotation"
+msgstr "कोणतेही फिरवणे नाही"
+
+msgid "Select a document size:"
+msgstr "दस्तऐवजाचा आकार निवडा:"
+
+msgid "Dream sized, contains content"
+msgstr "स्वप्न आकार, सामग्री असलेला"
+
+msgid "Magic Square:"
+msgstr "जादुई चौरस:"
+
+msgid "Copy to Clipboard"
+msgstr "क्लिपबोर्डवर कॉपी करा"
+
+msgid "Save File"
+msgstr "फाइल जतन करा"
+
+msgid "Use Indian Numbers"
+msgstr "भारतीय संख्या वापरा"
+
+msgid "Odd sized (Siamese)"
+msgstr "विषम आकार (सियामीस)"
+
+msgid "Doubly even (Strachey)"
+msgstr "दुहेरी सम (स्ट्रॅचि)"
+
+msgid "Doubly even (Durer)"
+msgstr "दुहेरी सम (ड्यूर)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dupla sam (Sadhī vinimay)"
+
+msgid "Singly even (Strachey)"
+msgstr "Ek sam (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Jaadu chi sthirta:"
+
+msgid "Row"
+msgstr "Pankti"
+
+msgid "Column"
+msgstr "Stambh"
+
+msgid "Main Diagonal:"
+msgstr "Mukhya Tirkas:"
+
+msgid "Side Diagonal:"
+msgstr "Bāju Tirkas:"
+
+msgid "Total"
+msgstr "Ekūn"
+
+msgid "Magic square is valid!"
+msgstr "Jaadacho chaukōn vaidh ahe!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Jaadacho chaukōn avaid nahi!"
+
+msgid "Thank you for your support!"
+msgstr "Aplya samarthana barobar dhanyavaad!"
+
+msgid "Magic Square Widget"
+msgstr "Jaadacho chaukōn widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Aplya sitechya koprāyat ek saṇukha karaṇyāyogya jaadacho chaukōn janak "
+"(widget) jodto."

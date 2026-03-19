@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Limburgish <li_BE>\n"
+"Language: li-BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Tabled Text"
+msgstr "Tabel tekst"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Ondersteun"
+
+msgid "Square Size:"
+msgstr "Vierkant Grootte:"
+
+msgid "Row Sum:"
+msgstr "Rij Som:"
+
+msgid "Algorithm:"
+msgstr "Algoritme:"
+
+msgid "Generate"
+msgstr "Genereer"
+
+msgid "Rotate"
+msgstr "Roteer"
+
+msgid "Mirror"
+msgstr "Spiegele"
+
+msgid "Output format:"
+msgstr "Uitvoer formaat:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tabelgescheiden waarden voor rekenbladen."
+
+msgid "Box borders:"
+msgstr "Kast randen:"
+
+msgid "Cell height:"
+msgstr "Cel hoogte:"
+
+msgid "Cell width:"
+msgstr "Cel breedte:"
+
+msgid "Ink color:"
+msgstr "Inkt kleur:"
+
+msgid "Rotation start direction"
+msgstr "Roteer start richtig"
+
+msgid "Left (-45°)"
+msgstr "Links (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Rechts (+45°)"
+
+msgid "No rotation"
+msgstr "Geen roteering"
+
+msgid "Select a document size:"
+msgstr "Kies een dokumèntgrootte:"
+
+msgid "Dream sized, contains content"
+msgstr "Droomgrootte, bevat inhoud"
+
+msgid "Magic Square:"
+msgstr "Mágiek Vierkant:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopieer na klembord"
+
+msgid "Save File"
+msgstr "Sla bestand op"
+
+msgid "Use Indian Numbers"
+msgstr "Gebruik Indiân getallen"
+
+msgid "Odd sized (Siamese)"
+msgstr "Oneven groot (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dubbel even (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dubbel even (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dubbel even (Simpele wyming)"
+
+msgid "Singly even (Strachey)"
+msgstr "Enkel even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Magisch Constant:"
+
+msgid "Row"
+msgstr "Ree"
+
+msgid "Column"
+msgstr "Kolom"
+
+msgid "Main Diagonal:"
+msgstr "Haapdiagonaal:"
+
+msgid "Side Diagonal:"
+msgstr "Zijdiagonaal:"
+
+msgid "Total"
+msgstr "Totale"
+
+msgid "Magic square is valid!"
+msgstr "Magisch vierkant is geldig!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Magisch vierkant is GEEN geldig!"
+
+msgid "Thank you for your support!"
+msgstr "Bedankt veur jo ondersteuning!"
+
+msgid "Magic Square Widget"
+msgstr "Magisch Vierkant Widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Voegt een aanpasbaar magisch vierkantgenerator (widget) toe aan de hoek van "
+"je site."

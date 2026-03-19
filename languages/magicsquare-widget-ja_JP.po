@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Japanese <ja_JP>\n"
+"Language: ja-JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "テキスト"
+
+msgid "Tabled Text"
+msgstr "テーブル化テキスト"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "サポート"
+
+msgid "Square Size:"
+msgstr "正方形サイズ："
+
+msgid "Row Sum:"
+msgstr "行合計："
+
+msgid "Algorithm:"
+msgstr "アルゴリズム："
+
+msgid "Generate"
+msgstr "生成"
+
+msgid "Rotate"
+msgstr "回転"
+
+msgid "Mirror"
+msgstr "ミラー"
+
+msgid "Output format:"
+msgstr "出力形式："
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "スプレッドシート用タブ区切り値。"
+
+msgid "Box borders:"
+msgstr "ボックス枠："
+
+msgid "Cell height:"
+msgstr "セル高さ："
+
+msgid "Cell width:"
+msgstr "セル幅："
+
+msgid "Ink color:"
+msgstr "インク色："
+
+msgid "Rotation start direction"
+msgstr "回転開始方向"
+
+msgid "Left (-45°)"
+msgstr "左 (-45°)"
+
+msgid "Right (+45°)"
+msgstr "右 (+45°)"
+
+msgid "No rotation"
+msgstr "回転なし"
+
+msgid "Select a document size:"
+msgstr "ドキュメントサイズを選択："
+
+msgid "Dream sized, contains content"
+msgstr "ドリームサイズで内容を含む"
+
+msgid "Magic Square:"
+msgstr "マジックスクエア："
+
+msgid "Copy to Clipboard"
+msgstr "クリップボードにコピー"
+
+msgid "Save File"
+msgstr "ファイルを保存"
+
+msgid "Use Indian Numbers"
+msgstr "インド数字を使用"
+
+msgid "Odd sized (Siamese)"
+msgstr "奇数サイズ（シアメーズ）"
+
+msgid "Doubly even (Strachey)"
+msgstr "偶数サイズ（ストレイシー）"
+
+msgid "Doubly even (Durer)"
+msgstr "偶数サイズ（デュラー）"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "ダブル偶数（シンプル交換）"
+
+msgid "Singly even (Strachey)"
+msgstr "シングリー偶数（ストラチェイ）"
+
+msgid "Magic Constant:"
+msgstr "マジック定数:"
+
+msgid "Row"
+msgstr "行"
+
+msgid "Column"
+msgstr "列"
+
+msgid "Main Diagonal:"
+msgstr "主対角線:"
+
+msgid "Side Diagonal:"
+msgstr "副対角線:"
+
+msgid "Total"
+msgstr "合計"
+
+msgid "Magic square is valid!"
+msgstr "マジックスクエアは有効です！"
+
+msgid "Magic square is NOT valid!"
+msgstr "マジックスクエアは無効です！"
+
+msgid "Thank you for your support!"
+msgstr "ご支援ありがとうございます！"
+
+msgid "Magic Square Widget"
+msgstr "マジックスクエアウィジェット"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "サイトの角にカスタマイズ可能なマジックスクエアジェネレーター（ウィジェット）を追加します。"

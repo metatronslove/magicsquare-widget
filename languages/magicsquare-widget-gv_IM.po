@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Manx <gv_IM>\n"
+"Language: gv-IM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Gheasht"
+
+msgid "Tabled Text"
+msgstr "Text shoh"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Sostyn"
+
+msgid "Square Size:"
+msgstr "Ragh Shtieyshyn:"
+
+msgid "Row Sum:"
+msgstr "Shtieyshyn Ragh:"
+
+msgid "Algorithm:"
+msgstr "Algoritm:"
+
+msgid "Generate"
+msgstr "Genny"
+
+msgid "Rotate"
+msgstr "Ruaght"
+
+msgid "Mirror"
+msgstr "Sgan"
+
+msgid "Output format:"
+msgstr "Oie Tayrshyn:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Taab shoh shoh fo shoghey."
+
+msgid "Box borders:"
+msgstr "Bordyag Bordi:"
+
+msgid "Cell height:"
+msgstr "Sceil Feeshyn:"
+
+msgid "Cell width:"
+msgstr "Sceil Lishyn:"
+
+msgid "Ink color:"
+msgstr "Faght Lagh:"
+
+msgid "Rotation start direction"
+msgstr "Scaghey Ruaghtyn"
+
+msgid "Left (-45°)"
+msgstr "Liosh (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Rhee (+45°)"
+
+msgid "No rotation"
+msgstr "Gilt Ruaght"
+
+msgid "Select a document size:"
+msgstr "Tee yn size dy chionn:"
+
+msgid "Dream sized, contains content"
+msgstr "Shtieyshyn shen, as cheere y choin"
+
+msgid "Magic Square:"
+msgstr "Ragh Cooail:"
+
+msgid "Copy to Clipboard"
+msgstr "Cooill shoh Clipboard"
+
+msgid "Save File"
+msgstr "Shleiey Fayl"
+
+msgid "Use Indian Numbers"
+msgstr "Tee shih Innyish"
+
+msgid "Odd sized (Siamese)"
+msgstr "Shtieyshyn Nhee (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dair shoon (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dair shoon (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Doubly even (Simple exchange)"
+
+msgid "Singly even (Strachey)"
+msgstr "Singly even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Magic Constant:"
+
+msgid "Row"
+msgstr "Row"
+
+msgid "Column"
+msgstr "Column"
+
+msgid "Main Diagonal:"
+msgstr "Main Diagonal:"
+
+msgid "Side Diagonal:"
+msgstr "Side Diagonal:"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Magic square is valid!"
+msgstr "Magic square is valid!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Magic square is NOT valid!"
+
+msgid "Thank you for your support!"
+msgstr "Thank you for your support!"
+
+msgid "Magic Square Widget"
+msgstr "Magic Square Widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."

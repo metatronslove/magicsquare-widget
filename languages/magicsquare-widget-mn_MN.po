@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Mongolian <mn_MN>\n"
+"Language: mn-MN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Tabled Text"
+msgstr "Хүснэгттэй текст"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Дэмжлэг"
+
+msgid "Square Size:"
+msgstr "Квадратын хэмжээ:"
+
+msgid "Row Sum:"
+msgstr "Мөрийн нийлбэр:"
+
+msgid "Algorithm:"
+msgstr "Алгоритм:"
+
+msgid "Generate"
+msgstr "Үүсгэх"
+
+msgid "Rotate"
+msgstr "Хөвгүүлэх"
+
+msgid "Mirror"
+msgstr "Холбох"
+
+msgid "Output format:"
+msgstr "Гаралтын формат:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Хүснэгтүүдийн таб тусгаарлагдсан утгууд."
+
+msgid "Box borders:"
+msgstr "Хүрээний хил:"
+
+msgid "Cell height:"
+msgstr "Клетний өндөр:"
+
+msgid "Cell width:"
+msgstr "Клетний өргөн:"
+
+msgid "Ink color:"
+msgstr "Туш өнгө:"
+
+msgid "Rotation start direction"
+msgstr "Уйлгын эхлэх чиглэл"
+
+msgid "Left (-45°)"
+msgstr "Зүүн (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Баруун (+45°)"
+
+msgid "No rotation"
+msgstr "Уйлгавалгүй"
+
+msgid "Select a document size:"
+msgstr "Баримтын хэмжээг сонгоно уу:"
+
+msgid "Dream sized, contains content"
+msgstr "Агуулгыг агуулах тохирсон хэмжээ"
+
+msgid "Magic Square:"
+msgstr "Байшлах квадрат:"
+
+msgid "Copy to Clipboard"
+msgstr "Clipboard руу хуулбарлах"
+
+msgid "Save File"
+msgstr "Файлыг хадгалах"
+
+msgid "Use Indian Numbers"
+msgstr "Хиндан тоон ашиглах"
+
+msgid "Odd sized (Siamese)"
+msgstr "Тэгш бус (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Хоёр дахин тэгш (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Хоёр дахин тэгш (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Хоёр дахин тэгш (Энгийн солилцоо)"
+
+msgid "Singly even (Strachey)"
+msgstr "Ангийн тэгш (Стрэхей)"
+
+msgid "Magic Constant:"
+msgstr "Магийн Бодлог:"
+
+msgid "Row"
+msgstr "Мөр"
+
+msgid "Column"
+msgstr "Багана"
+
+msgid "Main Diagonal:"
+msgstr "Нэгтэх диагональ:"
+
+msgid "Side Diagonal:"
+msgstr "Хажуугийн диагональ:"
+
+msgid "Total"
+msgstr "Нийт"
+
+msgid "Magic square is valid!"
+msgstr "Магийн квадрат зөв байна!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Магийн квадрат зөв биш байна!"
+
+msgid "Thank you for your support!"
+msgstr "Таны дэмжлэгт баярлалаа!"
+
+msgid "Magic Square Widget"
+msgstr "Магийн квадрат виджет"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Таны сайтад тохируулах боломжтой магийн квадратын генератор (виджет)-ыг "
+"өнцөгт дээр нэмдэг."

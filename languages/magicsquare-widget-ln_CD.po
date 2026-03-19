@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Lingala <ln_CD>\n"
+"Language: ln-CD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Nsele"
+
+msgid "Tabled Text"
+msgstr "Nsele ya Table"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Kobanda"
+
+msgid "Square Size:"
+msgstr "Boye ya Mipeli:"
+
+msgid "Row Sum:"
+msgstr "Sumu ya Moke:"
+
+msgid "Algorithm:"
+msgstr "Alugula:"
+
+msgid "Generate"
+msgstr "Tindula"
+
+msgid "Rotate"
+msgstr "Kobala"
+
+msgid "Mirror"
+msgstr "Kobanda"
+
+msgid "Output format:"
+msgstr "Bimpe ya Format:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Ndeko ya tabu ya spreadsheet."
+
+msgid "Box borders:"
+msgstr "Bimpe ya Box:"
+
+msgid "Cell height:"
+msgstr "Boye ya Cell:"
+
+msgid "Cell width:"
+msgstr "Boye ya Cell:"
+
+msgid "Ink color:"
+msgstr "Bokasi ya Boili:"
+
+msgid "Rotation start direction"
+msgstr "Mikolo ya Kobala"
+
+msgid "Left (-45°)"
+msgstr "Boli (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Nse (+45°)"
+
+msgid "No rotation"
+msgstr "Bokoba"
+
+msgid "Select a document size:"
+msgstr "Sakani Boye ya Document:"
+
+msgid "Dream sized, contains content"
+msgstr "Boyeko ya Ndoki, eza na mazo"
+
+msgid "Magic Square:"
+msgstr "Mipeli ya Nambo:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopala na Clipboard"
+
+msgid "Save File"
+msgstr "Longo Dosi"
+
+msgid "Use Indian Numbers"
+msgstr "Kobanda Bisimika ya India"
+
+msgid "Odd sized (Siamese)"
+msgstr "Bokasi Bongo (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Bokasi Bongo (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Bokasi Bongo (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Doubly even (Simple exchange)"
+
+msgid "Singly even (Strachey)"
+msgstr "Singly even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Konstan ya Magik:"
+
+msgid "Row"
+msgstr "Lili"
+
+msgid "Column"
+msgstr "Kolomu"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal ya Nzela Moini:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonal ya Moko:"
+
+msgid "Total"
+msgstr "Totale"
+
+msgid "Magic square is valid!"
+msgstr "Mavuti ya Magik ezali elongeli!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Mavuti ya Magik ezali te elongeli!"
+
+msgid "Thank you for your support!"
+msgstr "Toxela yo mpo na nzela ya yo!"
+
+msgid "Magic Square Widget"
+msgstr "Widget ya Mavuti ya Magik"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Zola generator ya mavuti ya magik (widget) oyo ezali esengeli kombo na koza "
+"ya sitema na yo."

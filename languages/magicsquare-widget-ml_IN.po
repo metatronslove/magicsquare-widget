@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Malayalam <ml_IN>\n"
+"Language: ml-IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "വാചകം"
+
+msgid "Tabled Text"
+msgstr "ടേബിൾഡ് ടെക്സ്റ്റ്"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "പിന്തുണ"
+
+msgid "Square Size:"
+msgstr "ചതുരം വലുപ്പം:"
+
+msgid "Row Sum:"
+msgstr "നിരയുടെ ആകെ:"
+
+msgid "Algorithm:"
+msgstr "അൽഗോരിതം:"
+
+msgid "Generate"
+msgstr "ഉൽപ്പാദിപ്പിക്കുക"
+
+msgid "Rotate"
+msgstr "തിരിക്കുക"
+
+msgid "Mirror"
+msgstr "പ്രതിഫലിക്കുക"
+
+msgid "Output format:"
+msgstr "ഔട്ട്‌പുട്ട് ഫോർമാറ്റ്:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "സ്പ്രെഡ്ഷീറ്റ്‌ക്കായി ടാബ്-വേർതിരിച്ച മൂല്യങ്ങൾ."
+
+msgid "Box borders:"
+msgstr "ബോക്സ് അതിരുകൾ:"
+
+msgid "Cell height:"
+msgstr "സെൽ ഉയരം:"
+
+msgid "Cell width:"
+msgstr "സെൽ വീതി:"
+
+msgid "Ink color:"
+msgstr "മഷി നിറം:"
+
+msgid "Rotation start direction"
+msgstr "റൊട്ടേഷൻ ആരംഭ ദിശ"
+
+msgid "Left (-45°)"
+msgstr "ഇടത് (-45°)"
+
+msgid "Right (+45°)"
+msgstr "വലത് (+45°)"
+
+msgid "No rotation"
+msgstr "റൊട്ടേഷൻ ഇല്ല"
+
+msgid "Select a document size:"
+msgstr "ഒരു രേഖാ വലിപ്പം തിരഞ്ഞെടുക്കുക:"
+
+msgid "Dream sized, contains content"
+msgstr "സ്വപ്ന വലുപ്പം, ഉള്ളടക്കം അടങ്ങിയ"
+
+msgid "Magic Square:"
+msgstr "മാജിക് സ്ക്വയർ:"
+
+msgid "Copy to Clipboard"
+msgstr "ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തുക"
+
+msgid "Save File"
+msgstr "ഫയൽ സംരക്ഷിക്കുക"
+
+msgid "Use Indian Numbers"
+msgstr "ഇന്ത്യൻ സംഖ്യകൾ ഉപയോഗിക്കുക"
+
+msgid "Odd sized (Siamese)"
+msgstr "ഒറ്റവലുപ്പം (സയാമീസ്)"
+
+msgid "Doubly even (Strachey)"
+msgstr "ഡബിളി ഇവൻ (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "ഡബിളി ഇവൻ (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "ഡബിളി ഇവൻ (സിംപിൾ എക്സ്ചേഞ്ച്)"
+
+msgid "Singly even (Strachey)"
+msgstr "സിംഗ്ലി ഇവൻ (സ്‌ട്രാചി)"
+
+msgid "Magic Constant:"
+msgstr "മാജിക് കോൺസ്റ്റന്റ്:"
+
+msgid "Row"
+msgstr "നിര"
+
+msgid "Column"
+msgstr "സ്തംഭം"
+
+msgid "Main Diagonal:"
+msgstr "പ്രധാന ഡയഗണൽ:"
+
+msgid "Side Diagonal:"
+msgstr "സൈഡ് ഡയഗണൽ:"
+
+msgid "Total"
+msgstr "മൊത്തം"
+
+msgid "Magic square is valid!"
+msgstr "മാജിക് സ്ക്വയർ സാധുവാണ്!"
+
+msgid "Magic square is NOT valid!"
+msgstr "മാജിക് സ്ക്വയർ അസാധുവാണ്!"
+
+msgid "Thank you for your support!"
+msgstr "നിങ്ങളുടെ പിന്തുണയ്ക്ക് നന്ദി!"
+
+msgid "Magic Square Widget"
+msgstr "മാജിക് സ്ക്വയർ വിഡ്ജറ്റ്"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"നിങ്ങളുടെ സൈറ്റിന്റെ കോണിൽ ഇഷ്ടാനുസൃതമാക്കാവുന്ന മാജിക് സ്ക്വയർ ജനറേറ്റർ "
+"(വിഡ്ജറ്റ്) ചേർക്കുന്നു."

@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Kurdish (Kurmanji) <ku_TR>\n"
+"Language: ku-TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Nivîs"
+
+msgid "Tabled Text"
+msgstr "Nivîsarê tabela"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Alîkarî"
+
+msgid "Square Size:"
+msgstr "Mezinahiya kare:"
+
+msgid "Row Sum:"
+msgstr "Topê rêzê:"
+
+msgid "Algorithm:"
+msgstr "Algoritma:"
+
+msgid "Generate"
+msgstr "Çêke"
+
+msgid "Rotate"
+msgstr "Gevre"
+
+msgid "Mirror"
+msgstr "Dîroka"
+
+msgid "Output format:"
+msgstr "Şêwaza Çêkirinê:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Nirxên bi tabê yên bo spreadsheet-an."
+
+msgid "Box borders:"
+msgstr "Sînorên quti:"
+
+msgid "Cell height:"
+msgstr "Bilindahiya qutî:"
+
+msgid "Cell width:"
+msgstr "Dirêjahiya qutî:"
+
+msgid "Ink color:"
+msgstr "Rengê şîfre:"
+
+msgid "Rotation start direction"
+msgstr "Rêveya destpêka gevreyê"
+
+msgid "Left (-45°)"
+msgstr "Çep (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Rast (+45°)"
+
+msgid "No rotation"
+msgstr "Bê gevreyê"
+
+msgid "Select a document size:"
+msgstr "Mezinahiya belgeyê hilbijêre:"
+
+msgid "Dream sized, contains content"
+msgstr "Mezinahiya xewnê, bi naverokê"
+
+msgid "Magic Square:"
+msgstr "Kareya Sihir:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopîkirinê li clipboard-ê"
+
+msgid "Save File"
+msgstr "Pelê save kirin"
+
+msgid "Use Indian Numbers"
+msgstr "Hejmara Hindî bikar bîn"
+
+msgid "Odd sized (Siamese)"
+msgstr "Mezinahiyê neparêz (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Parêzê zêde (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Parêzê zêde (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Çifte cihê (Guhertina Asan)"
+
+msgid "Singly even (Strachey)"
+msgstr "Tek cihê (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Cîhê Gihêz:"
+
+msgid "Row"
+msgstr "Rêze"
+
+msgid "Column"
+msgstr "Sûr"
+
+msgid "Main Diagonal:"
+msgstr "Diagonala Serekî:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonala Parçeyê:"
+
+msgid "Total"
+msgstr "Cîhan"
+
+msgid "Magic square is valid!"
+msgstr "Çarçoveya Gihêzî derbas dibe!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Çarçoveya Gihêzî derbas nabe!"
+
+msgid "Thank you for your support!"
+msgstr "Ji bo alîkariyê te spas dikin!"
+
+msgid "Magic Square Widget"
+msgstr "Pêveka Çarçoveya Gihêzî"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Pêveka çêkerê çarçoveya gihêzî (widget) ku dikare bi awayê xwe taybet bike, "
+"di qirêza malpera te de zêde dike."

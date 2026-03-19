@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Kannada <kn_IN>\n"
+"Language: kn-IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "ಪಠ್ಯ"
+
+msgid "Tabled Text"
+msgstr "ಪಟ್ಟಿ ಪಠ್ಯ"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "ಬೆಂಬಲ"
+
+msgid "Square Size:"
+msgstr "ಚೌಕ ಗಾತ್ರ:"
+
+msgid "Row Sum:"
+msgstr "ಸಾಲು ಮೊತ್ತ:"
+
+msgid "Algorithm:"
+msgstr "ಅಲ್ಗಾರಿಥಮ್:"
+
+msgid "Generate"
+msgstr "ಉತ್ಪಾದಿಸು"
+
+msgid "Rotate"
+msgstr "ತಿರುಗಿಸು"
+
+msgid "Mirror"
+msgstr "ಪ್ರತಿಬಿಂಬಿಸು"
+
+msgid "Output format:"
+msgstr "ಔಟ್‌ಪುಟ್ ಫಾರ್ಮ್ಯಾಟ್:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "ಸ್ಪ್ರೆಡ್‌ಶೀಟ್‌ಗಳಿಗೆ ಟ್ಯಾಬ್-ಅಂತರಿತ ಮೌಲ್ಯಗಳು."
+
+msgid "Box borders:"
+msgstr "ಬಾಕ್ಸ್ ಗಡಿಗಳು:"
+
+msgid "Cell height:"
+msgstr "ಸೆಲ್ ಎತ್ತರ:"
+
+msgid "Cell width:"
+msgstr "ಸೆಲ್ ಅಗಲ:"
+
+msgid "Ink color:"
+msgstr "ಮಸಿ ಬಣ್ಣ:"
+
+msgid "Rotation start direction"
+msgstr "ಭ್ರಮಣ ಆರಂಭದ ದಿಕ್ಕು"
+
+msgid "Left (-45°)"
+msgstr "ಎಡ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "ಬಲ (+45°)"
+
+msgid "No rotation"
+msgstr "ಭ್ರಮಣವಿಲ್ಲ"
+
+msgid "Select a document size:"
+msgstr "ದಾಖಲೆಯ ಗಾತ್ರವನ್ನು ಆಯ್ಕೆಮಾಡಿ:"
+
+msgid "Dream sized, contains content"
+msgstr "ಕನಸಿನ ಗಾತ್ರ, ವಿಷಯ ಹೊಂದಿದೆ"
+
+msgid "Magic Square:"
+msgstr "ಮ್ಯಾಜಿಕ್ ಚೌಕ:"
+
+msgid "Copy to Clipboard"
+msgstr "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಿ"
+
+msgid "Save File"
+msgstr "ಫೈಲ್ ಉಳಿಸಿ"
+
+msgid "Use Indian Numbers"
+msgstr "ಭಾರತೀಯ ಸಂಖ್ಯೆಗಳ ಬಳಕೆ"
+
+msgid "Odd sized (Siamese)"
+msgstr "ಅಸಮ ಗಾತ್ರ (ಸಿಯಾಮೀಸ್)"
+
+msgid "Doubly even (Strachey)"
+msgstr "ದ್ವಿಗುಣ ಸಮ (ಸ್ಟ್ರ್ಯಾಚಿ)"
+
+msgid "Doubly even (Durer)"
+msgstr "ದ್ವಿಗುಣ ಸಮ (ದುರರ್)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "ಡಬಲ್ ಜೋಡಿ (ಸರಳ ವಿನಿಮಯ)"
+
+msgid "Singly even (Strachey)"
+msgstr "ಏಕ ಜೋಡಿ (ಸ್ಟ್ರೇಚಿ)"
+
+msgid "Magic Constant:"
+msgstr "ಮ್ಯಾಜಿಕ್ ಸ್ಥಿರಾಂಕ:"
+
+msgid "Row"
+msgstr "ಸಾಲು"
+
+msgid "Column"
+msgstr "ಸ್ತಂಭ"
+
+msgid "Main Diagonal:"
+msgstr "ಮುಖ್ಯ ದ್ವಿಧಾರ:"
+
+msgid "Side Diagonal:"
+msgstr "ಬದಿಯ ದ್ವಿಧಾರ:"
+
+msgid "Total"
+msgstr "ಒಟ್ಟು"
+
+msgid "Magic square is valid!"
+msgstr "ಮ್ಯಾಜಿಕ್ ಚೌಕ ಮಾನ್ಯವಾಗಿದೆ!"
+
+msgid "Magic square is NOT valid!"
+msgstr "ಮ್ಯಾಜಿಕ್ ಚೌಕ ಅಮಾನ್ಯವಾಗಿದೆ!"
+
+msgid "Thank you for your support!"
+msgstr "ನಿಮ್ಮ ಬೆಂಬಲಕ್ಕೆ ಧನ್ಯವಾದಗಳು!"
+
+msgid "Magic Square Widget"
+msgstr "ಮ್ಯಾಜಿಕ್ ಚೌಕ ವಿಜೆಟ್"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್‌ನ ಮೂಲೆಯಲ್ಲಿ ಕಸ್ಟಮೈಜ್ ಮಾಡಬಹುದಾದ ಮ್ಯಾಜಿಕ್ ಚೌಕ ಉತ್ಪಾದಕ (ವಿಜೆಟ್)"
+" ಅನ್ನು ಸೇರಿಸುತ್ತದೆ."

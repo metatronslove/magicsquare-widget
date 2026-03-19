@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Icelandic <is_IS>\n"
+"Language: is-IS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Texti"
+
+msgid "Tabled Text"
+msgstr "Töfluð texti"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Stuðningur"
+
+msgid "Square Size:"
+msgstr "Kvadratstærð:"
+
+msgid "Row Sum:"
+msgstr "Raðssumma:"
+
+msgid "Algorithm:"
+msgstr "Algóritmi:"
+
+msgid "Generate"
+msgstr "Búa til"
+
+msgid "Rotate"
+msgstr "Snúa"
+
+msgid "Mirror"
+msgstr "Spegla"
+
+msgid "Output format:"
+msgstr "Úttakssnið:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Gildi sem skiptast með skiptingu í dálka fyrir töflur."
+
+msgid "Box borders:"
+msgstr "Reitgráður:"
+
+msgid "Cell height:"
+msgstr "Hæð rits:"
+
+msgid "Cell width:"
+msgstr "Breidd rits:"
+
+msgid "Ink color:"
+msgstr "Lit tækils:"
+
+msgid "Rotation start direction"
+msgstr "Upphafsstefna snúninga"
+
+msgid "Left (-45°)"
+msgstr "Vinstri (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Hægri (+45°)"
+
+msgid "No rotation"
+msgstr "Engin snúningur"
+
+msgid "Select a document size:"
+msgstr "Veldu skjalstærð:"
+
+msgid "Dream sized, contains content"
+msgstr "Draumstærð, inniheldur efni"
+
+msgid "Magic Square:"
+msgstr "Magi kvadrat:"
+
+msgid "Copy to Clipboard"
+msgstr "Afrita á klippiborð"
+
+msgid "Save File"
+msgstr "Vista skrá"
+
+msgid "Use Indian Numbers"
+msgstr "Nota indverska númer"
+
+msgid "Odd sized (Siamese)"
+msgstr "Óregluleg stærð (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Tvífalt jöfn (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Tvífalt jöfn (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Tvítvíg (Einfalt skipt)"
+
+msgid "Singly even (Strachey)"
+msgstr "Einnvís (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Tökuleg föngun:"
+
+msgid "Row"
+msgstr "Röð"
+
+msgid "Column"
+msgstr "Dálkur"
+
+msgid "Main Diagonal:"
+msgstr "Aðal diagonal:"
+
+msgid "Side Diagonal:"
+msgstr "Hliðar diagonal:"
+
+msgid "Total"
+msgstr "Heildar"
+
+msgid "Magic square is valid!"
+msgstr "Trollflötur er gildur!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Trollflötur er ekki gildur!"
+
+msgid "Thank you for your support!"
+msgstr "Takk fyrir stuðninginn!"
+
+msgid "Magic Square Widget"
+msgstr "Trollflotur-verkfæri"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Bætir við sérsniðnu trollflötuskapandi (verkfæri) á horninu á vefsíðunni "
+"þinni."

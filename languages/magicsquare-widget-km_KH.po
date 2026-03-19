@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Khmer <km_KH>\n"
+"Language: km-KH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "អត្ថបទ"
+
+msgid "Tabled Text"
+msgstr "អត្ថបទតារាង"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "គាំទ្រ"
+
+msgid "Square Size:"
+msgstr "ទំហំការេ:"
+
+msgid "Row Sum:"
+msgstr "សរុបជួរ:"
+
+msgid "Algorithm:"
+msgstr "អាល់ហ្គោរីដ:"
+
+msgid "Generate"
+msgstr "បង្កើត"
+
+msgid "Rotate"
+msgstr "បង្វិល"
+
+msgid "Mirror"
+msgstr "សមមាត្រ"
+
+msgid "Output format:"
+msgstr "ទ្រង់ទ្រាយចេញ:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "តម្លៃដែលបំបែកដោយ tab សម្រាប់តារាង"
+
+msgid "Box borders:"
+msgstr "ដែនប្រអប់:"
+
+msgid "Cell height:"
+msgstr "កម្ពស់កោសិកា:"
+
+msgid "Cell width:"
+msgstr "ទទឹងកោសិកា:"
+
+msgid "Ink color:"
+msgstr "ពណ៌បោះពុម្ព:"
+
+msgid "Rotation start direction"
+msgstr "ទិសដៅចាប់ផ្ដើមបង្វិល"
+
+msgid "Left (-45°)"
+msgstr "ឆ្វេង (-45°)"
+
+msgid "Right (+45°)"
+msgstr "ស្ដាំ (+45°)"
+
+msgid "No rotation"
+msgstr "មិនបង្វិល"
+
+msgid "Select a document size:"
+msgstr "ជ្រើសទំហំឯកសារ:"
+
+msgid "Dream sized, contains content"
+msgstr "ទំហំសុបិន, មានមាតិកា"
+
+msgid "Magic Square:"
+msgstr "ការេអស្ចារ្យ:"
+
+msgid "Copy to Clipboard"
+msgstr "ចម្លងទៅក្តារ"
+
+msgid "Save File"
+msgstr "រក្សាទុកឯកសារ"
+
+msgid "Use Indian Numbers"
+msgstr "ប្រើលេខឥណ្ឌា"
+
+msgid "Odd sized (Siamese)"
+msgstr "ទំហំមិនស្មើ (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "ទំហំទ្វេដងស្មើ (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "ទំហំទ្វេដងស្មើ (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "គុណសង្វិលពីរ (ការប្ដូរជាគមន៍ធម្មតា)"
+
+msgid "Singly even (Strachey)"
+msgstr "គុណសង្វិលតែមួយ (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "ថេរអស្ចារ្យ:"
+
+msgid "Row"
+msgstr "ជួរដេក"
+
+msgid "Column"
+msgstr "ជួរឈរ"
+
+msgid "Main Diagonal:"
+msgstr "បន្ទាត់សំខាន់:"
+
+msgid "Side Diagonal:"
+msgstr "បន្ទាត់ខាងក្រោម:"
+
+msgid "Total"
+msgstr "សរុប"
+
+msgid "Magic square is valid!"
+msgstr "ប្រអប់អស្ចារ្យមានត្រឹមត្រូវ!"
+
+msgid "Magic square is NOT valid!"
+msgstr "ប្រអប់អស្ចារ្យមិនមានត្រឹមត្រូវ!"
+
+msgid "Thank you for your support!"
+msgstr "សូមអរគុណចំពោះការគាំទ្រ!"
+
+msgid "Magic Square Widget"
+msgstr "ប្រអប់អស្ចារ្យ (មុខងារ)"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"បន្ថែមកម្មវិធីបង្កើតប្រអប់អស្ចារ្យ (មុខងារ) "
+"ដែលអាចកែសម្រួលបានទៅมุมមួយនៃគេហទំព័ររបស់អ្នក។"

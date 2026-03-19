@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Malagasy <mg_MG>\n"
+"Language: mg-MG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Soratra"
+
+msgid "Tabled Text"
+msgstr "Soratra voatabatra"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Fanohanana"
+
+msgid "Square Size:"
+msgstr "Habe kare:"
+
+msgid "Row Sum:"
+msgstr "Totalin'ny andalana:"
+
+msgid "Algorithm:"
+msgstr "Algorithm:"
+
+msgid "Generate"
+msgstr "Mamorona"
+
+msgid "Rotate"
+msgstr "Mihodina"
+
+msgid "Mirror"
+msgstr "Miara-mijery"
+
+msgid "Output format:"
+msgstr "Endrika fivoahana:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Sandan'ny tabs amin'ny tabilao."
+
+msgid "Box borders:"
+msgstr "Sefandriam-pifidianana"
+
+msgid "Cell height:"
+msgstr "Haavon'ny sela:"
+
+msgid "Cell width:"
+msgstr "Lapan'ny sela:"
+
+msgid "Ink color:"
+msgstr "Loko menaka:"
+
+msgid "Rotation start direction"
+msgstr "Sokajy fanombohan'ny fihodinanana"
+
+msgid "Left (-45°)"
+msgstr "Mijoro havia (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Mijoro ankavanana (+45°)"
+
+msgid "No rotation"
+msgstr "Tsy mihodina"
+
+msgid "Select a document size:"
+msgstr "Safidio ny haben'ny antontan-taratasy:"
+
+msgid "Dream sized, contains content"
+msgstr "Haben'ny noheviadiana, misy votoaty"
+
+msgid "Magic Square:"
+msgstr "Kare mahagaga:"
+
+msgid "Copy to Clipboard"
+msgstr "Adikao amin'ny takelaka kopy"
+
+msgid "Save File"
+msgstr "Tahiry rakitra"
+
+msgid "Use Indian Numbers"
+msgstr "Ampiasao isa Indiana"
+
+msgid "Odd sized (Siamese)"
+msgstr "Habe tsy mirindra (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Taloha roa (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Taloha roa (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Doubly even (Simple exchange)"
+
+msgid "Singly even (Strachey)"
+msgstr "Singly even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Constanti mahagaga:"
+
+msgid "Row"
+msgstr "Andalana"
+
+msgid "Column"
+msgstr "Kolona"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal lehibe:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonal lafy:"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Magic square is valid!"
+msgstr "Ny takelaka mahagaga dia mety!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Ny takelaka mahagaga dia tsy mety!"
+
+msgid "Thank you for your support!"
+msgstr "Misaotra anao amin'ny fanohanana!"
+
+msgid "Magic Square Widget"
+msgstr "Widget takelaka mahagaga"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Manampy mpamorona takelaka mahagaga (widget) azo ovaina amin'ny zoron'ny "
+"tranonkalanao."

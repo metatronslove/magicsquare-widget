@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Macedonian <mk_MK>\n"
+"Language: mk-MK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Tabled Text"
+msgstr "Табулиран текст"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Поддршка"
+
+msgid "Square Size:"
+msgstr "Големина на квадрат:"
+
+msgid "Row Sum:"
+msgstr "Сума на ред:"
+
+msgid "Algorithm:"
+msgstr "Алгоритам:"
+
+msgid "Generate"
+msgstr "Генерирај"
+
+msgid "Rotate"
+msgstr "Ротирај"
+
+msgid "Mirror"
+msgstr "Огледалај"
+
+msgid "Output format:"
+msgstr "Излезен формат:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Табулаторски разделени вредности за табели."
+
+msgid "Box borders:"
+msgstr "Граници на кутијата:"
+
+msgid "Cell height:"
+msgstr "Висина на клетка:"
+
+msgid "Cell width:"
+msgstr "Ширина на клетка:"
+
+msgid "Ink color:"
+msgstr "Боја на мастило:"
+
+msgid "Rotation start direction"
+msgstr "Почетен насок на ротирање"
+
+msgid "Left (-45°)"
+msgstr "Лево (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Десно (+45°)"
+
+msgid "No rotation"
+msgstr "Нема ротирање"
+
+msgid "Select a document size:"
+msgstr "Изберете големина на документот:"
+
+msgid "Dream sized, contains content"
+msgstr "Големина по сном, содржи содржина"
+
+msgid "Magic Square:"
+msgstr "Магичен квадрат:"
+
+msgid "Copy to Clipboard"
+msgstr "Копирај во клипборд"
+
+msgid "Save File"
+msgstr "Зачувај датотека"
+
+msgid "Use Indian Numbers"
+msgstr "Користи индийски бројки"
+
+msgid "Odd sized (Siamese)"
+msgstr "Нечислен големина (Сијамски)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Дупло четен (Стрејчий)"
+
+msgid "Doubly even (Durer)"
+msgstr "Дупло четен (Дурер)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Двоично парен (Једноставна замена)"
+
+msgid "Singly even (Strachey)"
+msgstr "Единично парен (Страхеј)"
+
+msgid "Magic Constant:"
+msgstr "Магична константа:"
+
+msgid "Row"
+msgstr "Ред"
+
+msgid "Column"
+msgstr "Колона"
+
+msgid "Main Diagonal:"
+msgstr "Главна дијагонала:"
+
+msgid "Side Diagonal:"
+msgstr "Бочна дијагонала:"
+
+msgid "Total"
+msgstr "Вкупно"
+
+msgid "Magic square is valid!"
+msgstr "Магичната квадратура е валидна!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Магичната квадратура не е валидна!"
+
+msgid "Thank you for your support!"
+msgstr "Ви благодариме за вашата поддршка!"
+
+msgid "Magic Square Widget"
+msgstr "Магичен квадратурен виџет"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Додава прилагодлив генератор за магични квадратури (виџет) во ќивот на "
+"вашата веб-страница."

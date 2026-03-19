@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Hebrew <he_IL>\n"
+"Language: he-IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "טקסט"
+
+msgid "Tabled Text"
+msgstr "טקסט בטבלה"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "תמיכה"
+
+msgid "Square Size:"
+msgstr "גודל ריבוע:"
+
+msgid "Row Sum:"
+msgstr "סך השורה:"
+
+msgid "Algorithm:"
+msgstr "אלגוריתם:"
+
+msgid "Generate"
+msgstr "צור"
+
+msgid "Rotate"
+msgstr "סובב"
+
+msgid "Mirror"
+msgstr "השתקף"
+
+msgid "Output format:"
+msgstr "פורמט פלט:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "ערכים מופרדים בטאב לגיליונות אלקטרוניים."
+
+msgid "Box borders:"
+msgstr "גבולות תיבה:"
+
+msgid "Cell height:"
+msgstr "גובה תא:"
+
+msgid "Cell width:"
+msgstr "רוחב תא:"
+
+msgid "Ink color:"
+msgstr "צבע דיו:"
+
+msgid "Rotation start direction"
+msgstr "כיוון התחלת סיבוב"
+
+msgid "Left (-45°)"
+msgstr "שמאל (-45°)"
+
+msgid "Right (+45°)"
+msgstr "ימין (+45°)"
+
+msgid "No rotation"
+msgstr "ללא סיבוב"
+
+msgid "Select a document size:"
+msgstr "בחר גודל מסמך:"
+
+msgid "Dream sized, contains content"
+msgstr "גודל חלום, מכיל תוכן"
+
+msgid "Magic Square:"
+msgstr "ריבוע קסם:"
+
+msgid "Copy to Clipboard"
+msgstr "העתק ללוח"
+
+msgid "Save File"
+msgstr "שמור קובץ"
+
+msgid "Use Indian Numbers"
+msgstr "השתמש במספרים הינדי"
+
+msgid "Odd sized (Siamese)"
+msgstr "גודל אי־זוגי (סיאמי)"
+
+msgid "Doubly even (Strachey)"
+msgstr "זוגי כפול (סטראציי)"
+
+msgid "Doubly even (Durer)"
+msgstr "זוגי כפול (דורר)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "זוגי כפול (החלפה פשוטה)"
+
+msgid "Singly even (Strachey)"
+msgstr "זוגי יחיד (סטראצ'י)"
+
+msgid "Magic Constant:"
+msgstr "הקבוע הקסום:"
+
+msgid "Row"
+msgstr "שורה"
+
+msgid "Column"
+msgstr "עמוד"
+
+msgid "Main Diagonal:"
+msgstr "שופע ראשי:"
+
+msgid "Side Diagonal:"
+msgstr "שופע צדדי:"
+
+msgid "Total"
+msgstr "סך הכל"
+
+msgid "Magic square is valid!"
+msgstr "המלחציית הקסם תקינה!"
+
+msgid "Magic square is NOT valid!"
+msgstr "המלחציית הקסם אינה תקינה!"
+
+msgid "Thank you for your support!"
+msgstr "תודה על התמיכה!"
+
+msgid "Magic Square Widget"
+msgstr "ווידג'ט מלחציית הקסם"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "הוספת יוצר מלחציית קסם (ווידג'ט) לזווית האתר שלך."

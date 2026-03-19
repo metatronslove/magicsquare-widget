@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Croatian <hr_HR>\n"
+"Language: hr-HR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Tabled Text"
+msgstr "Tablični tekst"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Podrška"
+
+msgid "Square Size:"
+msgstr "Veličina kvadrata:"
+
+msgid "Row Sum:"
+msgstr "Suma retka:"
+
+msgid "Algorithm:"
+msgstr "Algoritam:"
+
+msgid "Generate"
+msgstr "Generiraj"
+
+msgid "Rotate"
+msgstr "Rotiraj"
+
+msgid "Mirror"
+msgstr "Zrcala"
+
+msgid "Output format:"
+msgstr "Izlazni format:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Vrijednosti odvojene tabulatorima za proračunske tablice."
+
+msgid "Box borders:"
+msgstr "Obrub kutije:"
+
+msgid "Cell height:"
+msgstr "Visina ćelije:"
+
+msgid "Cell width:"
+msgstr "Širina ćelije:"
+
+msgid "Ink color:"
+msgstr "Boja tinte:"
+
+msgid "Rotation start direction"
+msgstr "Smjer početka rotacije"
+
+msgid "Left (-45°)"
+msgstr "Lijevo (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Desno (+45°)"
+
+msgid "No rotation"
+msgstr "Bez rotacije"
+
+msgid "Select a document size:"
+msgstr "Odaberite veličinu dokumenta:"
+
+msgid "Dream sized, contains content"
+msgstr "Veličina snova, sadrži sadržaj"
+
+msgid "Magic Square:"
+msgstr "Čarobni kvadrat:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopiraj u međuspremnik"
+
+msgid "Save File"
+msgstr "Spremi datoteku"
+
+msgid "Use Indian Numbers"
+msgstr "Koristite indijske brojeve"
+
+msgid "Odd sized (Siamese)"
+msgstr "Neparna veličina (Sijamski)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dvostruko paran (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dvostruko paran (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dvostruko parni (Jednostavna zamjena)"
+
+msgid "Singly even (Strachey)"
+msgstr "Jednomparni (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Magična konstanta:"
+
+msgid "Row"
+msgstr "Red"
+
+msgid "Column"
+msgstr "Stupac"
+
+msgid "Main Diagonal:"
+msgstr "Glavna dijagonala:"
+
+msgid "Side Diagonal:"
+msgstr "Bočna dijagonala:"
+
+msgid "Total"
+msgstr "Ukupno"
+
+msgid "Magic square is valid!"
+msgstr "Magični kvadrat je valjan!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Magični kvadrat NIJE valjan!"
+
+msgid "Thank you for your support!"
+msgstr "Hvala na vašoj podršci!"
+
+msgid "Magic Square Widget"
+msgstr "Magijski Kvadrat Widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Dodaje prilagodljiv generator magijskog kvadrata (widget) u kutu vaše "
+"stranice."

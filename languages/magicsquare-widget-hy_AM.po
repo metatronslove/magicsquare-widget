@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Armenian <hy_AM>\n"
+"Language: hy-AM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Տեքստ"
+
+msgid "Tabled Text"
+msgstr "Աղյուսակային տեքստ"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Աջակցություն"
+
+msgid "Square Size:"
+msgstr "Վանդակաչափ:"
+
+msgid "Row Sum:"
+msgstr "Տողի գումար:"
+
+msgid "Algorithm:"
+msgstr "Ալգորիթմ:"
+
+msgid "Generate"
+msgstr "Ստեղծել"
+
+msgid "Rotate"
+msgstr "Պտտել"
+
+msgid "Mirror"
+msgstr "Կրկնապատկել"
+
+msgid "Output format:"
+msgstr "Ելքային ձևաչափ:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Տաբով բաժանված արժեքներ աղյուսակների համար:"
+
+msgid "Box borders:"
+msgstr "Տուփի եզրեր:"
+
+msgid "Cell height:"
+msgstr "Բջջի բարձրությունը:"
+
+msgid "Cell width:"
+msgstr "Բջջի լայնությունը:"
+
+msgid "Ink color:"
+msgstr "Գույն:"
+
+msgid "Rotation start direction"
+msgstr "Պտտման սկիզբի ուղղություն"
+
+msgid "Left (-45°)"
+msgstr "Ձախ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Աջ (+45°)"
+
+msgid "No rotation"
+msgstr "Ոչ պտտում"
+
+msgid "Select a document size:"
+msgstr "Ընտրեք փաստաթղթի չափ:"
+
+msgid "Dream sized, contains content"
+msgstr "Հեքիաթ չափ, պարունակում է բովանդակություն"
+
+msgid "Magic Square:"
+msgstr "Մոգական քառակուսին:"
+
+msgid "Copy to Clipboard"
+msgstr "Պատճենել սեղան-կլիպբորդ"
+
+msgid "Save File"
+msgstr "Պահպանել ֆայլը"
+
+msgid "Use Indian Numbers"
+msgstr "Օգտագործեք Հնդկական թվեր"
+
+msgid "Odd sized (Siamese)"
+msgstr "Odd sized (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Doubly even (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Doubly even (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "երկուական զույգ (Պարզ փոխանակում)"
+
+msgid "Singly even (Strachey)"
+msgstr "միակական զույգ (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "մոգական հաստատուն:"
+
+msgid "Row"
+msgstr "շար"
+
+msgid "Column"
+msgstr "սյուն"
+
+msgid "Main Diagonal:"
+msgstr "Հիմնական անկյունագիծ:"
+
+msgid "Side Diagonal:"
+msgstr "Կողմային անկյունագիծ:"
+
+msgid "Total"
+msgstr "Ընդհանուր"
+
+msgid "Magic square is valid!"
+msgstr "Մոգական քառակուսին վավեր է!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Մոգական քառակուսին վավեր չէ!"
+
+msgid "Thank you for your support!"
+msgstr "Շնորհակալ ենք ձեր աջակցության համար!"
+
+msgid "Magic Square Widget"
+msgstr "Մոգական քառակուսի վիջեթ"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Անհատականացված մոգական քառակուսի գեներատոր (վիջեթ) ավելացնում է ձեր կայքի "
+"անկյունը."

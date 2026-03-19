@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Latin <la_VA>\n"
+"Language: la-VA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Textus"
+
+msgid "Tabled Text"
+msgstr "Textus tabularis"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Auxilium"
+
+msgid "Square Size:"
+msgstr "Magnitudo Quadrati:"
+
+msgid "Row Sum:"
+msgstr "Summus Lineae:"
+
+msgid "Algorithm:"
+msgstr "Algorithmus:"
+
+msgid "Generate"
+msgstr "Genera"
+
+msgid "Rotate"
+msgstr "Rotare"
+
+msgid "Mirror"
+msgstr "Specula"
+
+msgid "Output format:"
+msgstr "Forma Exportandi:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Valora inter tabulas separata pro fasciculis."
+
+msgid "Box borders:"
+msgstr "Bordus Cellae:"
+
+msgid "Cell height:"
+msgstr "Altitudo Cellae:"
+
+msgid "Cell width:"
+msgstr "Latus Cellae:"
+
+msgid "Ink color:"
+msgstr "Color Pennae:"
+
+msgid "Rotation start direction"
+msgstr "Directio Incipii Rotandi"
+
+msgid "Left (-45°)"
+msgstr "Sinistra (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Dextra (+45°)"
+
+msgid "No rotation"
+msgstr "Nulla rotatio"
+
+msgid "Select a document size:"
+msgstr "Elige magnitudem documenti:"
+
+msgid "Dream sized, contains content"
+msgstr "Magnitudo Somni, continens contentum"
+
+msgid "Magic Square:"
+msgstr "Quadratum Mago:"
+
+msgid "Copy to Clipboard"
+msgstr "Copia ad Clipboard"
+
+msgid "Save File"
+msgstr "Salva File"
+
+msgid "Use Indian Numbers"
+msgstr "Utere Numeris Indiens"
+
+msgid "Odd sized (Siamese)"
+msgstr "Impar (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Pari duplex (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Pari duplex (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Bis aequus (commutatio simplex)"
+
+msgid "Singly even (Strachey)"
+msgstr "Unī aequus (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Constans Magica:"
+
+msgid "Row"
+msgstr "Linea"
+
+msgid "Column"
+msgstr "Columna"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal principalis:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonal lateralis:"
+
+msgid "Total"
+msgstr "Totale"
+
+msgid "Magic square is valid!"
+msgstr "Quadratum magicum validum est!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Quadratum magicum NON validum est!"
+
+msgid "Thank you for your support!"
+msgstr "Gratias tibi pro tuo auxilio!"
+
+msgid "Magic Square Widget"
+msgstr "Quadratum magicum modulare"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Addit modulatum generatorem quadrati magici (modulum) in angulo situs tui."

@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Lao <lo_LA>\n"
+"Language: lo-LA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "ຂໍ້ຄວາມ"
+
+msgid "Tabled Text"
+msgstr "ຂໍ້ຄວາມໃນຕາຕະລາງ"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "ກະທົບ"
+
+msgid "Square Size:"
+msgstr "ຂະຫນາດຂອງຕາບ:"
+
+msgid "Row Sum:"
+msgstr "ລວມກອນຕອນ:"
+
+msgid "Algorithm:"
+msgstr "ອັກຣິທັມ:"
+
+msgid "Generate"
+msgstr "ຜະລິດ"
+
+msgid "Rotate"
+msgstr "ໂປດ"
+
+msgid "Mirror"
+msgstr "ສ່ວນຕົວ"
+
+msgid "Output format:"
+msgstr "ໂຮງພິມຂໍ້ມູນ:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "ຂໍ້ມູນທີ່ແບ່ງເວັນໂດຍໂຕແທກເປັນຕາຕະລາງ."
+
+msgid "Box borders:"
+msgstr "ຂ້າງເສັ້ນຕົວຂ່າຍ:"
+
+msgid "Cell height:"
+msgstr "ຄວາມສູງຂອງບັນດາ:"
+
+msgid "Cell width:"
+msgstr "ຄວາມກວ້າງຂອງບັນດາ:"
+
+msgid "Ink color:"
+msgstr "ສີໂກນ:"
+
+msgid "Rotation start direction"
+msgstr "ວິທີເລີ່ມປະຕິທຳ:"
+
+msgid "Left (-45°)"
+msgstr "ຂ້າງ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "ຂ້າງ (+45°)"
+
+msgid "No rotation"
+msgstr "ບໍ່ເພີ່ມປັດ"
+
+msgid "Select a document size:"
+msgstr "ເລືອກຂະຫນາດເອກະສານ:"
+
+msgid "Dream sized, contains content"
+msgstr "ຂະຫນາດຕົນໂດຍກະພາບ, ປະກອບຂໍ້ມູນ"
+
+msgid "Magic Square:"
+msgstr "ຕາບທິດອັບ:"
+
+msgid "Copy to Clipboard"
+msgstr "ສຳເນົາໃສ່ Clipboard"
+
+msgid "Save File"
+msgstr "ບັນທຶກເອກະສານ"
+
+msgid "Use Indian Numbers"
+msgstr "ໃຊ້ເລກອີນດ໌"
+
+msgid "Odd sized (Siamese)"
+msgstr "Odd sized (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Doubly even (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Doubly even (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "ທີ່ດູແຕກ (ການຕ່ອງກ່ອນງ່າຍ)"
+
+msgid "Singly even (Strachey)"
+msgstr "ທີ່ເຫຼືອດຽວ (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "ຕົວຈຳກັດວິທີທີ່ມີມາງຄວາມສົງເວັນ:"
+
+msgid "Row"
+msgstr "ແຕ່ງ"
+
+msgid "Column"
+msgstr "ຖັນ"
+
+msgid "Main Diagonal:"
+msgstr "ທີ່ສະໜັງຕ່າຍທີ່ຫຼັກ:"
+
+msgid "Side Diagonal:"
+msgstr "ທີ່ສະໜັງຕ່າຍທີ່ຂ้าง:"
+
+msgid "Total"
+msgstr "ທັງໝົດ"
+
+msgid "Magic square is valid!"
+msgstr "ກະເສດມີລະດັບດີ!"
+
+msgid "Magic square is NOT valid!"
+msgstr "ກະເສດບໍ່ເປັນລະດັບດີ!"
+
+msgid "Thank you for your support!"
+msgstr "ຂອບໃຈເພື່ອຂອບເມື່ອລົດຕະຫຼາຍ!"
+
+msgid "Magic Square Widget"
+msgstr "ໂຕເທີ່ນກ່ຽວກັບ Magic Square"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"ເພີ່ມໃຊ້ເຄື່ອງຜະລິດພາບການປັບປຸງຄວາມສ່ວນເປັນອັນດີທີ່ໃຊ້ (widget) "
+"ໃນປະເທິງໜ້າເວັບທີ່ເຈັບຂອງທ່ານ."

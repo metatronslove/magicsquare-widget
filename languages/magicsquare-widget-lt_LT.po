@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Lithuanian <lt_LT>\n"
+"Language: lt-LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Tekstas"
+
+msgid "Tabled Text"
+msgstr "Lentelės tekstas"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Pagalba"
+
+msgid "Square Size:"
+msgstr "Kvadrato dydis:"
+
+msgid "Row Sum:"
+msgstr "Eilės suma:"
+
+msgid "Algorithm:"
+msgstr "Algoritmas:"
+
+msgid "Generate"
+msgstr "Generuoti"
+
+msgid "Rotate"
+msgstr "Pasukti"
+
+msgid "Mirror"
+msgstr "Veidrodiškai"
+
+msgid "Output format:"
+msgstr "Išvedimo formatas:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tabuliuotos reikšmės skaičiuoklėms."
+
+msgid "Box borders:"
+msgstr "Kastelių kraštinės:"
+
+msgid "Cell height:"
+msgstr "Langelio aukštis:"
+
+msgid "Cell width:"
+msgstr "Langelio plotis:"
+
+msgid "Ink color:"
+msgstr "Rašalo spalva:"
+
+msgid "Rotation start direction"
+msgstr "Pasukimo pradžios kryptis"
+
+msgid "Left (-45°)"
+msgstr "Kairė (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Dešinė (+45°)"
+
+msgid "No rotation"
+msgstr "Jokio pasukimo"
+
+msgid "Select a document size:"
+msgstr "Pasirinkite dokumento dydį:"
+
+msgid "Dream sized, contains content"
+msgstr "Svajonių dydis, apimantis turinį"
+
+msgid "Magic Square:"
+msgstr "Magijos kvadratas:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopijuoti į iškarpinę"
+
+msgid "Save File"
+msgstr "Įrašyti failą"
+
+msgid "Use Indian Numbers"
+msgstr "Naudoti Indų skaičius"
+
+msgid "Odd sized (Siamese)"
+msgstr "Nelyginis dydis (Siamai)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dvigubai lygus (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dvigubai lygus (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dvigubai lygiai (paprastas mainymas)"
+
+msgid "Singly even (Strachey)"
+msgstr "Vienkartinis lygiai (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Magiška konstanta:"
+
+msgid "Row"
+msgstr "Eilutė"
+
+msgid "Column"
+msgstr "Stulpelis"
+
+msgid "Main Diagonal:"
+msgstr "Pagrindinė diagonali:"
+
+msgid "Side Diagonal:"
+msgstr "Šoninė diagonali:"
+
+msgid "Total"
+msgstr "Iš viso"
+
+msgid "Magic square is valid!"
+msgstr "Magiškas kvadratas yra galiojantis!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Magiškas kvadratas NĖRA galiojantis!"
+
+msgid "Thank you for your support!"
+msgstr "Ačiū už jūsų paramą!"
+
+msgid "Magic Square Widget"
+msgstr "Magiško kvadrato valdiklis"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Prideda pritaikytą magiško kvadrato generatorių (valdiklį) prie jūsų "
+"svetainės kampo."

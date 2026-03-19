@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Latvian <lv_LV>\n"
+"Language: lv-LV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Teksts"
+
+msgid "Tabled Text"
+msgstr "Tabulēts teksts"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Atbalsts"
+
+msgid "Square Size:"
+msgstr "Kvadrāta izmērs:"
+
+msgid "Row Sum:"
+msgstr "Rindas summa:"
+
+msgid "Algorithm:"
+msgstr "Algoritms:"
+
+msgid "Generate"
+msgstr "Ģenerēt"
+
+msgid "Rotate"
+msgstr "Pagriezt"
+
+msgid "Mirror"
+msgstr "Spiegullēt"
+
+msgid "Output format:"
+msgstr "Izvades formāts:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Kablela atdalītie vērtības lapas darbam."
+
+msgid "Box borders:"
+msgstr "Kastes robežas:"
+
+msgid "Cell height:"
+msgstr "Šūnas augstums:"
+
+msgid "Cell width:"
+msgstr "Šūnas platums:"
+
+msgid "Ink color:"
+msgstr "Tampu krāsa:"
+
+msgid "Rotation start direction"
+msgstr "Pagriešanas sākuma virziens"
+
+msgid "Left (-45°)"
+msgstr "Pa kreisi (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Pa labi (+45°)"
+
+msgid "No rotation"
+msgstr "Bez pagriešanas"
+
+msgid "Select a document size:"
+msgstr "Izvēlieties dokumenta izmēru:"
+
+msgid "Dream sized, contains content"
+msgstr "Sapņu izmērs, satur saturs"
+
+msgid "Magic Square:"
+msgstr "Magiķiskā kvadrāts:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopēt uz starpliktuvi"
+
+msgid "Save File"
+msgstr "Saglabāt failu"
+
+msgid "Use Indian Numbers"
+msgstr "Izmantot Indijas numurus"
+
+msgid "Odd sized (Siamese)"
+msgstr "Neapakāra izmērs (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dubultapakāra (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dubultapakāra (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dubultpāra (Vienkāršs apmaiņa)"
+
+msgid "Singly even (Strachey)"
+msgstr "Vienpāra (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Magiķiskā konstante:"
+
+msgid "Row"
+msgstr "Rinda"
+
+msgid "Column"
+msgstr "Kolonna"
+
+msgid "Main Diagonal:"
+msgstr "Galvenais diagonāls:"
+
+msgid "Side Diagonal:"
+msgstr "Kārtējais diagonāls:"
+
+msgid "Total"
+msgstr "Kopā"
+
+msgid "Magic square is valid!"
+msgstr "Magiķiskā kvadrāta ir derīgs!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Magiķiskā kvadrāta nav derīgs!"
+
+msgid "Thank you for your support!"
+msgstr "Paldies par jūsu atbalstu!"
+
+msgid "Magic Square Widget"
+msgstr "Magiķiskā kvadrāta logriks"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Pievieno pielāgojamu magiķiskā kvadrāta ģenerētāju (logriku) jūsu vietnes "
+"stūrī."

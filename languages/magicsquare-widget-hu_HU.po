@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Hungarian <hu_HU>\n"
+"Language: hu-HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Szöveg"
+
+msgid "Tabled Text"
+msgstr "Táblázott szöveg"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Támogatás"
+
+msgid "Square Size:"
+msgstr "Négyzet mérete:"
+
+msgid "Row Sum:"
+msgstr "Sor összege:"
+
+msgid "Algorithm:"
+msgstr "Algoritmus:"
+
+msgid "Generate"
+msgstr "Generál"
+
+msgid "Rotate"
+msgstr "Forgatás"
+
+msgid "Mirror"
+msgstr "Tükrözés"
+
+msgid "Output format:"
+msgstr "Kimeneti formátum:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tabulátorral elválasztott értékek táblázatkezelő programokhoz."
+
+msgid "Box borders:"
+msgstr "Doboz szegélyei:"
+
+msgid "Cell height:"
+msgstr "Cella magassága:"
+
+msgid "Cell width:"
+msgstr "Cella szélessége:"
+
+msgid "Ink color:"
+msgstr "Toll színe:"
+
+msgid "Rotation start direction"
+msgstr "Forgatás kezdő irány"
+
+msgid "Left (-45°)"
+msgstr "Bal (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Jobb (+45°)"
+
+msgid "No rotation"
+msgstr "Nincs forgatás"
+
+msgid "Select a document size:"
+msgstr "Válasszon dokumentumméretet:"
+
+msgid "Dream sized, contains content"
+msgstr "Álomméretű, tartalmazza a tartalmat"
+
+msgid "Magic Square:"
+msgstr "Mágikus négyzet:"
+
+msgid "Copy to Clipboard"
+msgstr "Másolás a vágólapra"
+
+msgid "Save File"
+msgstr "Fájl mentése"
+
+msgid "Use Indian Numbers"
+msgstr "Indiai számok használata"
+
+msgid "Odd sized (Siamese)"
+msgstr "Páratlan méretű (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Kétszer páros (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Kétszer páros (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Kettős páros (egyszerű csere)"
+
+msgid "Singly even (Strachey)"
+msgstr "Egyszerű páros (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Varázs konstans:"
+
+msgid "Row"
+msgstr "Sor"
+
+msgid "Column"
+msgstr "Oszlop"
+
+msgid "Main Diagonal:"
+msgstr "Fő átló:"
+
+msgid "Side Diagonal:"
+msgstr "Oldalsó átló:"
+
+msgid "Total"
+msgstr "Összesen"
+
+msgid "Magic square is valid!"
+msgstr "A varázsnégyzet érvényes!"
+
+msgid "Magic square is NOT valid!"
+msgstr "A varázsnégyzet NEM érvényes!"
+
+msgid "Thank you for your support!"
+msgstr "Köszönjük a támogatását!"
+
+msgid "Magic Square Widget"
+msgstr "Varázsnégyzet Widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Hozzáad egy testreszabható varázsnégyzet-generátort (widgetet) a webhelye "
+"sarkához."

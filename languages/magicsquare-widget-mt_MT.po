@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Maltese <mt_MT>\n"
+"Language: mt-MT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Test"
+
+msgid "Tabled Text"
+msgstr "Test Tabellat"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Sopport"
+
+msgid "Square Size:"
+msgstr "Dimensjoni tal-kwadrat:"
+
+msgid "Row Sum:"
+msgstr "Somma tal-linja:"
+
+msgid "Algorithm:"
+msgstr "Algoritmu:"
+
+msgid "Generate"
+msgstr "Ġeneraj"
+
+msgid "Rotate"
+msgstr "Rota"
+
+msgid "Mirror"
+msgstr "Miri"
+
+msgid "Output format:"
+msgstr "Formato tal-output:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Valuri separati bil-tab għal spreadsheet."
+
+msgid "Box borders:"
+msgstr "Borri tal-boksa:"
+
+msgid "Cell height:"
+msgstr "Altuż tal-ċellula:"
+
+msgid "Cell width:"
+msgstr "Ħżiena tal-ċellula:"
+
+msgid "Ink color:"
+msgstr "Kulur tat-tinta:"
+
+msgid "Rotation start direction"
+msgstr "Direzzjoni ta’ l-iftielt tal-rotazzjoni"
+
+msgid "Left (-45°)"
+msgstr "Ħtief (-45°)"
+
+msgid "Right (+45°)"
+msgstr "t-aktar (+45°)"
+
+msgid "No rotation"
+msgstr "Mhux rotazzjoni"
+
+msgid "Select a document size:"
+msgstr "Agħżel dimension tal-dokument:"
+
+msgid "Dream sized, contains content"
+msgstr "Dimensjoni ta’ soif, fih kontenut"
+
+msgid "Magic Square:"
+msgstr "Kwadrat Maġiku:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopja fil-clipboard"
+
+msgid "Save File"
+msgstr "Ħlief il-fajl"
+
+msgid "Use Indian Numbers"
+msgstr "Uża nummri indjani"
+
+msgid "Odd sized (Siamese)"
+msgstr "Dimensjoni tal-impar (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dimensjoni t-twella (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dimensjoni t-twella (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dubli ġedda (Ħruġ sempliċi)"
+
+msgid "Singly even (Strachey)"
+msgstr "Jedda ġedda (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Konstant magju:"
+
+msgid "Row"
+msgstr "Riga"
+
+msgid "Column"
+msgstr "Kolonna"
+
+msgid "Main Diagonal:"
+msgstr "Diagonali prinċipali:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonali segonda:"
+
+msgid "Total"
+msgstr "Ċumlu"
+
+msgid "Magic square is valid!"
+msgstr "Il-qariġ magju huwa validu!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Il-qariġ magju m'għandux validu!"
+
+msgid "Thank you for your support!"
+msgstr "Grazzi għall-appoġġ tiegħek!"
+
+msgid "Magic Square Widget"
+msgstr "Widget ta' Qariġ Magju"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Żid ġeneratur ta' qariġ magju personalizzabbli (widget) fil-ponta tal-"
+"website tiegħek."

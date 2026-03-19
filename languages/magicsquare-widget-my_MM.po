@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Burmese <my_MM>\n"
+"Language: my-MM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "စာသား"
+
+msgid "Tabled Text"
+msgstr "ဇယားစာသား"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "ထောက်ပံ့"
+
+msgid "Square Size:"
+msgstr "တန်းတူအရွယ်အစား:"
+
+msgid "Row Sum:"
+msgstr "အတန်းစုစုပေါင်း:"
+
+msgid "Algorithm:"
+msgstr "အယ်လို့ရီသံ:"
+
+msgid "Generate"
+msgstr "ဖန်တီး"
+
+msgid "Rotate"
+msgstr "လှည့်"
+
+msgid "Mirror"
+msgstr "တစ်ထပ်ပြန်"
+
+msgid "Output format:"
+msgstr "ထုတ်လွှင့်ပုံစံ:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tab ဖြင့်ခွဲထားသော Spreadsheet များအတွက်"
+
+msgid "Box borders:"
+msgstr "အကွက်နယ်များ:"
+
+msgid "Cell height:"
+msgstr "ကော်လံအမြင့်:"
+
+msgid "Cell width:"
+msgstr "ကော်လံအကျယ်:"
+
+msgid "Ink color:"
+msgstr "အသားအရောင်:"
+
+msgid "Rotation start direction"
+msgstr "လှည့်မူစတင်သွားတဲ့ ဦးတည်ချက်"
+
+msgid "Left (-45°)"
+msgstr "ဘယ် (-၄၅°)"
+
+msgid "Right (+45°)"
+msgstr "ညာ (+၄၅°)"
+
+msgid "No rotation"
+msgstr "လှည့်မရှိပါ"
+
+msgid "Select a document size:"
+msgstr "စာရွက်အရွယ်အစားရွေးချယ်ပါ:"
+
+msgid "Dream sized, contains content"
+msgstr "အိပ်မက်အရွယ်၊ အကြောင်းအရာပါဝင်သည်"
+
+msgid "Magic Square:"
+msgstr "မိုဟာဂိုဏ်း:"
+
+msgid "Copy to Clipboard"
+msgstr "ကလิปဘုတ်သို့ကူးယူပါ"
+
+msgid "Save File"
+msgstr "ဖိုင်သိမ်းဆည်းပါ"
+
+msgid "Use Indian Numbers"
+msgstr "အိန္ဒိယအရေအတွက်အသုံးပြုပါ"
+
+msgid "Odd sized (Siamese)"
+msgstr "မတူညီသော (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "နှစ်တန်း (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "နှစ်တန်း (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "တစ်သက်တစ်ဖက် (အလွယ်တကူ သွယ်လဲ)"
+
+msgid "Singly even (Strachey)"
+msgstr "တစ်ခုတည်းတစ်ဆ (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "မဟာကွက် တန်ဖိုး:"
+
+msgid "Row"
+msgstr "လိုင်း"
+
+msgid "Column"
+msgstr "ကော်လံ"
+
+msgid "Main Diagonal:"
+msgstr "အဓိက သင်္ကေတ:"
+
+msgid "Side Diagonal:"
+msgstr "ဘေး သင်္ကေတ:"
+
+msgid "Total"
+msgstr "စုစုပေါင်း"
+
+msgid "Magic square is valid!"
+msgstr "မဟာကွက် တည်သေသည်!"
+
+msgid "Magic square is NOT valid!"
+msgstr "မဟာကွက် တည်မသေပါ!"
+
+msgid "Thank you for your support!"
+msgstr "သင်၏ထောက်ပံ့မှုအတွက် ကျေးဇူးတင်ပါတယ်!"
+
+msgid "Magic Square Widget"
+msgstr "မဟာကွက် Widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"သင်၏ဝက်ဘ်ဆိုက်၏မุมန်တစ်ဆိုင်ကာ အစိတ်အပိုင်းအနေဖြင့် သင့်အတွက် "
+"ပြုစုပြင်ဆင်နိုင်သော မဟာကွက်ထုတ်လုပ်ရေး (widget) ကိုထပ်တိုးသည်။"
