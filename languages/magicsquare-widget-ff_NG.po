@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Fulah <ff_NG>\n"
+"Language: ff-NG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Teksti"
+
+msgid "Tabled Text"
+msgstr "Teksti ɗum tabbal"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Sopport"
+
+msgid "Square Size:"
+msgstr "Mawɗo Gollal:"
+
+msgid "Row Sum:"
+msgstr "Hitaande Nder:"
+
+msgid "Algorithm:"
+msgstr "Algoritam:"
+
+msgid "Generate"
+msgstr "Jumde"
+
+msgid "Rotate"
+msgstr "Rotirɗe"
+
+msgid "Mirror"
+msgstr "Mirirɗe"
+
+msgid "Output format:"
+msgstr "Formaatu Fowru:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Yiyde ngol tabbere e nguurndam."
+
+msgid "Box borders:"
+msgstr "Bordir Gollal:"
+
+msgid "Cell height:"
+msgstr "Koppi Cell:"
+
+msgid "Cell width:"
+msgstr "Gollal Cell:"
+
+msgid "Ink color:"
+msgstr "Cijjam ndiyam:"
+
+msgid "Rotation start direction"
+msgstr "Yeyri laawol lode"
+
+msgid "Left (-45°)"
+msgstr "Lewru (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Joomɗo (+45°)"
+
+msgid "No rotation"
+msgstr "Ala lode"
+
+msgid "Select a document size:"
+msgstr "Yeesi mawɗo leydi:"
+
+msgid "Dream sized, contains content"
+msgstr "Mawɗo dumde e hokkugo e nder"
+
+msgid "Magic Square:"
+msgstr "Gollal Bammba:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopi e Clipboard"
+
+msgid "Save File"
+msgstr "Sali fayla"
+
+msgid "Use Indian Numbers"
+msgstr "Wullude Nombere Indiyaa"
+
+msgid "Odd sized (Siamese)"
+msgstr "Mawɗo ngun (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Mawɗo mawɗo (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Mawɗo mawɗo (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Doubly even (Simple exchange)"
+
+msgid "Singly even (Strachey)"
+msgstr "Singly even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Konstan Jangirde:"
+
+msgid "Row"
+msgstr "Ruu"
+
+msgid "Column"
+msgstr "Kolom"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal Hokkoy:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonale Ɓey:"
+
+msgid "Total"
+msgstr "Jumma"
+
+msgid "Magic square is valid!"
+msgstr "Wujju ɗee ɗiɗi e nder!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Wujju ɗee ɗiɗi e nder ko wondi!"
+
+msgid "Thank you for your support!"
+msgstr "Jooɗii e jamma!"
+
+msgid "Magic Square Widget"
+msgstr "Wurtiinde Magic Square"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "Ɗaɗii e ngoodi wondude wujju ɗee (widget) e juulirde ma."

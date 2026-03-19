@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: French (Belgium) <fr_BE>\n"
+"Language: fr-BE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "Tabled Text"
+msgstr "Texte Tabulé"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Assistance"
+
+msgid "Square Size:"
+msgstr "Taille du carré:"
+
+msgid "Row Sum:"
+msgstr "Somme de la ligne:"
+
+msgid "Algorithm:"
+msgstr "Algorithme:"
+
+msgid "Generate"
+msgstr "Générer"
+
+msgid "Rotate"
+msgstr "Pivoter"
+
+msgid "Mirror"
+msgstr "Miroir"
+
+msgid "Output format:"
+msgstr "Format de sortie:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Valeurs séparées par des tabulations pour les feuilles de calcul."
+
+msgid "Box borders:"
+msgstr "Bordures de la boîte:"
+
+msgid "Cell height:"
+msgstr "Hauteur de la cellule:"
+
+msgid "Cell width:"
+msgstr "Largeur de la cellule:"
+
+msgid "Ink color:"
+msgstr "Couleur de l'encre:"
+
+msgid "Rotation start direction"
+msgstr "Direction de départ de la rotation"
+
+msgid "Left (-45°)"
+msgstr "Gauche (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Droite (+45°)"
+
+msgid "No rotation"
+msgstr "Pas de rotation"
+
+msgid "Select a document size:"
+msgstr "Sélectionnez une taille de document:"
+
+msgid "Dream sized, contains content"
+msgstr "Taille de rêve, contient le contenu"
+
+msgid "Magic Square:"
+msgstr "Carré magique:"
+
+msgid "Copy to Clipboard"
+msgstr "Copier dans le presse-papiers"
+
+msgid "Save File"
+msgstr "Enregistrer le fichier"
+
+msgid "Use Indian Numbers"
+msgstr "Utiliser les chiffres indiens"
+
+msgid "Odd sized (Siamese)"
+msgstr "Impaire (Siamais)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Pair double (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Pair double (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "pair double (Échange simple)"
+
+msgid "Singly even (Strachey)"
+msgstr "pair simple (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Constante magique:"
+
+msgid "Row"
+msgstr "Ligne"
+
+msgid "Column"
+msgstr "Colonne"
+
+msgid "Main Diagonal:"
+msgstr "Diagonale principale:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonale latérale:"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Magic square is valid!"
+msgstr "Le carré magique est valide !"
+
+msgid "Magic square is NOT valid!"
+msgstr "Le carré magique n'est PAS valide !"
+
+msgid "Thank you for your support!"
+msgstr "Merci pour votre soutien !"
+
+msgid "Magic Square Widget"
+msgstr "Widget Carré Magique"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Ajoute un générateur de carré magique personnalisable (widget) dans le coin "
+"de votre site."

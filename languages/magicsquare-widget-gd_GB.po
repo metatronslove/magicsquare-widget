@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Scottish Gaelic <gd_GB>\n"
+"Language: gd-GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Teacsa"
+
+msgid "Tabled Text"
+msgstr "Teacsa a’ chùta"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Taic"
+
+msgid "Square Size:"
+msgstr "Meud na sgàirde:"
+
+msgid "Row Sum:"
+msgstr "Somhair na ràgh:"
+
+msgid "Algorithm:"
+msgstr "Algairim:"
+
+msgid "Generate"
+msgstr "Cruthaich"
+
+msgid "Rotate"
+msgstr "Cuairtich"
+
+msgid "Mirror"
+msgstr "Macairich"
+
+msgid "Output format:"
+msgstr "Foirm às-chuir:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Àgraidhean co-dhùnadh le teibheann airson speòrsair."
+
+msgid "Box borders:"
+msgstr "Iomallan na bhosca:"
+
+msgid "Cell height:"
+msgstr "Àirde na cille:"
+
+msgid "Cell width:"
+msgstr "Leud na cille:"
+
+msgid "Ink color:"
+msgstr "Dath an innich:"
+
+msgid "Rotation start direction"
+msgstr "Comhair tòiseachaidh air cuairt"
+
+msgid "Left (-45°)"
+msgstr "Clì (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Deas (+45°)"
+
+msgid "No rotation"
+msgstr "Gun cuairt"
+
+msgid "Select a document size:"
+msgstr "Tagh meud a’ sgrìobhte:"
+
+msgid "Dream sized, contains content"
+msgstr "Meud nam brèige, a’ gabhail a-steach susbhas"
+
+msgid "Magic Square:"
+msgstr "Sgàir mhairteach:"
+
+msgid "Copy to Clipboard"
+msgstr "Cuir air a’ chlàr-chuimhne"
+
+msgid "Save File"
+msgstr "Sàbhail faidhle"
+
+msgid "Use Indian Numbers"
+msgstr "Cleachd àireamhan India"
+
+msgid "Odd sized (Siamese)"
+msgstr "Meud òm (Siamais)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dubailte co-chòir (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dubailte co-chòir (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dubhaltach dualach (Aithisg simplidh)"
+
+msgid "Singly even (Strachey)"
+msgstr "Dubhaltach aonair (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Cothromachd draoidheil:"
+
+msgid "Row"
+msgstr "Rèir"
+
+msgid "Column"
+msgstr "Colum"
+
+msgid "Main Diagonal:"
+msgstr "Dèanadal mhòr:"
+
+msgid "Side Diagonal:"
+msgstr "Dèanadal taobh:"
+
+msgid "Total"
+msgstr "Iomlan"
+
+msgid "Magic square is valid!"
+msgstr "Tha am cànan draoidheil dligheach!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Tha am cànan draoidheil gun dligheach!"
+
+msgid "Thank you for your support!"
+msgstr "Taing airson do chuideachadh!"
+
+msgid "Magic Square Widget"
+msgstr "Widget Cànan draoidheil"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Cuiridh e gineadair cànan draoidheil (widget) gnàmhail dhan bhuaidh de do "
+"làraich."

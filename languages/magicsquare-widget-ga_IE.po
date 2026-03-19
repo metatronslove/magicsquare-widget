@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Irish <ga_IE>\n"
+"Language: ga-IE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Téacs"
+
+msgid "Tabled Text"
+msgstr "Téacs Tábla"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Tacaíocht"
+
+msgid "Square Size:"
+msgstr "Méid na sgíre:"
+
+msgid "Row Sum:"
+msgstr "Cúmha réil:"
+
+msgid "Algorithm:"
+msgstr "Algartim:"
+
+msgid "Generate"
+msgstr "Cruthaigh"
+
+msgid "Rotate"
+msgstr "Rothaigh"
+
+msgid "Mirror"
+msgstr "Mirrigh"
+
+msgid "Output format:"
+msgstr "Formáid aschuir:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Luachanna scartáilte le rót don na dclóibíní."
+
+msgid "Box borders:"
+msgstr "Iarmhairtí na bhoscaí:"
+
+msgid "Cell height:"
+msgstr "Airde na gcailli:"
+
+msgid "Cell width:"
+msgstr "Leithead na gcailli:"
+
+msgid "Ink color:"
+msgstr "Dath an dhocht:"
+
+msgid "Rotation start direction"
+msgstr "Treo tosaigh rothlú"
+
+msgid "Left (-45°)"
+msgstr "Clé (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Deas (+45°)"
+
+msgid "No rotation"
+msgstr "Gan rothlú"
+
+msgid "Select a document size:"
+msgstr "Roghnaigh méid an cháipéis:"
+
+msgid "Dream sized, contains content"
+msgstr "Méid an Bréag, ina bhfuil ábhar."
+
+msgid "Magic Square:"
+msgstr "Céadar Draíochta:"
+
+msgid "Copy to Clipboard"
+msgstr "Cóipeáil go Gluaisbhlaist"
+
+msgid "Save File"
+msgstr "Sábháil comhad"
+
+msgid "Use Indian Numbers"
+msgstr "Úsáid Uimhreacha na hIndia"
+
+msgid "Odd sized (Siamese)"
+msgstr "Méid Inod (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Méid Dhualach (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Méid Dhualach (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dúblach cothaithe (Aistriú simplí)"
+
+msgid "Singly even (Strachey)"
+msgstr "Cothaithe aonrach (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Constanta Draíochta:"
+
+msgid "Row"
+msgstr "Ró"
+
+msgid "Column"
+msgstr "Colún"
+
+msgid "Main Diagonal:"
+msgstr "Diaidigh Neamhchinn:"
+
+msgid "Side Diagonal:"
+msgstr "Diaidigh Aillt:"
+
+msgid "Total"
+msgstr "Totál"
+
+msgid "Magic square is valid!"
+msgstr "Tá an cearnóg draíochta bailí!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Ní bhailí an cearnóg draíochta!"
+
+msgid "Thank you for your support!"
+msgstr "Go raibh maith agat as do thacaíocht!"
+
+msgid "Magic Square Widget"
+msgstr "Gné Cearnóg Draíochta"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Cuirtear giniúint caighdeánaithe cearnóg draíochta (gné) leis an cornam den "
+"suíomh."

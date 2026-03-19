@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Greek (Cyprus) <el_CY>\n"
+"Language: el-CY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Κείμενο"
+
+msgid "Tabled Text"
+msgstr "Πίνακας κειμένου"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Υποστήριξη"
+
+msgid "Square Size:"
+msgstr "Μέγεθος Τετραγώνου:"
+
+msgid "Row Sum:"
+msgstr "Άθροισμα Γραμμής:"
+
+msgid "Algorithm:"
+msgstr "Αλγόριθμος:"
+
+msgid "Generate"
+msgstr "Δημιουργία"
+
+msgid "Rotate"
+msgstr "Περιστροφή"
+
+msgid "Mirror"
+msgstr "Καθρέφτης"
+
+msgid "Output format:"
+msgstr "Μορφή εξόδου:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Τιμές διαχωρισμένες με tab για υπολογιστικά φύλλα."
+
+msgid "Box borders:"
+msgstr "Περίγραμμα κουτιού:"
+
+msgid "Cell height:"
+msgstr "Ύψος κελιού:"
+
+msgid "Cell width:"
+msgstr "Πλάτος κελιού:"
+
+msgid "Ink color:"
+msgstr "Χρώμα μελάνης:"
+
+msgid "Rotation start direction"
+msgstr "Κατεύθυνση εκκίνησης περιστροφής"
+
+msgid "Left (-45°)"
+msgstr "Αριστερά (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Δεξιά (+45°)"
+
+msgid "No rotation"
+msgstr "Χωρίς περιστροφή"
+
+msgid "Select a document size:"
+msgstr "Επιλέξτε μέγεθος εγγράφου:"
+
+msgid "Dream sized, contains content"
+msgstr "Με μέγεθος όνειρου, περιέχει περιεχόμενο"
+
+msgid "Magic Square:"
+msgstr "Μαγικό Τετράγωνο:"
+
+msgid "Copy to Clipboard"
+msgstr "Αντιγραφή στο πρόχειρο"
+
+msgid "Save File"
+msgstr "Αποθήκευση Αρχείου"
+
+msgid "Use Indian Numbers"
+msgstr "Χρήση Ινδικών Αριθμών"
+
+msgid "Odd sized (Siamese)"
+msgstr "Αρτιομετρική (Σιαμική)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Διπλά τετράπλο (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Διπλά τετράπλο (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Διπλά ζυγός (Απλή ανταλλαγή)"
+
+msgid "Singly even (Strachey)"
+msgstr "Ενιαίος ζυγός (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Μαγική Σταθερά:"
+
+msgid "Row"
+msgstr "Σειρά"
+
+msgid "Column"
+msgstr "Στήλη"
+
+msgid "Main Diagonal:"
+msgstr "Κύρια Διαγώνιος:"
+
+msgid "Side Diagonal:"
+msgstr "Πλευρική Διαγώνιος:"
+
+msgid "Total"
+msgstr "Σύνολο"
+
+msgid "Magic square is valid!"
+msgstr "Το μαγικό τετράγωνο είναι έγκυρο!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Το μαγικό τετράγωνο δεν είναι έγκυρο!"
+
+msgid "Thank you for your support!"
+msgstr "Ευχαριστούμε για την υποστήριξή σας!"
+
+msgid "Magic Square Widget"
+msgstr "Μαγικό Τετράγωνο Widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Προσθέτει έναν προσαρμόσιμο γεννήτορα μαγικού τετραγώνου (widget) στη γωνία "
+"της ιστοσελίδας σας."

@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Western Frisian <fy_NL>\n"
+"Language: fy-NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Tabled Text"
+msgstr "Tabeltekst"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Stipe"
+
+msgid "Square Size:"
+msgstr "Kwadratgrutte:"
+
+msgid "Row Sum:"
+msgstr "Rijsum:"
+
+msgid "Algorithm:"
+msgstr "Algoritme:"
+
+msgid "Generate"
+msgstr "Generearje"
+
+msgid "Rotate"
+msgstr "Rotearje"
+
+msgid "Mirror"
+msgstr "Spiegelje"
+
+msgid "Output format:"
+msgstr "Utjouwsformaat:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tab-ôfstjoerde wearden foar spreadsheets."
+
+msgid "Box borders:"
+msgstr "Râne:"
+
+msgid "Cell height:"
+msgstr "Celle-heit:"
+
+msgid "Cell width:"
+msgstr "Cellebreedte:"
+
+msgid "Ink color:"
+msgstr "Inktkleur:"
+
+msgid "Rotation start direction"
+msgstr "Roteasje begjinrjochting"
+
+msgid "Left (-45°)"
+msgstr "Links (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Rjochts (+45°)"
+
+msgid "No rotation"
+msgstr "Gjin rotes"
+
+msgid "Select a document size:"
+msgstr "Selektearje in dokumintgrutte:"
+
+msgid "Dream sized, contains content"
+msgstr "Droomgrutte, befettet ynhâld"
+
+msgid "Magic Square:"
+msgstr "Magyske kwadrate:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopiearje nei klembord"
+
+msgid "Save File"
+msgstr "Bewarje bestân"
+
+msgid "Use Indian Numbers"
+msgstr "Brûk Indiaanske sifers"
+
+msgid "Odd sized (Siamese)"
+msgstr "Oanje grutte (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dwytich even (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dwytich even (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dwaardig even (eenvoudige wyming)"
+
+msgid "Singly even (Strachey)"
+msgstr "Enkel even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Magyske konstante:"
+
+msgid "Row"
+msgstr "Rige"
+
+msgid "Column"
+msgstr "Kolom"
+
+msgid "Main Diagonal:"
+msgstr "Haaddiagonal:"
+
+msgid "Side Diagonal:"
+msgstr "Side-diagonal:"
+
+msgid "Total"
+msgstr "Totaal"
+
+msgid "Magic square is valid!"
+msgstr "Magyske kwadrate is joere!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Magyske kwadrate is OOKNET joere!"
+
+msgid "Thank you for your support!"
+msgstr "Tankewol foar dyn stipe!"
+
+msgid "Magic Square Widget"
+msgstr "Magyske kwadrate Widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Foegje in oanpasber magyske kwadrate generearder (widget) ta oan de hoeke "
+"fan dyn side."

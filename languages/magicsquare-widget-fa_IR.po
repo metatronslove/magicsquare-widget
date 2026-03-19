@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Persian <fa_IR>\n"
+"Language: fa-IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "متن"
+
+msgid "Tabled Text"
+msgstr "متن جدول‌بندی‌شده"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "پشتیبانی"
+
+msgid "Square Size:"
+msgstr "اندازه مربع:"
+
+msgid "Row Sum:"
+msgstr "جمع سطر:"
+
+msgid "Algorithm:"
+msgstr "الگوریتم:"
+
+msgid "Generate"
+msgstr "تولید"
+
+msgid "Rotate"
+msgstr "چرخانده"
+
+msgid "Mirror"
+msgstr "آینه‌سازی"
+
+msgid "Output format:"
+msgstr "فرمت خروجی:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "مقادیر جداسازی‌شده با تب برای صفحات گسترده."
+
+msgid "Box borders:"
+msgstr "حاشیه‌های جعبه:"
+
+msgid "Cell height:"
+msgstr "ارتفاع سلول:"
+
+msgid "Cell width:"
+msgstr "عرض سلول:"
+
+msgid "Ink color:"
+msgstr "رنگ حبر:"
+
+msgid "Rotation start direction"
+msgstr "جهت شروع چرخش"
+
+msgid "Left (-45°)"
+msgstr "چپ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "راست (+45°)"
+
+msgid "No rotation"
+msgstr "بدون چرخش"
+
+msgid "Select a document size:"
+msgstr "اندازه سند را انتخاب کنید:"
+
+msgid "Dream sized, contains content"
+msgstr "اندازه‌ی رویایی، شامل محتوا"
+
+msgid "Magic Square:"
+msgstr "مربع جادویی:"
+
+msgid "Copy to Clipboard"
+msgstr "کپی به کلیپ‌بورد"
+
+msgid "Save File"
+msgstr "ذخیره فایل"
+
+msgid "Use Indian Numbers"
+msgstr "استفاده از اعداد هندی"
+
+msgid "Odd sized (Siamese)"
+msgstr "حجم فردی (سیامی)"
+
+msgid "Doubly even (Strachey)"
+msgstr "حجم دو برابر (سترچی)"
+
+msgid "Doubly even (Durer)"
+msgstr "حجم دو برابر (دورر)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "زوج دوبل (تبادل ساده)"
+
+msgid "Singly even (Strachey)"
+msgstr "زوج تک (سترچی)"
+
+msgid "Magic Constant:"
+msgstr "ثابت جادویی:"
+
+msgid "Row"
+msgstr "ردیف"
+
+msgid "Column"
+msgstr "ستون"
+
+msgid "Main Diagonal:"
+msgstr "قطر اصلی:"
+
+msgid "Side Diagonal:"
+msgstr "قطر جانبی:"
+
+msgid "Total"
+msgstr "مجموع"
+
+msgid "Magic square is valid!"
+msgstr "مربع جادویی معتبر است!"
+
+msgid "Magic square is NOT valid!"
+msgstr "مربع جادویی معتبر نیست!"
+
+msgid "Thank you for your support!"
+msgstr "با تشکر از حمایت شما!"
+
+msgid "Magic Square Widget"
+msgstr "ابزارک مربع جادویی"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "افزودن یک مولد مربع جادویی قابل تنظیم (ابزارک) به گوشه سایت شما."

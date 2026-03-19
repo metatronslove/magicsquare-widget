@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Estonian <et_EE>\n"
+"Language: et-EE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Tabled Text"
+msgstr "Tabelistatud tekst"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Toetus"
+
+msgid "Square Size:"
+msgstr "Ruudu suurus:"
+
+msgid "Row Sum:"
+msgstr "Rea summa:"
+
+msgid "Algorithm:"
+msgstr "Algoritm:"
+
+msgid "Generate"
+msgstr "Genereeri"
+
+msgid "Rotate"
+msgstr "Pööra"
+
+msgid "Mirror"
+msgstr "Peegelda"
+
+msgid "Output format:"
+msgstr "Väljundvorming:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Veeruga eraldatud väärtused arvukirjade jaoks."
+
+msgid "Box borders:"
+msgstr "Tõmbekad:"
+
+msgid "Cell height:"
+msgstr "Lahtri kõrgus:"
+
+msgid "Cell width:"
+msgstr "Lahtri laius:"
+
+msgid "Ink color:"
+msgstr "Tüvi värv:"
+
+msgid "Rotation start direction"
+msgstr "Pöördeniku algsuunar"
+
+msgid "Left (-45°)"
+msgstr "Vasakule (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Paremale (+45°)"
+
+msgid "No rotation"
+msgstr "Ilma pööramiseta"
+
+msgid "Select a document size:"
+msgstr "Vali dokumendi suurus:"
+
+msgid "Dream sized, contains content"
+msgstr "Unenägu suurus, sisaldab sisu"
+
+msgid "Magic Square:"
+msgstr "Maagiline ruut:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopeeri lõikelauale"
+
+msgid "Save File"
+msgstr "Salvesta fail"
+
+msgid "Use Indian Numbers"
+msgstr "Kasuta India numbreid"
+
+msgid "Odd sized (Siamese)"
+msgstr "Ühearvuline (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Kahe korraga paaris (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Kahe korraga paaris (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Topeltpaarne (Lihtne vahetus)"
+
+msgid "Singly even (Strachey)"
+msgstr "Ühekordne paarne (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Majulik konstant:"
+
+msgid "Row"
+msgstr "Rea"
+
+msgid "Column"
+msgstr "Veerg"
+
+msgid "Main Diagonal:"
+msgstr "Peamine Diagonaal:"
+
+msgid "Side Diagonal:"
+msgstr "Külgne Diagonaal:"
+
+msgid "Total"
+msgstr "Kokku"
+
+msgid "Magic square is valid!"
+msgstr "Majulik ruut on kehtiv!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Majulik ruut EI ole kehtiv!"
+
+msgid "Thank you for your support!"
+msgstr "Aitäh toetuse eest!"
+
+msgid "Magic Square Widget"
+msgstr "Majulik Ruut Vidin"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Lisab kohandatava majulikku ruutu genereerija (vidina) teie saidi nurka."
