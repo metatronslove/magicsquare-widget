@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Wolof <wo_SN>\n"
+"Language: wo-SN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Tabled Text"
+msgstr "Tekst table"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Jëkkë"
+
+msgid "Square Size:"
+msgstr "Mawñu xépp:"
+
+msgid "Row Sum:"
+msgstr "Sum row:"
+
+msgid "Algorithm:"
+msgstr "Algorit:"
+
+msgid "Generate"
+msgstr "Bëcc"
+
+msgid "Rotate"
+msgstr "Tëkk"
+
+msgid "Mirror"
+msgstr "Mëll"
+
+msgid "Output format:"
+msgstr "Formaat yëpp:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Ndaw yu tab ak tab ci spreadsheet."
+
+msgid "Box borders:"
+msgstr "Sall bëtal:"
+
+msgid "Cell height:"
+msgstr "Bëggu sàmm:"
+
+msgid "Cell width:"
+msgstr "Wekk sàmm:"
+
+msgid "Ink color:"
+msgstr "Làk kàmm:"
+
+msgid "Rotation start direction"
+msgstr "Kañmukaay sañ-sañ"
+
+msgid "Left (-45°)"
+msgstr "Lewru (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Maa (+45°)"
+
+msgid "No rotation"
+msgstr "Buñ ci ñu"
+
+msgid "Select a document size:"
+msgstr "Sélek ci boppu denc:"
+
+msgid "Dream sized, contains content"
+msgstr "Boppp ci xew-xew, dégg ci nàww"
+
+msgid "Magic Square:"
+msgstr "Xépp yëw:"
+
+msgid "Copy to Clipboard"
+msgstr "Jëkk ci bët"
+
+msgid "Save File"
+msgstr "Wol Fayy"
+
+msgid "Use Indian Numbers"
+msgstr "Jëf ci xaleew ci Indiya"
+
+msgid "Odd sized (Siamese)"
+msgstr "Boppp jàmm (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Boppp ñàkk (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Boppp ñàkk (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Doubly even (Simple exchange)"
+
+msgid "Singly even (Strachey)"
+msgstr "Singly even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Konsint magik:"
+
+msgid "Row"
+msgstr "xol"
+
+msgid "Column"
+msgstr "column"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal principal:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonal secundary:"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Magic square is valid!"
+msgstr "Square magik bi ci dégg!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Square magik bi maam!"
+
+msgid "Thank you for your support!"
+msgstr "Jërëjëf ci jox yi!"
+
+msgid "Magic Square Widget"
+msgstr "Widget square magik"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "Mën a jox widget bi ci ngel yi ci site-yu."

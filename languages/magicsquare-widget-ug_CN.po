@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Uyghur <ug_CN>\n"
+"Language: ug-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "متن"
+
+msgid "Tabled Text"
+msgstr "جەدۋەللىك متن"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "قوللاش"
+
+msgid "Square Size:"
+msgstr "قەۋەت چوڭلۇقى:"
+
+msgid "Row Sum:"
+msgstr "قۇر جەمئى:"
+
+msgid "Algorithm:"
+msgstr "ئالگورېتم:"
+
+msgid "Generate"
+msgstr "قۇر"
+
+msgid "Rotate"
+msgstr "ئايلاندۇر"
+
+msgid "Mirror"
+msgstr "سۈيىلمە"
+
+msgid "Output format:"
+msgstr "چىقىرىش فورماتى:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "جەدۋەل ئۈچۈن تىب ئارقىلىق ئايرىلغان قىممەتلەر."
+
+msgid "Box borders:"
+msgstr "بۆكس سەلبەلىرى:"
+
+msgid "Cell height:"
+msgstr "بۆكس ئېگىزلىكى:"
+
+msgid "Cell width:"
+msgstr "بۆكس كەڭلىكى:"
+
+msgid "Ink color:"
+msgstr "سۆڭ رەڭگى:"
+
+msgid "Rotation start direction"
+msgstr "ئايلانما باشلاش تۈرى:"
+
+msgid "Left (-45°)"
+msgstr "سول (-45°)"
+
+msgid "Right (+45°)"
+msgstr "ئوڭ (+45°)"
+
+msgid "No rotation"
+msgstr "ئايلانما يوق"
+
+msgid "Select a document size:"
+msgstr "پۈتۈن ساندىكى چوڭلۇقىنى تاللاڭ:"
+
+msgid "Dream sized, contains content"
+msgstr "خېتىر چوڭلۇقى، مەزمۇننى ئۆز ئىچىگە ئالغان"
+
+msgid "Magic Square:"
+msgstr "ماجىك سەھىپە:"
+
+msgid "Copy to Clipboard"
+msgstr "كۆچۈرۈش بەلگە بوشلۇققا"
+
+msgid "Save File"
+msgstr "ھۆججەتنى ساقلاش"
+
+msgid "Use Indian Numbers"
+msgstr "ھиндچە سانلارنى قوللان"
+
+msgid "Odd sized (Siamese)"
+msgstr "قوشسىز چوڭلۇقى (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "قوش قوش (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "قوش قوش (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "دوقلۇق قوش (ئېڭى ئالماشتۇرۇش)"
+
+msgid "Singly even (Strachey)"
+msgstr "بىر قوش (ستراچېي)"
+
+msgid "Magic Constant:"
+msgstr "سەھەرلىك ئۆلچەم:"
+
+msgid "Row"
+msgstr "قۇر"
+
+msgid "Column"
+msgstr "سوتۇن"
+
+msgid "Main Diagonal:"
+msgstr "ئاساسىي بويۇن:"
+
+msgid "Side Diagonal:"
+msgstr "ئېنىق بويۇن:"
+
+msgid "Total"
+msgstr "جەمئىي"
+
+msgid "Magic square is valid!"
+msgstr "سەھەرلىك چئارتان توغرا!"
+
+msgid "Magic square is NOT valid!"
+msgstr "سەھەرلىك چئارتان توغرا ئەمەس!"
+
+msgid "Thank you for your support!"
+msgstr "قۇۋۋەتلەشتۈرۈشڭىزگە رەھمەت!"
+
+msgid "Magic Square Widget"
+msgstr "سەھەرلىك چئارتان ۋىجېت"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"تور بېتىڭىزنىڭ بۆلەك تىپىگە ئۆزگەرتىشلىك سەھەرلىك چئارتان يارىتىش (ۋىجېت) "
+"قوشىدۇ."

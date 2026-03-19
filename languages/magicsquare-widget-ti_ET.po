@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tigrinya <ti_ET>\n"
+"Language: ti-ET\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "ጽሑፍ"
+
+msgid "Tabled Text"
+msgstr "ታብላ ጽሑፍ"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "ድግም"
+
+msgid "Square Size:"
+msgstr "ንድምበት መጠን:"
+
+msgid "Row Sum:"
+msgstr "ቀጠታ ጭብጥ:"
+
+msgid "Algorithm:"
+msgstr "አልጎርይም:"
+
+msgid "Generate"
+msgstr "አምጽል"
+
+msgid "Rotate"
+msgstr "ምባዕል"
+
+msgid "Mirror"
+msgstr "መልተ"
+
+msgid "Output format:"
+msgstr "ውጤት አቀማበሪ:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "ስፍራዎች ለ ስፍራው በታቭ የተለያየ ዋስትናዎች."
+
+msgid "Box borders:"
+msgstr "ቦክስ ግድያት:"
+
+msgid "Cell height:"
+msgstr "ሰሌዓ ቁልፍ ርዕስ:"
+
+msgid "Cell width:"
+msgstr "ሰሌዓ ቁልፍ ስፍራ:"
+
+msgid "Ink color:"
+msgstr "ብስተ ተሰማይ:"
+
+msgid "Rotation start direction"
+msgstr "ምባዕል መጀመር አንበብ:"
+
+msgid "Left (-45°)"
+msgstr "ግራ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "ቀኝ (+45°)"
+
+msgid "No rotation"
+msgstr "ምባዕል ዘይተጠቃሚ"
+
+msgid "Select a document size:"
+msgstr "የ ሰነድ ትምህርት አካል ይምረጡ:"
+
+msgid "Dream sized, contains content"
+msgstr "በ አምልከት ዝተኹል, እንደዚ ይውል ይስተዳድር:"
+
+msgid "Magic Square:"
+msgstr "አምርና ድምበት:"
+
+msgid "Copy to Clipboard"
+msgstr "አትርተት ወደ ክልሊት ይተረጎም:"
+
+msgid "Save File"
+msgstr "ፋይል አስተናግዶ:"
+
+msgid "Use Indian Numbers"
+msgstr "አምስተኛ ቁጥር ይጠቀሙ:"
+
+msgid "Odd sized (Siamese)"
+msgstr "አትር ደንበኛ (ሳይሜይ)"
+
+msgid "Doubly even (Strachey)"
+msgstr "ብዝተደርገ ቀለም (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "ብዝተደርገ ቀለም (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "ተክንቲት ዕላማ (ቅልቅል ተደግታ)"
+
+msgid "Singly even (Strachey)"
+msgstr "አንደኛ ዕላማ (ስታችይ)"
+
+msgid "Magic Constant:"
+msgstr "የማጂ ዋስትን:"
+
+msgid "Row"
+msgstr "ሰርዕ"
+
+msgid "Column"
+msgstr "አካል"
+
+msgid "Main Diagonal:"
+msgstr "ዋስትን ሰርዕ ዓትተት:"
+
+msgid "Side Diagonal:"
+msgstr "ዝተወሰነ ዓትተት:"
+
+msgid "Total"
+msgstr "ሙሉ"
+
+msgid "Magic square is valid!"
+msgstr "የማጂ ክልል ይደርሳል!"
+
+msgid "Magic square is NOT valid!"
+msgstr "የማጂ ክልል ይደርሳል ኣይደለለም!"
+
+msgid "Thank you for your support!"
+msgstr "ንበይ ሽምምም እትምስገር!"
+
+msgid "Magic Square Widget"
+msgstr "የማጂ ክልል ዝምድና"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "እቲ ዝተለቀይ የማጂ ክልል ተስርኪ (ዝምድና) ናብ አባት ድሕረ ገጽ አብ ሰብአይ ክትወስን."

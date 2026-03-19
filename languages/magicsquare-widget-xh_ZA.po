@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Xhosa <xh_ZA>\n"
+"Language: xh-ZA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Umbhalo"
+
+msgid "Tabled Text"
+msgstr "Umbhalo ogqithiweyo"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Uncedo"
+
+msgid "Square Size:"
+msgstr "Ubungakanani beSikhwele:"
+
+msgid "Row Sum:"
+msgstr "Inani leMhlathi:"
+
+msgid "Algorithm:"
+msgstr "Algorithim:"
+
+msgid "Generate"
+msgstr "Yenza"
+
+msgid "Rotate"
+msgstr "Jikela"
+
+msgid "Mirror"
+msgstr "Phinda"
+
+msgid "Output format:"
+msgstr "Ifomathi yokuphumayo:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Iingqokelela ezahlukaniswe ngeTab yamaSpreadsheets."
+
+msgid "Box borders:"
+msgstr "Imiqolo yeBhokisi:"
+
+msgid "Cell height:"
+msgstr "Ubude bekhadi:"
+
+msgid "Cell width:"
+msgstr "Ububanzi bekhadi:"
+
+msgid "Ink color:"
+msgstr "Umbala weMpenyu:"
+
+msgid "Rotation start direction"
+msgstr "Indlela yokuqala yokujikeleza"
+
+msgid "Left (-45°)"
+msgstr "Ekwesecala (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Ekunene (+45°)"
+
+msgid "No rotation"
+msgstr "Akukho ukujikeleza"
+
+msgid "Select a document size:"
+msgstr "Khetha ubungakanani bexwebhu:"
+
+msgid "Dream sized, contains content"
+msgstr "Ubungakanani bephupho, buqulathe okuqulileyo"
+
+msgid "Magic Square:"
+msgstr "Isikhohlo Esimangalisayo:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopisha kwiClipboard"
+
+msgid "Save File"
+msgstr "Gcina Ifayile"
+
+msgid "Use Indian Numbers"
+msgstr "Sebenzisa Izibalo zeNdiya"
+
+msgid "Odd sized (Siamese)"
+msgstr "Ubungakanani obungqina (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Ubukhulu obuphindwe kabini (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Ubukhulu obuphindwe kabini (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Eyinze kabini (Ushintsho olula)"
+
+msgid "Singly even (Strachey)"
+msgstr "Eyinze eyodwa (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Iyonke yeMagi:"
+
+msgid "Row"
+msgstr "Umqolo"
+
+msgid "Column"
+msgstr "Isigaba"
+
+msgid "Main Diagonal:"
+msgstr "Indidi enkulu:"
+
+msgid "Side Diagonal:"
+msgstr "Indidi yesibili:"
+
+msgid "Total"
+msgstr "Jikelele"
+
+msgid "Magic square is valid!"
+msgstr "I-icubho yeMagi iyasebenza!"
+
+msgid "Magic square is NOT valid!"
+msgstr "I-icubho yeMagi ayisebenzi!"
+
+msgid "Thank you for your support!"
+msgstr "Enkosi ngenkxaso yakho!"
+
+msgid "Magic Square Widget"
+msgstr "Umsebenzi weMagi"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Uyongeza umtshoni we-icubho yeMagi (widget) kwicwiliso lewebhusayithi yakho."

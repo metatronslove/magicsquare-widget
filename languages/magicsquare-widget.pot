@@ -1,0 +1,187 @@
+# Magic Square Widget - POT file.
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/magic-square-widget\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-18 14:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4\n"
+
+#: public/class-magic-square-public.php:34
+msgid "Text"
+msgstr ""
+
+#: public/class-magic-square-public.php:35
+msgid "Tabled Text"
+msgstr ""
+
+#: public/class-magic-square-public.php:36
+msgid "HTML"
+msgstr ""
+
+#: public/class-magic-square-public.php:37
+msgid "PDF/PNG"
+msgstr ""
+
+#: public/class-magic-square-public.php:38
+msgid "Support"
+msgstr ""
+
+#: public/class-magic-square-public.php:41
+msgid "Square Size:"
+msgstr ""
+
+#: public/class-magic-square-public.php:42
+msgid "Row Sum:"
+msgstr ""
+
+#: public/class-magic-square-public.php:43
+msgid "Algorithm:"
+msgstr ""
+
+#: public/class-magic-square-public.php:44
+msgid "Generate"
+msgstr ""
+
+#: public/class-magic-square-public.php:45
+msgid "Rotate"
+msgstr ""
+
+#: public/class-magic-square-public.php:46
+msgid "Mirror"
+msgstr ""
+
+#: public/class-magic-square-public.php:47
+msgid "Output format:"
+msgstr ""
+
+#: public/class-magic-square-public.php:48
+msgid "Tab-separated values for spreadsheets."
+msgstr ""
+
+#: public/class-magic-square-public.php:49
+msgid "Box borders:"
+msgstr ""
+
+#: public/class-magic-square-public.php:50
+msgid "Cell height:"
+msgstr ""
+
+#: public/class-magic-square-public.php:51
+msgid "Cell width:"
+msgstr ""
+
+#: public/class-magic-square-public.php:52
+msgid "Ink color:"
+msgstr ""
+
+#: public/class-magic-square-public.php:53
+msgid "Rotation start direction"
+msgstr ""
+
+#: public/class-magic-square-public.php:54
+msgid "Left (-45°)"
+msgstr ""
+
+#: public/class-magic-square-public.php:55
+msgid "Right (+45°)"
+msgstr ""
+
+#: public/class-magic-square-public.php:56
+msgid "No rotation"
+msgstr ""
+
+#: public/class-magic-square-public.php:57
+msgid "Select a document size:"
+msgstr ""
+
+#: public/class-magic-square-public.php:58
+msgid "Dream sized, contains content"
+msgstr ""
+
+#: public/class-magic-square-public.php:59
+msgid "Magic Square:"
+msgstr ""
+
+#: public/class-magic-square-public.php:60
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: public/class-magic-square-public.php:61
+msgid "Save File"
+msgstr ""
+
+#: public/class-magic-square-public.php:62
+msgid "Use Indian Numbers"
+msgstr ""
+
+#: public/class-magic-square-public.php:65
+msgid "Odd sized (Siamese)"
+msgstr ""
+
+#: public/class-magic-square-public.php:66
+msgid "Doubly even (Strachey)"
+msgstr ""
+
+#: public/class-magic-square-public.php:67
+msgid "Doubly even (Durer)"
+msgstr ""
+
+#: public/class-magic-square-public.php:68
+msgid "Doubly even (Simple exchange)"
+msgstr ""
+
+#: public/class-magic-square-public.php:69
+msgid "Singly even (Strachey)"
+msgstr ""
+
+#: public/class-magic-square-public.php:72
+msgid "Magic Constant:"
+msgstr ""
+
+#: public/class-magic-square-public.php:73
+msgid "Row"
+msgstr ""
+
+#: public/class-magic-square-public.php:74
+msgid "Column"
+msgstr ""
+
+#: public/class-magic-square-public.php:75
+msgid "Main Diagonal:"
+msgstr ""
+
+#: public/class-magic-square-public.php:76
+msgid "Side Diagonal:"
+msgstr ""
+
+#: public/class-magic-square-public.php:77
+msgid "Total"
+msgstr ""
+
+#: public/class-magic-square-public.php:78
+msgid "Magic square is valid!"
+msgstr ""
+
+#: public/class-magic-square-public.php:79
+msgid "Magic square is NOT valid!"
+msgstr ""
+
+#: public/class-magic-square-public.php:82
+msgid "Thank you for your support!"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "Magic Square Widget"
+msgstr ""
+
+#. Plugin Description of the plugin
+msgid "Adds a customizable magic square generator (widget) to the corner of your site."
+msgstr ""

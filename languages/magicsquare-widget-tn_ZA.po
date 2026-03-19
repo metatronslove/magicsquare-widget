@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tswana <tn_ZA>\n"
+"Language: tn-ZA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Tèks"
+
+msgid "Tabled Text"
+msgstr "Tèks e le Taabel"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Thuso"
+
+msgid "Square Size:"
+msgstr "Bophara jwa Sekwati:"
+
+msgid "Row Sum:"
+msgstr "Sum ya Mela:"
+
+msgid "Algorithm:"
+msgstr "Algorithm:"
+
+msgid "Generate"
+msgstr "Bua"
+
+msgid "Rotate"
+msgstr "Borelela"
+
+msgid "Mirror"
+msgstr "Mirror"
+
+msgid "Output format:"
+msgstr "Format ya Phatlalatso:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Ntlalo e e sekatšwago ka sephetho mo spredshit."
+
+msgid "Box borders:"
+msgstr "Bofelo jwa Box:"
+
+msgid "Cell height:"
+msgstr "Bophakanyana jwa Setlha:"
+
+msgid "Cell width:"
+msgstr "Bophakanyana jwa Bohlokoa:"
+
+msgid "Ink color:"
+msgstr "Mmala wa Ink:"
+
+msgid "Rotation start direction"
+msgstr "Tseleng ya Kgontlo ya Kopo:"
+
+msgid "Left (-45°)"
+msgstr "Letšoko (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Letlhare (+45°)"
+
+msgid "No rotation"
+msgstr "Ga go kgone"
+
+msgid "Select a document size:"
+msgstr "Kgetha boholo jwa letlhalo:"
+
+msgid "Dream sized, contains content"
+msgstr "Boholo jwa Botse, bo akaretsa lefapha"
+
+msgid "Magic Square:"
+msgstr "Sikwadi se sa lebila:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopitsa mo Clipboard"
+
+msgid "Save File"
+msgstr "Boloka Faele"
+
+msgid "Use Indian Numbers"
+msgstr "Shumela Nomer tsa India"
+
+msgid "Odd sized (Siamese)"
+msgstr "Boholo bo bo kgauswi (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Bohlale bo bo botse (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Bohlale bo bo botse (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Bolebale jo bo le bobedi (Ketso e bonolo)"
+
+msgid "Singly even (Strachey)"
+msgstr "Bolebale jo bo le e nngwe (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Mafoko a Mokgele:"
+
+msgid "Row"
+msgstr "Mola"
+
+msgid "Column"
+msgstr "Moina"
+
+msgid "Main Diagonal:"
+msgstr "Mongwalo o Moholo:"
+
+msgid "Side Diagonal:"
+msgstr "Mongwalo wa Phapho:"
+
+msgid "Total"
+msgstr "Kgwebo"
+
+msgid "Magic square is valid!"
+msgstr "Sekgwadane se se segolo se šatšwe!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Sekgwadane se se segolo se se sa šatšwa!"
+
+msgid "Thank you for your support!"
+msgstr "Ke a leboga go go tšweletša!"
+
+msgid "Magic Square Widget"
+msgstr "Mokakanyo wa Sekgwadane"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"E tsenya mokakanyo wa sekgwadane e ka kgopelwa (widget) mo lehlabatheng la "
+"sebaka sa gago."

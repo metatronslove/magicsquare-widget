@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tsonga <ts_ZA>\n"
+"Language: ts-ZA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Xivandla"
+
+msgid "Tabled Text"
+msgstr "Xivandla xa Tiki"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Xandla"
+
+msgid "Square Size:"
+msgstr "Vuluko la Xivimba:"
+
+msgid "Row Sum:"
+msgstr "Sumu ya Xikamba:"
+
+msgid "Algorithm:"
+msgstr "Algorithm:"
+
+msgid "Generate"
+msgstr "Kumba"
+
+msgid "Rotate"
+msgstr "Vutlela"
+
+msgid "Mirror"
+msgstr "Tukisa"
+
+msgid "Output format:"
+msgstr "Mufambisi wa Xivandla:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Vutaka bya tabula bya switirhisiwa swa spreadsheet."
+
+msgid "Box borders:"
+msgstr "Tirhiko ta Xivandla:"
+
+msgid "Cell height:"
+msgstr "Hiyeni ya Xikamba:"
+
+msgid "Cell width:"
+msgstr "Vuluko bya Xikamba:"
+
+msgid "Ink color:"
+msgstr "Xikolo xa Tiri:"
+
+msgid "Rotation start direction"
+msgstr "Xikomba xa Vutlela:"
+
+msgid "Left (-45°)"
+msgstr "Vona (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Henda (+45°)"
+
+msgid "No rotation"
+msgstr "Ku vutlela ko fanekela"
+
+msgid "Select a document size:"
+msgstr "Khetha Xikomba xa Xitovelo:"
+
+msgid "Dream sized, contains content"
+msgstr "Xikomba xa Vona, xi fanekela Xitovelo"
+
+msgid "Magic Square:"
+msgstr "Xivimba xa Xitovelo:"
+
+msgid "Copy to Clipboard"
+msgstr "Kumba eka Xitavholo"
+
+msgid "Save File"
+msgstr "Sava file"
+
+msgid "Use Indian Numbers"
+msgstr "Tirhisa Nambala ya Indya"
+
+msgid "Odd sized (Siamese)"
+msgstr "Odd sized (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Doubly even (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Doubly even (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Mufambisi wa vutlhaka (Kufambela kahle)"
+
+msgid "Singly even (Strachey)"
+msgstr "Mufambisi wa vutlhaka (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Muvukanye wa Mhaka:"
+
+msgid "Row"
+msgstr "Mushumo"
+
+msgid "Column"
+msgstr "Mphato"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal ya Ndzima:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonal ya Vumbirhi:"
+
+msgid "Total"
+msgstr "Totala"
+
+msgid "Magic square is valid!"
+msgstr "Mhaka ya Vuka hi mavonhi yi yi vuyiwa!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Mhaka ya Vuka hi mavonhi a yi vuyiwa!"
+
+msgid "Thank you for your support!"
+msgstr "Ndza vumfukela ku tshipa ku tshilowa!"
+
+msgid "Magic Square Widget"
+msgstr "Widget wa Mhaka ya Vuka"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "Hi vula widget ya mavonhi yo lulamisa (widget) eka xinyhiko ra site."

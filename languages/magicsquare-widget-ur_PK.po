@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Urdu <ur_PK>\n"
+"Language: ur-PK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "متن"
+
+msgid "Tabled Text"
+msgstr "جدولی متن"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "سپورٹ"
+
+msgid "Square Size:"
+msgstr "مربع کا سائز:"
+
+msgid "Row Sum:"
+msgstr "قطار کا مجموعہ:"
+
+msgid "Algorithm:"
+msgstr "الگورتھم:"
+
+msgid "Generate"
+msgstr "بنائیں"
+
+msgid "Rotate"
+msgstr "گھومیں"
+
+msgid "Mirror"
+msgstr "دہرائیں"
+
+msgid "Output format:"
+msgstr "آؤٹ پٹ فارمیٹ:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "اسپریڈ شیٹس کے لیے ٹیب سے جدا شدہ قدریں."
+
+msgid "Box borders:"
+msgstr "باکس کی سرحدیں:"
+
+msgid "Cell height:"
+msgstr "خلاء کی اونچائی:"
+
+msgid "Cell width:"
+msgstr "خلاء کی چوڑائی:"
+
+msgid "Ink color:"
+msgstr "سیاہی کا رنگ:"
+
+msgid "Rotation start direction"
+msgstr "گھومنے کا آغاز سمت"
+
+msgid "Left (-45°)"
+msgstr "بائیں (-45°)"
+
+msgid "Right (+45°)"
+msgstr "دائیں (+45°)"
+
+msgid "No rotation"
+msgstr "کوئی گردش نہیں"
+
+msgid "Select a document size:"
+msgstr "دستاویز کا سائز منتخب کریں:"
+
+msgid "Dream sized, contains content"
+msgstr "خواب کے سائز کا، مواد شامل"
+
+msgid "Magic Square:"
+msgstr "جادوئی مربع:"
+
+msgid "Copy to Clipboard"
+msgstr "کلپ بورڈ میں کاپی کریں"
+
+msgid "Save File"
+msgstr "فائل محفوظ کریں"
+
+msgid "Use Indian Numbers"
+msgstr "بھارتی اعداد استعمال کریں"
+
+msgid "Odd sized (Siamese)"
+msgstr "بے سائز (سائمِی)"
+
+msgid "Doubly even (Strachey)"
+msgstr "دوگنا جفت (سٹرچی)"
+
+msgid "Doubly even (Durer)"
+msgstr "دوگنا جفت (ڈورر)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "دوبل جفت (سادہ تبادلہ)"
+
+msgid "Singly even (Strachey)"
+msgstr "سنگل جفت (سٹرچی)"
+
+msgid "Magic Constant:"
+msgstr "جادوئی مستقل:"
+
+msgid "Row"
+msgstr "صف"
+
+msgid "Column"
+msgstr "کالم"
+
+msgid "Main Diagonal:"
+msgstr "مرکزی ڈائگونل:"
+
+msgid "Side Diagonal:"
+msgstr "سائڈ ڈائگونل:"
+
+msgid "Total"
+msgstr "کل"
+
+msgid "Magic square is valid!"
+msgstr "جادوئی مربع درست ہے!"
+
+msgid "Magic square is NOT valid!"
+msgstr "جادوئی مربع درست نہیں ہے!"
+
+msgid "Thank you for your support!"
+msgstr "آپ کے تعاون کا شکریہ!"
+
+msgid "Magic Square Widget"
+msgstr "جادوئی مربع ویجیٹ"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"آپ کی سائٹ کے کونے میں ایک حسب ضرورت جادوئی مربع جنریٹر (ویجیٹ) شامل کرتا "
+"ہے۔"

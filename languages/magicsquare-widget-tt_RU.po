@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tatar <tt_RU>\n"
+"Language: tt-RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Tabled Text"
+msgstr "Таблицада Текст"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Ярдәм"
+
+msgid "Square Size:"
+msgstr "Квадрат зурлыгы:"
+
+msgid "Row Sum:"
+msgstr "Катар суммасы:"
+
+msgid "Algorithm:"
+msgstr "Алгоритм:"
+
+msgid "Generate"
+msgstr "Тудыра"
+
+msgid "Rotate"
+msgstr "Бурыла"
+
+msgid "Mirror"
+msgstr "Шикәрлә"
+
+msgid "Output format:"
+msgstr "Чыгару форматы:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Эчке таблицалар өчен табуляцияле кыйммәтләр."
+
+msgid "Box borders:"
+msgstr "Бок чикләре:"
+
+msgid "Cell height:"
+msgstr "Ячейка биеклеге:"
+
+msgid "Cell width:"
+msgstr "Ячейка киңлеге:"
+
+msgid "Ink color:"
+msgstr "Мазнә төсе:"
+
+msgid "Rotation start direction"
+msgstr "Бурылыш башлау юнәлеше"
+
+msgid "Left (-45°)"
+msgstr "Сул (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Уң (+45°)"
+
+msgid "No rotation"
+msgstr "Бурылышсыз"
+
+msgid "Select a document size:"
+msgstr "Документ зурлыгын сайлагыз:"
+
+msgid "Dream sized, contains content"
+msgstr "Хыял зурлыгы, эчтәлекне үз эченә ала"
+
+msgid "Magic Square:"
+msgstr "Магик квадрат:"
+
+msgid "Copy to Clipboard"
+msgstr "Буферга күчер"
+
+msgid "Save File"
+msgstr "Файл саклау"
+
+msgid "Use Indian Numbers"
+msgstr "Индий саннарын куллану"
+
+msgid "Odd sized (Siamese)"
+msgstr "Чит размерлы (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Икъта тагыз (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Икъта тагыз (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Двойной чётный (гади алмаш-биреш)"
+
+msgid "Singly even (Strachey)"
+msgstr "Тик чётный (Страхи)"
+
+msgid "Magic Constant:"
+msgstr "Магик константа:"
+
+msgid "Row"
+msgstr "Ряд"
+
+msgid "Column"
+msgstr "Столбец"
+
+msgid "Main Diagonal:"
+msgstr "Главная диагональ:"
+
+msgid "Side Diagonal:"
+msgstr "Боковая диагональ:"
+
+msgid "Total"
+msgstr "Гомуми"
+
+msgid "Magic square is valid!"
+msgstr "Магик квадрат дөрес!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Магик квадрат дөрес ТЫ!"
+
+msgid "Thank you for your support!"
+msgstr "Тәүге дә ярдәмегез өчен рәхмәт!"
+
+msgid "Magic Square Widget"
+msgstr "Магик квадрат виджет"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Сайтыңызның бераз куллану өчен, үзгәртү мөмкинлеге булган магик квадрат "
+"генераторын (виджет) өстиләр."

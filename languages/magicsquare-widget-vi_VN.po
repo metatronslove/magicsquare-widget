@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Vietnamese <vi_VN>\n"
+"Language: vi-VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Văn bản"
+
+msgid "Tabled Text"
+msgstr "Văn bản bảng"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Hỗ trợ"
+
+msgid "Square Size:"
+msgstr "Kích thước hình vuông:"
+
+msgid "Row Sum:"
+msgstr "Tổng hàng:"
+
+msgid "Algorithm:"
+msgstr "Thuật toán:"
+
+msgid "Generate"
+msgstr "Tạo"
+
+msgid "Rotate"
+msgstr "Xoay"
+
+msgid "Mirror"
+msgstr "Gương"
+
+msgid "Output format:"
+msgstr "Định dạng đầu ra:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Giá trị được phân cách bằng dấu tab cho bảng tính."
+
+msgid "Box borders:"
+msgstr "Viền ô:"
+
+msgid "Cell height:"
+msgstr "Chiều cao ô:"
+
+msgid "Cell width:"
+msgstr "Chiều rộng ô:"
+
+msgid "Ink color:"
+msgstr "Màu mực:"
+
+msgid "Rotation start direction"
+msgstr "Hướng bắt đầu xoay"
+
+msgid "Left (-45°)"
+msgstr "Bên trái (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Bên phải (+45°)"
+
+msgid "No rotation"
+msgstr "Không xoay"
+
+msgid "Select a document size:"
+msgstr "Chọn kích thước tài liệu:"
+
+msgid "Dream sized, contains content"
+msgstr "Kích thước theo giấc mơ, chứa nội dung"
+
+msgid "Magic Square:"
+msgstr "Hình vuông ma thuật:"
+
+msgid "Copy to Clipboard"
+msgstr "Sao chép vào clipboard"
+
+msgid "Save File"
+msgstr "Lưu tập tin"
+
+msgid "Use Indian Numbers"
+msgstr "Sử dụng số Ấn Độ"
+
+msgid "Odd sized (Siamese)"
+msgstr "Kích thước lẻ (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Đôi chẵn đôi (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Đôi chẵn đôi (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Đôi chẵn (đổi đơn giản)"
+
+msgid "Singly even (Strachey)"
+msgstr "Một chẵn (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Hằng số ma thuật:"
+
+msgid "Row"
+msgstr "Hàng"
+
+msgid "Column"
+msgstr "Cột"
+
+msgid "Main Diagonal:"
+msgstr "Đường chéo chính:"
+
+msgid "Side Diagonal:"
+msgstr "Đường chéo phụ:"
+
+msgid "Total"
+msgstr "Tổng"
+
+msgid "Magic square is valid!"
+msgstr "Ô vuông ma thuật là hợp lệ!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Ô vuông ma thuật không hợp lệ!"
+
+msgid "Thank you for your support!"
+msgstr "Cảm ơn vì sự hỗ trợ của bạn!"
+
+msgid "Magic Square Widget"
+msgstr "Widget Ô vuông ma thuật"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Thêm một bộ tạo ô vuông ma thuật có thể tùy chỉnh (widget) vào góc trang web"
+" của bạn."

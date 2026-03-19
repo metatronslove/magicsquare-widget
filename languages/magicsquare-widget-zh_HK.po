@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Chinese (Hong Kong) <zh_HK>\n"
+"Language: zh-HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "文字"
+
+msgid "Tabled Text"
+msgstr "表格文字"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "支援"
+
+msgid "Square Size:"
+msgstr "正方形尺寸:"
+
+msgid "Row Sum:"
+msgstr "行總和:"
+
+msgid "Algorithm:"
+msgstr "演算法:"
+
+msgid "Generate"
+msgstr "產生"
+
+msgid "Rotate"
+msgstr "旋轉"
+
+msgid "Mirror"
+msgstr "鏡像"
+
+msgid "Output format:"
+msgstr "輸出格式:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "使用標籤分隔值（TSV）用於電子表格。"
+
+msgid "Box borders:"
+msgstr "方框邊框:"
+
+msgid "Cell height:"
+msgstr "儲存格高度:"
+
+msgid "Cell width:"
+msgstr "儲存格寬度:"
+
+msgid "Ink color:"
+msgstr "墨水顏色:"
+
+msgid "Rotation start direction"
+msgstr "旋轉起始方向"
+
+msgid "Left (-45°)"
+msgstr "左 (-45°)"
+
+msgid "Right (+45°)"
+msgstr "右 (+45°)"
+
+msgid "No rotation"
+msgstr "無旋轉"
+
+msgid "Select a document size:"
+msgstr "選擇文件尺寸:"
+
+msgid "Dream sized, contains content"
+msgstr "夢境尺寸，包含內容"
+
+msgid "Magic Square:"
+msgstr "幻方:"
+
+msgid "Copy to Clipboard"
+msgstr "複製到剪貼簿"
+
+msgid "Save File"
+msgstr "儲存檔案"
+
+msgid "Use Indian Numbers"
+msgstr "使用印度數字"
+
+msgid "Odd sized (Siamese)"
+msgstr "奇數尺寸（暹羅法）"
+
+msgid "Doubly even (Strachey)"
+msgstr "雙偶數（Strachey）"
+
+msgid "Doubly even (Durer)"
+msgstr "雙偶數（Durer）"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "雙偶 (簡單交換)"
+
+msgid "Singly even (Strachey)"
+msgstr "單偶 (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "魔術常數:"
+
+msgid "Row"
+msgstr "行"
+
+msgid "Column"
+msgstr "列"
+
+msgid "Main Diagonal:"
+msgstr "主對角線:"
+
+msgid "Side Diagonal:"
+msgstr "副對角線:"
+
+msgid "Total"
+msgstr "總和"
+
+msgid "Magic square is valid!"
+msgstr "魔方有效！"
+
+msgid "Magic square is NOT valid!"
+msgstr "魔方無效！"
+
+msgid "Thank you for your support!"
+msgstr "感謝您的支持！"
+
+msgid "Magic Square Widget"
+msgstr "魔術方塊小工具"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "將可自訂的魔術方塊生成器（小工具）新增至網站角落。"

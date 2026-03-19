@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Telugu <te_IN>\n"
+"Language: te-IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "టెక్స్ట్"
+
+msgid "Tabled Text"
+msgstr "టేబుల్డ్ టెక్స్ట్"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "సపోర్ట్"
+
+msgid "Square Size:"
+msgstr "చతురస్ర పరిమాణం:"
+
+msgid "Row Sum:"
+msgstr "వరుస మొత్తం:"
+
+msgid "Algorithm:"
+msgstr "ఆల్గోరిథమ్:"
+
+msgid "Generate"
+msgstr "సృష్టించు"
+
+msgid "Rotate"
+msgstr "పలికించు"
+
+msgid "Mirror"
+msgstr "మిర్రర్"
+
+msgid "Output format:"
+msgstr "అవుట్‌పుట్ ఫార్మాట్:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "స్ప్రెడ్షీట్‌లకు ట్యాబ్-విభజిత విలువలు."
+
+msgid "Box borders:"
+msgstr "బాక్స్ బార్డర్లు:"
+
+msgid "Cell height:"
+msgstr "సెల్ ఎత్తు:"
+
+msgid "Cell width:"
+msgstr "సెల్ వెడల్పు:"
+
+msgid "Ink color:"
+msgstr "ఇంక్ రంగు:"
+
+msgid "Rotation start direction"
+msgstr "పలికింపు ప్రారంభ దిశ"
+
+msgid "Left (-45°)"
+msgstr "ఎడమ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "కుడి (+45°)"
+
+msgid "No rotation"
+msgstr "పలికింపు లేదు"
+
+msgid "Select a document size:"
+msgstr "డాక్యుమెంట్ పరిమాణం ఎంచుకోండి:"
+
+msgid "Dream sized, contains content"
+msgstr "డ్రీమ్ సైజ్డ్, కంటెంట్ కలిగిన"
+
+msgid "Magic Square:"
+msgstr "మ్యాజిక్ స్క్వేర్:"
+
+msgid "Copy to Clipboard"
+msgstr "క్లిప్‌బోర్డ్‌కు కాపీ చేయి"
+
+msgid "Save File"
+msgstr "ఫైల్ సేవ్ చేయి"
+
+msgid "Use Indian Numbers"
+msgstr "ఇండియన్ సంఖ్యలను ఉపయోగించండి"
+
+msgid "Odd sized (Siamese)"
+msgstr "బేసి పరిమాణం (సియామీస్)"
+
+msgid "Doubly even (Strachey)"
+msgstr "డబుల్ సమ (స్ట్రాచీ)"
+
+msgid "Doubly even (Durer)"
+msgstr "డబుల్ సమ (డురర్)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "ద్విగుణ జంట (సరళ మార్పిడి)"
+
+msgid "Singly even (Strachey)"
+msgstr "ఒకే జంట (స్ట్రాచీ)"
+
+msgid "Magic Constant:"
+msgstr "మాయా స్థిరాంకం:"
+
+msgid "Row"
+msgstr "పంక్తి"
+
+msgid "Column"
+msgstr "కాలమ్"
+
+msgid "Main Diagonal:"
+msgstr "ప్రధాన డయాగనల్:"
+
+msgid "Side Diagonal:"
+msgstr "సైడ్ డయాగనల్:"
+
+msgid "Total"
+msgstr "మొత్తం"
+
+msgid "Magic square is valid!"
+msgstr "మాయా చతురస్రం చెల్లుబాటు అయ్యింది!"
+
+msgid "Magic square is NOT valid!"
+msgstr "మాయా చతురస్రం చెల్లుబాటు కాలేదు!"
+
+msgid "Thank you for your support!"
+msgstr "మీ మద్దతుకు ధన్యవాదాలు!"
+
+msgid "Magic Square Widget"
+msgstr "మాయా చతురస్ర విడ్జెట్"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"మీ సైట్ మూలలో ఒక అనుకూలీకరించగల మాయా చతురస్ర సృష్టికర్త (విడ్జెట్) ని "
+"చేర్చుతుంది."

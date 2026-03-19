@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Thai <th_TH>\n"
+"Language: th-TH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "ข้อความ"
+
+msgid "Tabled Text"
+msgstr "ข้อความตาราง"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "สนับสนุน"
+
+msgid "Square Size:"
+msgstr "ขนาดสี่เหลี่ยม:"
+
+msgid "Row Sum:"
+msgstr "ผลรวมแถว:"
+
+msgid "Algorithm:"
+msgstr "อัลกอริทึม:"
+
+msgid "Generate"
+msgstr "สร้าง"
+
+msgid "Rotate"
+msgstr "หมุน"
+
+msgid "Mirror"
+msgstr "กระทบัน"
+
+msgid "Output format:"
+msgstr "รูปแบบผลลัพธ์:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "ค่าที่แยกด้วยแท็บสำหรับสเปรดชีต"
+
+msgid "Box borders:"
+msgstr "ขอบกล่อง:"
+
+msgid "Cell height:"
+msgstr "ความสูงของเซลล์:"
+
+msgid "Cell width:"
+msgstr "ความกว้างของเซลล์:"
+
+msgid "Ink color:"
+msgstr "สีหมึก:"
+
+msgid "Rotation start direction"
+msgstr "ทิศเริ่มหมุน"
+
+msgid "Left (-45°)"
+msgstr "ซ้าย (-45°)"
+
+msgid "Right (+45°)"
+msgstr "ขวา (+45°)"
+
+msgid "No rotation"
+msgstr "ไม่หมุน"
+
+msgid "Select a document size:"
+msgstr "เลือกขนาดเอกสาร:"
+
+msgid "Dream sized, contains content"
+msgstr "ขนาดตามฝัน, มีเนื้อหา"
+
+msgid "Magic Square:"
+msgstr "สี่เหลี่ยมเวทมนตร์:"
+
+msgid "Copy to Clipboard"
+msgstr "คัดลอกไปยังคลิปบอร์ด"
+
+msgid "Save File"
+msgstr "บันทึกไฟล์"
+
+msgid "Use Indian Numbers"
+msgstr "ใช้ตัวเลขอินเดีย"
+
+msgid "Odd sized (Siamese)"
+msgstr "ขนาดคี่ (สยาม)"
+
+msgid "Doubly even (Strachey)"
+msgstr "คู่คู่ (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "คู่คู่ (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "คู่คู่ (การแลกเปลี่ยนแบบง่าย)"
+
+msgid "Singly even (Strachey)"
+msgstr "คู่เดียว (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "ค่าคงที่:"
+
+msgid "Row"
+msgstr "แถว"
+
+msgid "Column"
+msgstr "คอลัมน์"
+
+msgid "Main Diagonal:"
+msgstr "ทแยงมุมหลัก:"
+
+msgid "Side Diagonal:"
+msgstr "ทแยงมุมข้าง:"
+
+msgid "Total"
+msgstr "รวม"
+
+msgid "Magic square is valid!"
+msgstr "ตารางเวทมนตร์ถูกต้อง!"
+
+msgid "Magic square is NOT valid!"
+msgstr "ตารางเวทมนตร์ไม่ถูกต้อง!"
+
+msgid "Thank you for your support!"
+msgstr "ขอขอบคุณสำหรับการสนับสนุนของคุณ!"
+
+msgid "Magic Square Widget"
+msgstr "วิดเจ็ตตารางเวทมนตร์"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"เพิ่มตัวสร้างตารางเวทมนตร์ที่กำหนดเอง (วิดเจ็ต) ลงในมุมของเว็บไซต์ของคุณ."
