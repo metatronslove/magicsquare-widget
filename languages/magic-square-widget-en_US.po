@@ -1,0 +1,187 @@
+# Magic Square Widget - English (US) translation.
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/magic-square-widget\n"
+"POT-Creation-Date: 2026-03-18 14:00+0000\n"
+"PO-Revision-Date: 2026-03-18 06:07+0300\n"
+"Last-Translator: Metatron's Love <metatronslove@example.com>\n"
+"Language-Team: English (US)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.9\n"
+
+#: public/class-magic-square-public.php:34
+msgid "Text"
+msgstr "Text"
+
+#: public/class-magic-square-public.php:35
+msgid "Tabled Text"
+msgstr "Tabled Text"
+
+#: public/class-magic-square-public.php:36
+msgid "HTML"
+msgstr "HTML"
+
+#: public/class-magic-square-public.php:37
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+#: public/class-magic-square-public.php:38
+msgid "Support"
+msgstr "Support"
+
+#: public/class-magic-square-public.php:41
+msgid "Square Size:"
+msgstr "Square Size:"
+
+#: public/class-magic-square-public.php:42
+msgid "Row Sum:"
+msgstr "Row Sum:"
+
+#: public/class-magic-square-public.php:43
+msgid "Algorithm:"
+msgstr "Algorithm:"
+
+#: public/class-magic-square-public.php:44
+msgid "Generate"
+msgstr "Generate"
+
+#: public/class-magic-square-public.php:45
+msgid "Rotate"
+msgstr "Rotate"
+
+#: public/class-magic-square-public.php:46
+msgid "Mirror"
+msgstr "Mirror"
+
+#: public/class-magic-square-public.php:47
+msgid "Output format:"
+msgstr "Output format:"
+
+#: public/class-magic-square-public.php:48
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tab-separated values for spreadsheets."
+
+#: public/class-magic-square-public.php:49
+msgid "Box borders:"
+msgstr "Box borders:"
+
+#: public/class-magic-square-public.php:50
+msgid "Cell height:"
+msgstr "Cell height:"
+
+#: public/class-magic-square-public.php:51
+msgid "Cell width:"
+msgstr "Cell width:"
+
+#: public/class-magic-square-public.php:52
+msgid "Ink color:"
+msgstr "Ink color:"
+
+#: public/class-magic-square-public.php:53
+msgid "Rotation start direction"
+msgstr "Rotation start direction"
+
+#: public/class-magic-square-public.php:54
+msgid "Left (-45°)"
+msgstr "Left (-45°)"
+
+#: public/class-magic-square-public.php:55
+msgid "Right (+45°)"
+msgstr "Right (+45°)"
+
+#: public/class-magic-square-public.php:56
+msgid "No rotation"
+msgstr "No rotation"
+
+#: public/class-magic-square-public.php:57
+msgid "Select a document size:"
+msgstr "Select a document size:"
+
+#: public/class-magic-square-public.php:58
+msgid "Dream sized, contains content"
+msgstr "Dream sized, contains content"
+
+#: public/class-magic-square-public.php:59
+msgid "Magic Square:"
+msgstr "Magic Square:"
+
+#: public/class-magic-square-public.php:60
+msgid "Copy to Clipboard"
+msgstr "Copy to Clipboard"
+
+#: public/class-magic-square-public.php:61
+msgid "Save File"
+msgstr "Save File"
+
+#: public/class-magic-square-public.php:62
+msgid "Use Indian Numbers"
+msgstr "Use Indian Numbers"
+
+#: public/class-magic-square-public.php:65
+msgid "Odd sized (Siamese)"
+msgstr "Odd sized (Siamese)"
+
+#: public/class-magic-square-public.php:66
+msgid "Doubly even (Strachey)"
+msgstr "Doubly even (Strachey)"
+
+#: public/class-magic-square-public.php:67
+msgid "Doubly even (Durer)"
+msgstr "Doubly even (Durer)"
+
+#: public/class-magic-square-public.php:68
+msgid "Doubly even (Simple exchange)"
+msgstr "Doubly even (Simple exchange)"
+
+#: public/class-magic-square-public.php:69
+msgid "Singly even (Strachey)"
+msgstr "Singly even (Strachey)"
+
+#: public/class-magic-square-public.php:72
+msgid "Magic Constant:"
+msgstr "Magic Constant:"
+
+#: public/class-magic-square-public.php:73
+msgid "Row"
+msgstr "Row"
+
+#: public/class-magic-square-public.php:74
+msgid "Column"
+msgstr "Column"
+
+#: public/class-magic-square-public.php:75
+msgid "Main Diagonal:"
+msgstr "Main Diagonal:"
+
+#: public/class-magic-square-public.php:76
+msgid "Side Diagonal:"
+msgstr "Side Diagonal:"
+
+#: public/class-magic-square-public.php:77
+msgid "Total"
+msgstr "Total"
+
+#: public/class-magic-square-public.php:78
+msgid "Magic square is valid!"
+msgstr "Magic square is valid!"
+
+#: public/class-magic-square-public.php:79
+msgid "Magic square is NOT valid!"
+msgstr "Magic square is NOT valid!"
+
+#: public/class-magic-square-public.php:82
+msgid "Thank you for your support!"
+msgstr "Thank you for your support!"
+
+#. Plugin Name of the plugin
+msgid "Magic Square Widget"
+msgstr "Magic Square Widget"
+
+#. Plugin Description of the plugin
+msgid "Adds a customizable magic square generator (widget) to the corner of your site."
+msgstr "Adds a customizable magic square generator (widget) to the corner of your site."

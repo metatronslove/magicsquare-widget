@@ -1,0 +1,187 @@
+# Magic Square Widget - Türkçe çeviri.
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/magic-square-widget\n"
+"POT-Creation-Date: 2026-03-18 14:00+0000\n"
+"PO-Revision-Date: 2026-03-18 06:07+0300\n"
+"Last-Translator: Metatron's Love <metatronslove@example.com>\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.9\n"
+
+#: public/class-magic-square-public.php:34
+msgid "Text"
+msgstr "Metin"
+
+#: public/class-magic-square-public.php:35
+msgid "Tabled Text"
+msgstr "Tablolu Metin"
+
+#: public/class-magic-square-public.php:36
+msgid "HTML"
+msgstr "HTML"
+
+#: public/class-magic-square-public.php:37
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+#: public/class-magic-square-public.php:38
+msgid "Support"
+msgstr "Destek"
+
+#: public/class-magic-square-public.php:41
+msgid "Square Size:"
+msgstr "Kare Boyutu:"
+
+#: public/class-magic-square-public.php:42
+msgid "Row Sum:"
+msgstr "Satır Toplamı:"
+
+#: public/class-magic-square-public.php:43
+msgid "Algorithm:"
+msgstr "Algoritma:"
+
+#: public/class-magic-square-public.php:44
+msgid "Generate"
+msgstr "Oluştur"
+
+#: public/class-magic-square-public.php:45
+msgid "Rotate"
+msgstr "Döndür"
+
+#: public/class-magic-square-public.php:46
+msgid "Mirror"
+msgstr "Yansıt"
+
+#: public/class-magic-square-public.php:47
+msgid "Output format:"
+msgstr "Çıktı biçimi:"
+
+#: public/class-magic-square-public.php:48
+msgid "Tab-separated values for spreadsheets."
+msgstr "E-tablolar için sekmeyle ayrılmış değerler."
+
+#: public/class-magic-square-public.php:49
+msgid "Box borders:"
+msgstr "Kutu kenarları:"
+
+#: public/class-magic-square-public.php:50
+msgid "Cell height:"
+msgstr "Hücre yüksekliği:"
+
+#: public/class-magic-square-public.php:51
+msgid "Cell width:"
+msgstr "Hücre genişliği:"
+
+#: public/class-magic-square-public.php:52
+msgid "Ink color:"
+msgstr "Mürekkep rengi:"
+
+#: public/class-magic-square-public.php:53
+msgid "Rotation start direction"
+msgstr "Döndürme başlangıç yönü"
+
+#: public/class-magic-square-public.php:54
+msgid "Left (-45°)"
+msgstr "Sola (-45°)"
+
+#: public/class-magic-square-public.php:55
+msgid "Right (+45°)"
+msgstr "Sağa (+45°)"
+
+#: public/class-magic-square-public.php:56
+msgid "No rotation"
+msgstr "Döndürme yok"
+
+#: public/class-magic-square-public.php:57
+msgid "Select a document size:"
+msgstr "Belge boyutu seçin:"
+
+#: public/class-magic-square-public.php:58
+msgid "Dream sized, contains content"
+msgstr "İçeriğe göre hayali boyut"
+
+#: public/class-magic-square-public.php:59
+msgid "Magic Square:"
+msgstr "Sihirli Kare:"
+
+#: public/class-magic-square-public.php:60
+msgid "Copy to Clipboard"
+msgstr "Panoya Kopyala"
+
+#: public/class-magic-square-public.php:61
+msgid "Save File"
+msgstr "Dosyayı Kaydet"
+
+#: public/class-magic-square-public.php:62
+msgid "Use Indian Numbers"
+msgstr "Hint Rakamlarını Kullan"
+
+#: public/class-magic-square-public.php:65
+msgid "Odd sized (Siamese)"
+msgstr "Tek boyutlu (Siamese)"
+
+#: public/class-magic-square-public.php:66
+msgid "Doubly even (Strachey)"
+msgstr "Çift-çift (Strachey)"
+
+#: public/class-magic-square-public.php:67
+msgid "Doubly even (Durer)"
+msgstr "Çift-çift (Dürer)"
+
+#: public/class-magic-square-public.php:68
+msgid "Doubly even (Simple exchange)"
+msgstr "Çift-çift (Basit değişim)"
+
+#: public/class-magic-square-public.php:69
+msgid "Singly even (Strachey)"
+msgstr "Tek-çift (Strachey)"
+
+#: public/class-magic-square-public.php:72
+msgid "Magic Constant:"
+msgstr "Sihirli Sabit:"
+
+#: public/class-magic-square-public.php:73
+msgid "Row"
+msgstr "Satır"
+
+#: public/class-magic-square-public.php:74
+msgid "Column"
+msgstr "Sütun"
+
+#: public/class-magic-square-public.php:75
+msgid "Main Diagonal:"
+msgstr "Ana Köşegen:"
+
+#: public/class-magic-square-public.php:76
+msgid "Side Diagonal:"
+msgstr "Yan Köşegen:"
+
+#: public/class-magic-square-public.php:77
+msgid "Total"
+msgstr "Toplam"
+
+#: public/class-magic-square-public.php:78
+msgid "Magic square is valid!"
+msgstr "Sihirli kare geçerli!"
+
+#: public/class-magic-square-public.php:79
+msgid "Magic square is NOT valid!"
+msgstr "Sihirli kare GEÇERSİZ!"
+
+#: public/class-magic-square-public.php:82
+msgid "Thank you for your support!"
+msgstr "Desteğiniz için teşekkürler!"
+
+#. Plugin Name of the plugin
+msgid "Magic Square Widget"
+msgstr "Sihirli Kare Eklentisi"
+
+#. Plugin Description of the plugin
+msgid "Adds a customizable magic square generator (widget) to the corner of your site."
+msgstr "Sitenizin köşesine özelleştirilebilir bir sihirli kare oluşturucu (widget) ekler."
