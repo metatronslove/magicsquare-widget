@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Punjabi (Shahmukhi) <pa_PK>\n"
+"Language: pa-PK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "متن"
+
+msgid "Tabled Text"
+msgstr "ٹیبل شدہ متن"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "سپورٹ"
+
+msgid "Square Size:"
+msgstr "مربع دا سائز:"
+
+msgid "Row Sum:"
+msgstr "رکنی دا مجموعہ:"
+
+msgid "Algorithm:"
+msgstr "الگورتھم:"
+
+msgid "Generate"
+msgstr "تولید"
+
+msgid "Rotate"
+msgstr "گھمانا"
+
+msgid "Mirror"
+msgstr "عکاس"
+
+msgid "Output format:"
+msgstr "خروجی فارمیٹ:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "اسپریڈشیٹس لئی ٹیبیٹڈ جدا کردہ قدراں."
+
+msgid "Box borders:"
+msgstr "باکس دا سرحد:"
+
+msgid "Cell height:"
+msgstr "خلیہ دی قد:"
+
+msgid "Cell width:"
+msgstr "خلیہ دی چوڑائی:"
+
+msgid "Ink color:"
+msgstr "سیاہی دا رنگ:"
+
+msgid "Rotation start direction"
+msgstr "گھومنے دی شروعاتی سمت"
+
+msgid "Left (-45°)"
+msgstr "بائیں (-45°)"
+
+msgid "Right (+45°)"
+msgstr "ساہن (+45°)"
+
+msgid "No rotation"
+msgstr "کوئی گھومنا نہیں"
+
+msgid "Select a document size:"
+msgstr "دستاویز دا سائز منتخب کرو:"
+
+msgid "Dream sized, contains content"
+msgstr "خواب دا سائز، مواد نال بھریا"
+
+msgid "Magic Square:"
+msgstr "جادوئی مربع:"
+
+msgid "Copy to Clipboard"
+msgstr "کلپ بورڈ تے کاپی کرو"
+
+msgid "Save File"
+msgstr "فائل محفوظ کرو"
+
+msgid "Use Indian Numbers"
+msgstr "بھارتیاں اعداد استعمال کرو"
+
+msgid "Odd sized (Siamese)"
+msgstr "غیر جُڑی (سیاِمی)"
+
+msgid "Doubly even (Strachey)"
+msgstr "دہری جُڑی (سٹرچی)"
+
+msgid "Doubly even (Durer)"
+msgstr "دہری جُڑی (دُیر)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "دوگنا جفت (سادہ تبادلہ)"
+
+msgid "Singly even (Strachey)"
+msgstr "سنگل جفت (سٹراچی)"
+
+msgid "Magic Constant:"
+msgstr "جادوئی مستقل:"
+
+msgid "Row"
+msgstr "سطر"
+
+msgid "Column"
+msgstr "کالم"
+
+msgid "Main Diagonal:"
+msgstr "اہم قطر:"
+
+msgid "Side Diagonal:"
+msgstr "سائڈ ڈائگنل:"
+
+msgid "Total"
+msgstr "کل"
+
+msgid "Magic square is valid!"
+msgstr "جادوئی چوکور درست ہے!"
+
+msgid "Magic square is NOT valid!"
+msgstr "جادوئی چوکور درست نہیں ہے!"
+
+msgid "Thank you for your support!"
+msgstr "آپ کی حمایت کا شکریہ!"
+
+msgid "Magic Square Widget"
+msgstr "جادوئی چوکور ویجٹ"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"اپنی سائٹ کے کونے میں ایک قابل تخصیص جادوئی چوکور جنریٹر (ویجٹ) شامل کرتا "
+"ہے۔"

@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Slovak <sk_SK>\n"
+"Language: sk-SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Tabled Text"
+msgstr "Tabulovaný text"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Square Size:"
+msgstr "Veľkosť poľa:"
+
+msgid "Row Sum:"
+msgstr "Suma riadku:"
+
+msgid "Algorithm:"
+msgstr "Algoritmus:"
+
+msgid "Generate"
+msgstr "Generovať"
+
+msgid "Rotate"
+msgstr "Otočiť"
+
+msgid "Mirror"
+msgstr "Zrkadliť"
+
+msgid "Output format:"
+msgstr "Formát výstupu:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tabulátorom oddelené hodnoty pre tabuľkové procesory."
+
+msgid "Box borders:"
+msgstr "Okraje poľa:"
+
+msgid "Cell height:"
+msgstr "Výška bunky:"
+
+msgid "Cell width:"
+msgstr "Šírka bunky:"
+
+msgid "Ink color:"
+msgstr "Farba inkoustu:"
+
+msgid "Rotation start direction"
+msgstr "Smer začiatku otáčania"
+
+msgid "Left (-45°)"
+msgstr "Ľavý (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Pravý (+45°)"
+
+msgid "No rotation"
+msgstr "Bez otáčania"
+
+msgid "Select a document size:"
+msgstr "Vyberte veľkosť dokumentu:"
+
+msgid "Dream sized, contains content"
+msgstr "Veľkosť podľa snu, obsahuje obsah"
+
+msgid "Magic Square:"
+msgstr "Kúzelná šachovnica:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopírovať do schránky"
+
+msgid "Save File"
+msgstr "Uložiť súbor"
+
+msgid "Use Indian Numbers"
+msgstr "Použiť indické čísla"
+
+msgid "Odd sized (Siamese)"
+msgstr "Nezvyčajná veľkosť (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dvojitá sudá (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dvojitá sudá (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dvojitý sudý (Jednoduchá výmena)"
+
+msgid "Singly even (Strachey)"
+msgstr "Jednoduchý sudý (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Magická konštanta:"
+
+msgid "Row"
+msgstr "Riadok"
+
+msgid "Column"
+msgstr "Stĺpec"
+
+msgid "Main Diagonal:"
+msgstr "Hlavná diagonála:"
+
+msgid "Side Diagonal:"
+msgstr "Bočná diagonála:"
+
+msgid "Total"
+msgstr "Celkom"
+
+msgid "Magic square is valid!"
+msgstr "Magický štvorec je platný!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Magický štvorec NIE je platný!"
+
+msgid "Thank you for your support!"
+msgstr "Ďakujeme za vašu podporu!"
+
+msgid "Magic Square Widget"
+msgstr "Widget Magického štvorca"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Pridáva prispôsobiteľný generátor magických štvorcov (widget) do rohu vašej "
+"stránky."

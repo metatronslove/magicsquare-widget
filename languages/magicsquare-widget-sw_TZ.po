@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Swahili (Tanzania) <sw_TZ>\n"
+"Language: sw-TZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Nyaraka"
+
+msgid "Tabled Text"
+msgstr "Nyaraka ya Meza"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Usaidizi"
+
+msgid "Square Size:"
+msgstr "Ukubwa wa Mkavu:"
+
+msgid "Row Sum:"
+msgstr "Jumla ya Safu:"
+
+msgid "Algorithm:"
+msgstr "Algoritimu:"
+
+msgid "Generate"
+msgstr "Tengeneza"
+
+msgid "Rotate"
+msgstr "Pinda"
+
+msgid "Mirror"
+msgstr "Kujibu"
+
+msgid "Output format:"
+msgstr "Muundo wa Pato:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tathmini zilizoangaliwa na tab kwa spreadsheets."
+
+msgid "Box borders:"
+msgstr "Mipaka ya Sanduku:"
+
+msgid "Cell height:"
+msgstr "Urefu wa Seli:"
+
+msgid "Cell width:"
+msgstr "Upana wa Seli:"
+
+msgid "Ink color:"
+msgstr "Rangi ya Mchele:"
+
+msgid "Rotation start direction"
+msgstr "Mkurasa wa kuanza mzunguko"
+
+msgid "Left (-45°)"
+msgstr "Kushoto (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Kulia (+45°)"
+
+msgid "No rotation"
+msgstr "Hakuna Mzunguko"
+
+msgid "Select a document size:"
+msgstr "Chagua Ukubwa wa Hati:"
+
+msgid "Dream sized, contains content"
+msgstr "Ukubwa wa Ndoto, una Maudhui"
+
+msgid "Magic Square:"
+msgstr "Mkavu wa Uchawi:"
+
+msgid "Copy to Clipboard"
+msgstr "Nakili kwa Clipboard"
+
+msgid "Save File"
+msgstr "Hifadhi Faili"
+
+msgid "Use Indian Numbers"
+msgstr "Tumia Nambari za India"
+
+msgid "Odd sized (Siamese)"
+msgstr "Ukubwa wa Ndivi (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Ukubwa wa Dubili Mpangilio (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Ukubwa wa Dubili Mpangilio (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Doubly even (Mbadala rahisi)"
+
+msgid "Singly even (Strachey)"
+msgstr "Singly even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Kiwango cha Maji:"
+
+msgid "Row"
+msgstr "Safu"
+
+msgid "Column"
+msgstr "Safu"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal kuu:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonal ya upande:"
+
+msgid "Total"
+msgstr "Jumla"
+
+msgid "Magic square is valid!"
+msgstr "Mzeki wa Maji ni halali!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Mzeki wa Maji sio halali!"
+
+msgid "Thank you for your support!"
+msgstr "Asante kwa msaada wako!"
+
+msgid "Magic Square Widget"
+msgstr "Widget wa Mzeki wa Maji"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Yongeza jenereta ya mzeki wa maji (widget) inayoweza kuboreshwa kwenye kona "
+"ya tovuti yako."

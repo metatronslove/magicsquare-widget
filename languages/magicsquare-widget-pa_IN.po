@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Punjabi (Gurmukhi) <pa_IN>\n"
+"Language: pa-IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "ਟੈਕਸਟ"
+
+msgid "Tabled Text"
+msgstr "ਸਾਰਣੀਬੱਧ ਟੈਕਸਟ"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "ਸਹਾਇਤਾ"
+
+msgid "Square Size:"
+msgstr "ਚੌਕੋਰ ਆਕਾਰ:"
+
+msgid "Row Sum:"
+msgstr "ਕਤਾਰ ਜੋੜ:"
+
+msgid "Algorithm:"
+msgstr "ਅਲਗੋਰਿਥਮ:"
+
+msgid "Generate"
+msgstr "ਤਿਆਰ ਕਰੋ"
+
+msgid "Rotate"
+msgstr "ਘੁੰਮਾਓ"
+
+msgid "Mirror"
+msgstr "ਪ੍ਰਤੀਬਿੰਬ"
+
+msgid "Output format:"
+msgstr "ਆਉਟਪੁੱਟ ਫਾਰਮੈਟ:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "ਸਪ੍ਰੈੱਡਸ਼ੀਟਾਂ ਲਈ ਟੈਬ ਨਾਲ ਵੱਖਰੇ ਕੀਤੇ ਮੁੱਲ।"
+
+msgid "Box borders:"
+msgstr "ਬਕਸਾ ਸੀਮਾ:"
+
+msgid "Cell height:"
+msgstr "ਕੋਸ਼ਾ ਉਚਾਈ:"
+
+msgid "Cell width:"
+msgstr "ਕੋਸ਼ਾ ਚੌੜਾਈ:"
+
+msgid "Ink color:"
+msgstr "ਸਿਆਹੀ ਰੰਗ:"
+
+msgid "Rotation start direction"
+msgstr "ਘੁੰਮਾਉ ਸ਼ੁਰੂਆਤੀ ਦਿਸ਼ਾ"
+
+msgid "Left (-45°)"
+msgstr "ਖੱਬਾ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "ਸੱਜਾ (+45°)"
+
+msgid "No rotation"
+msgstr "ਕੋਈ ਘੁੰਮਾਉ ਨਹੀਂ"
+
+msgid "Select a document size:"
+msgstr "ਦਸਤਾਵੇਜ਼ ਆਕਾਰ ਚੁਣੋ:"
+
+msgid "Dream sized, contains content"
+msgstr "ਸਪਨਾ ਆਕਾਰ, ਸਮੱਗਰੀ ਸ਼ਾਮਲ"
+
+msgid "Magic Square:"
+msgstr "ਜਾਦੂਈ ਚੌਕੋਰ:"
+
+msgid "Copy to Clipboard"
+msgstr "ਕਲਿੱਪਬੋਰਡ 'ਤੇ ਕਾਪੀ ਕਰੋ"
+
+msgid "Save File"
+msgstr "ਫਾਇਲ ਸੰਭਾਲੋ"
+
+msgid "Use Indian Numbers"
+msgstr "ਭਾਰਤੀ ਅੰਕਾਂ ਵਰਤੋਂ"
+
+msgid "Odd sized (Siamese)"
+msgstr "ਅਲਗ ਆਕਾਰ (ਸਿਆਮਿਜ਼)"
+
+msgid "Doubly even (Strachey)"
+msgstr "ਦੁਹਰਾ ਜੁੜਾ (ਸਟ੍ਰੈਚੀ)"
+
+msgid "Doubly even (Durer)"
+msgstr "ਦੁਹਰਾ ਜੁੜਾ (ਡੂਰਰ)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "ਦੋਹਰੀ ਸਮਾਂ (ਸਧਾਰਨ ਅਦਲ-ਬਦਲ)"
+
+msgid "Singly even (Strachey)"
+msgstr "ਇੱਕਲੀ ਸਮਾਂ (ਸਟਰੈਚੀ)"
+
+msgid "Magic Constant:"
+msgstr "ਮੈਜਿਕ ਸਥਿਰ:"
+
+msgid "Row"
+msgstr "ਕਤਾਰ"
+
+msgid "Column"
+msgstr "ਕਾਲਮ"
+
+msgid "Main Diagonal:"
+msgstr "ਮੁੱਖ ਤਿਰਛਾ:"
+
+msgid "Side Diagonal:"
+msgstr "ਪਾਸੇ ਵਾਲਾ ਤਿਰਛਾ:"
+
+msgid "Total"
+msgstr "ਕੁੱਲ"
+
+msgid "Magic square is valid!"
+msgstr "ਮੈਜਿਕ ਸਕਵੇਅਰ ਸਹੀ ਹੈ!"
+
+msgid "Magic square is NOT valid!"
+msgstr "ਮੈਜਿਕ ਸਕਵੇਅਰ ਗਲਤ ਹੈ!"
+
+msgid "Thank you for your support!"
+msgstr "ਤੁਹਾਡੇ ਸਮਰਥਨ ਲਈ ਧੰਨਵਾਦ!"
+
+msgid "Magic Square Widget"
+msgstr "ਮੈਜਿਕ ਸਕਵੇਅਰ ਵਿਜ਼ਟ"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"ਤੁਹਾਡੀ ਸਾਈਟ ਦੇ ਕੋਨੇ ਵਿੱਚ ਇੱਕ ਕਸਟਮਾਈਜ਼ੇਬਲ ਮੈਜਿਕ ਸਕਵੇਅਰ ਜਨਰੇਟਰ (ਵਿਜ਼ਟ) ਸ਼ਾਮਲ "
+"ਕਰਦਾ ਹੈ।"

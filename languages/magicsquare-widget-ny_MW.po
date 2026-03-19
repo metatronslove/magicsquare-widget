@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Nyanja <ny_MW>\n"
+"Language: ny-MW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Nkhanda"
+
+msgid "Tabled Text"
+msgstr "Nkhanda la Tebulo"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Thandizo"
+
+msgid "Square Size:"
+msgstr "Ndondomeko ya Mzinda:"
+
+msgid "Row Sum:"
+msgstr "Sumu ya Zikalo:"
+
+msgid "Algorithm:"
+msgstr "Algozima:"
+
+msgid "Generate"
+msgstr "Pangani"
+
+msgid "Rotate"
+msgstr "Kulimbikiza"
+
+msgid "Mirror"
+msgstr "Kuzitha"
+
+msgid "Output format:"
+msgstr "Chimiro cha Mphamvu:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Zolowera zochitira tebulu la spreadsheet."
+
+msgid "Box borders:"
+msgstr "Mbale za Mphatilo:"
+
+msgid "Cell height:"
+msgstr "Kukula kwa Mziko:"
+
+msgid "Cell width:"
+msgstr "Udindo wa Mziko:"
+
+msgid "Ink color:"
+msgstr "Chibwino cha Mbali:"
+
+msgid "Rotation start direction"
+msgstr "Zikolozo la Kutangira kulimbikiza"
+
+msgid "Left (-45°)"
+msgstr "Kumwamba (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Kukuyenda (+45°)"
+
+msgid "No rotation"
+msgstr "Sizichintha"
+
+msgid "Select a document size:"
+msgstr "Sankhani sa ma file:"
+
+msgid "Dream sized, contains content"
+msgstr "Chikondi chotsatira, chitsanzo"
+
+msgid "Magic Square:"
+msgstr "Mziwu wa Mzinda:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopiira ku clipboard"
+
+msgid "Save File"
+msgstr "Sungani File"
+
+msgid "Use Indian Numbers"
+msgstr "Sankhani ma number a India"
+
+msgid "Odd sized (Siamese)"
+msgstr "Chikondi chokha (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Chikondi chokhala (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Chikondi chokhala (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Doubly even (Simple exchange)"
+
+msgid "Singly even (Strachey)"
+msgstr "Singly even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Kuyendera kwa Magulu:"
+
+msgid "Row"
+msgstr "Mwamba"
+
+msgid "Column"
+msgstr "Kolumu"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal Yakulu:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonal Yomphani:"
+
+msgid "Total"
+msgstr "Zosebabe"
+
+msgid "Magic square is valid!"
+msgstr "Bwechita wa magulu uli bwino!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Bwechita wa magulu uli musanali!"
+
+msgid "Thank you for your support!"
+msgstr "Zikomo chifukwa cha chithandizo chanu!"
+
+msgid "Magic Square Widget"
+msgstr "Widget wa Bwechita wa magulu"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Kuwongolera widget wopangira magulu (widget) mu chotsani cha tsamba lanu."

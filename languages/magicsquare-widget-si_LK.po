@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Sinhala <si_LK>\n"
+"Language: si-LK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "පෙළ"
+
+msgid "Tabled Text"
+msgstr "වගුකරණය කරන ලද පෙළ"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "සහාය"
+
+msgid "Square Size:"
+msgstr "චතුරශ්‍ර ප්‍රමාණය:"
+
+msgid "Row Sum:"
+msgstr "පේළි එකතුව:"
+
+msgid "Algorithm:"
+msgstr "ආල්ගෝරිදම:"
+
+msgid "Generate"
+msgstr "නිර්මාණය"
+
+msgid "Rotate"
+msgstr "ඇරිවන්න"
+
+msgid "Mirror"
+msgstr "දර්ශනය"
+
+msgid "Output format:"
+msgstr "ප්‍රතිදාන ආකාරය:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "ස්ප්‍රෙඩ්ශීට් සඳහා ටැබ් වෙන් කරන ලද වටිනාකම්."
+
+msgid "Box borders:"
+msgstr "පෙන්වීම් සීමා:"
+
+msgid "Cell height:"
+msgstr "සෙල් උස:"
+
+msgid "Cell width:"
+msgstr "සෙල් පුළුස්ස:"
+
+msgid "Ink color:"
+msgstr "ඊනි වර්ණය:"
+
+msgid "Rotation start direction"
+msgstr "ඇරිමේ ආරම්භය දිශාව"
+
+msgid "Left (-45°)"
+msgstr "ඇසළ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "දකුණ (+45°)"
+
+msgid "No rotation"
+msgstr "ඇරීම නැත"
+
+msgid "Select a document size:"
+msgstr "පත්‍ර ප්‍රමාණය තෝරන්න:"
+
+msgid "Dream sized, contains content"
+msgstr "දෙම්ප් ප්‍රමාණය, අන්තර්ගතය ඇතුළත්"
+
+msgid "Magic Square:"
+msgstr "ජාදූ චතුරශ්‍ර:"
+
+msgid "Copy to Clipboard"
+msgstr "ක්ලිප්බෝඩ්ට පිටපත් කරන්න"
+
+msgid "Save File"
+msgstr "ගොනුව සුරකින්න"
+
+msgid "Use Indian Numbers"
+msgstr "ඇනීන් අංක භාවිතා කරන්න"
+
+msgid "Odd sized (Siamese)"
+msgstr "අසම (සිමයිස්)"
+
+msgid "Doubly even (Strachey)"
+msgstr "ද්විතීයික සමා (ස්ට්‍රේචි)"
+
+msgid "Doubly even (Durer)"
+msgstr "ද්විතීයික සමා (ඩුර්ර්)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "දෙගුණ සමාන (සරල හුවමාරුව)"
+
+msgid "Singly even (Strachey)"
+msgstr "එකම සමාන (ස්ට්‍රැචි)"
+
+msgid "Magic Constant:"
+msgstr "මැජික් ස්ථිරය:"
+
+msgid "Row"
+msgstr "පේළිය"
+
+msgid "Column"
+msgstr "සිරස්"
+
+msgid "Main Diagonal:"
+msgstr "ප්‍රධාන වියදම:"
+
+msgid "Side Diagonal:"
+msgstr "පස වියදම:"
+
+msgid "Total"
+msgstr "සම්පූර්ණ"
+
+msgid "Magic square is valid!"
+msgstr "මැජික් වගු සත්‍යයි!"
+
+msgid "Magic square is NOT valid!"
+msgstr "මැජික් වගු වැරදියි!"
+
+msgid "Thank you for your support!"
+msgstr "ඔබගේ සහය සඳහා ස්තූතියි!"
+
+msgid "Magic Square Widget"
+msgstr "මැජික් වගු විජට්"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"ඔබගේ වෙබ් අඩවියේ කෙළවරට අභිරුචි කළ හැකි මැජික් වගු ජනක (විජට්) එකතු කරයි."

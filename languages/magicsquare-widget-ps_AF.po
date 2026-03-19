@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Pashto <ps_AF>\n"
+"Language: ps-AF\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "متن"
+
+msgid "Tabled Text"
+msgstr "د جدول متن"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "د ملاتړ"
+
+msgid "Square Size:"
+msgstr "د مربع اندازه:"
+
+msgid "Row Sum:"
+msgstr "د قطار مجموعه:"
+
+msgid "Algorithm:"
+msgstr "الګوریتم:"
+
+msgid "Generate"
+msgstr "جوړول"
+
+msgid "Rotate"
+msgstr "ګرځول"
+
+msgid "Mirror"
+msgstr "عکس"
+
+msgid "Output format:"
+msgstr "د محصول بڼه:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "د جداول لپاره د ټاب بېلول شوي ارزښتونه."
+
+msgid "Box borders:"
+msgstr "د صندوق سرحدونه:"
+
+msgid "Cell height:"
+msgstr "د حجرې لوړوالی:"
+
+msgid "Cell width:"
+msgstr "د حجرې پلنوالی:"
+
+msgid "Ink color:"
+msgstr "د حبر رنګ:"
+
+msgid "Rotation start direction"
+msgstr "د چرخولو پیل لاره"
+
+msgid "Left (-45°)"
+msgstr "چپ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "سرې (+45°)"
+
+msgid "No rotation"
+msgstr "بدون چرخونه"
+
+msgid "Select a document size:"
+msgstr "د سند اندازه غوره کړئ:"
+
+msgid "Dream sized, contains content"
+msgstr "د خوب اندازه، منځپانګه لري"
+
+msgid "Magic Square:"
+msgstr "جادوی مربع:"
+
+msgid "Copy to Clipboard"
+msgstr "کاپي کول د کلیپ بورډ ته"
+
+msgid "Save File"
+msgstr "فایل خوندي کول"
+
+msgid "Use Indian Numbers"
+msgstr "د هندي شمېرو کارول"
+
+msgid "Odd sized (Siamese)"
+msgstr "د فرد انداز (سایامیز)"
+
+msgid "Doubly even (Strachey)"
+msgstr "د دوه برابره شمیری (ستراچی)"
+
+msgid "Doubly even (Durer)"
+msgstr "د دوه برابره شمیری (دورر)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "ډبل برابره (ساده تبادله)"
+
+msgid "Singly even (Strachey)"
+msgstr "یوازنی برابره (سټراکې)"
+
+msgid "Magic Constant:"
+msgstr "جادويي ثابت:"
+
+msgid "Row"
+msgstr "ریګه"
+
+msgid "Column"
+msgstr "ستون"
+
+msgid "Main Diagonal:"
+msgstr "اصلي قطر:"
+
+msgid "Side Diagonal:"
+msgstr "د اړخ قطر:"
+
+msgid "Total"
+msgstr "ټول"
+
+msgid "Magic square is valid!"
+msgstr "جادوي مربع سمه ده!"
+
+msgid "Magic square is NOT valid!"
+msgstr "جادوي مربع سمه نه ده!"
+
+msgid "Thank you for your support!"
+msgstr "ستاسو د ملاتړ لپاره مننه!"
+
+msgid "Magic Square Widget"
+msgstr "جادوي مربع ویجټ"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"ستاسو د سایټ د کونج ته د دودیزولو وړ جادوي مربع جوړونکی (ویجټ) زیاتوي."

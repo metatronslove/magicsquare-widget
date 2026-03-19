@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Lule Sami (Norway) <smj_NO>\n"
+"Language: smj-NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "tekstid"
+
+msgid "Tabled Text"
+msgstr "Tabelltekstid"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Støtta"
+
+msgid "Square Size:"
+msgstr "Kvadrát storð:"
+
+msgid "Row Sum:"
+msgstr "Rád summa:"
+
+msgid "Algorithm:"
+msgstr "Algoritmi:"
+
+msgid "Generate"
+msgstr "Bergá"
+
+msgid "Rotate"
+msgstr "Rákti"
+
+msgid "Mirror"
+msgstr "Gáddje"
+
+msgid "Output format:"
+msgstr "Utgåd format:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tab-separérda varv for regneblátta."
+
+msgid "Box borders:"
+msgstr "Kast borde:"
+
+msgid "Cell height:"
+msgstr "Cell höjd:"
+
+msgid "Cell width:"
+msgstr "Cell breidd:"
+
+msgid "Ink color:"
+msgstr "Inka farg:"
+
+msgid "Rotation start direction"
+msgstr "Rákti start retning"
+
+msgid "Left (-45°)"
+msgstr "Høft (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Rihte (+45°)"
+
+msgid "No rotation"
+msgstr "Ingen rákti"
+
+msgid "Select a document size:"
+msgstr "Vel ein dokument storð:"
+
+msgid "Dream sized, contains content"
+msgstr "Drøm storð, inneholder innehalt"
+
+msgid "Magic Square:"
+msgstr "Magi kvadrát:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopiera til klippebord"
+
+msgid "Save File"
+msgstr "Lagre fil"
+
+msgid "Use Indian Numbers"
+msgstr "Bruk indiske tall"
+
+msgid "Odd sized (Siamese)"
+msgstr "Uje storð (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dubbel jevne (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dubbel jevne (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dobbelt jevvæ (Sáibmjeh gávngeh)"
+
+msgid "Singly even (Strachey)"
+msgstr "Singeljevvæ (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Báhkkáh áhkka:"
+
+msgid "Row"
+msgstr "Ruo"
+
+msgid "Column"
+msgstr "Kolumna"
+
+msgid "Main Diagonal:"
+msgstr "Huvuddiagonal:"
+
+msgid "Side Diagonal:"
+msgstr "Sidediagonal:"
+
+msgid "Total"
+msgstr "Totala"
+
+msgid "Magic square is valid!"
+msgstr "Báhkkáh vuodna gávnná!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Báhkkáh vuodna gávnná NIET!"
+
+msgid "Thank you for your support!"
+msgstr "Dárga diŋáduvvon!"
+
+msgid "Magic Square Widget"
+msgstr "Báhkkáh Vuodna Vugge"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "Vágá láhke bágáh báhkkáh vuodna (vugge) ožztáh guovdál."

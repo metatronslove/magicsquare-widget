@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Southern Sotho <st_ZA>\n"
+"Language: st-ZA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Mokhoa"
+
+msgid "Tabled Text"
+msgstr "Mokhoa oa letlapa"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Khopho"
+
+msgid "Square Size:"
+msgstr "Boloko ba Sekoto:"
+
+msgid "Row Sum:"
+msgstr "Khutšo ea Serato:"
+
+msgid "Algorithm:"
+msgstr "Lenaneo:"
+
+msgid "Generate"
+msgstr "Hlahisa"
+
+msgid "Rotate"
+msgstr "Bongola"
+
+msgid "Mirror"
+msgstr "Tlohela"
+
+msgid "Output format:"
+msgstr "Mofuta oa Phumellano:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Litaelo tse kopanwang ka taba bakeng sa likhatiso."
+
+msgid "Box borders:"
+msgstr "Mohlala oa Bokhasi:"
+
+msgid "Cell height:"
+msgstr "Boitaelo ba Ntholo:"
+
+msgid "Cell width:"
+msgstr "Boitaelo ba Bophahamo:"
+
+msgid "Ink color:"
+msgstr "Mphato oa Moko:"
+
+msgid "Rotation start direction"
+msgstr "Mofuta oa ho thoma ho Bopha:"
+
+msgid "Left (-45°)"
+msgstr "Letšeng (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Mokakasi (+45°)"
+
+msgid "No rotation"
+msgstr "Ha ho fetola"
+
+msgid "Select a document size:"
+msgstr "Khetha boloko ba thekgo:"
+
+msgid "Dream sized, contains content"
+msgstr "Boloko bo botsebo, bo na le lisisense"
+
+msgid "Magic Square:"
+msgstr "Sekoto sa Tsele:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopiha ho Clipboard"
+
+msgid "Save File"
+msgstr "Boloka Faele"
+
+msgid "Use Indian Numbers"
+msgstr "Sebaka ka Manaraka a India"
+
+msgid "Odd sized (Siamese)"
+msgstr "Boloko bo fapanyane (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Boloko bo lekaneng bo pharallang (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Boloko bo lekaneng bo pharallang (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Ho le le leng (Khetho ea bonolo)"
+
+msgid "Singly even (Strachey)"
+msgstr "Ho lekana le le leng (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Moralo oa Tšimong:"
+
+msgid "Row"
+msgstr "Mona"
+
+msgid "Column"
+msgstr "Kolome"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal ya Pele:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonal ya Tlokane:"
+
+msgid "Total"
+msgstr "Kakaretso"
+
+msgid "Magic square is valid!"
+msgstr "Khopane e le Tšimong e lokile!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Khopane e le Tšimong e sa lokeng!"
+
+msgid "Thank you for your support!"
+msgstr "Re le leboha ka tshehetsi ya hao!"
+
+msgid "Magic Square Widget"
+msgstr "Widget ea Khopane e le Tšimong"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"E eketsa monnya e loketsang khopane e le Tšimong (widget) ho nako ea sebaka "
+"sa hau."

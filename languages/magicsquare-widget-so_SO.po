@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Somali <so_SO>\n"
+"Language: so-SO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Qoraal"
+
+msgid "Tabled Text"
+msgstr "Qoraal Jadwalaysan"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Taageero"
+
+msgid "Square Size:"
+msgstr "Cabbirka Gebiiska:"
+
+msgid "Row Sum:"
+msgstr "Jumladda safka:"
+
+msgid "Algorithm:"
+msgstr "Algorithm:"
+
+msgid "Generate"
+msgstr "Abuur"
+
+msgid "Rotate"
+msgstr "Xidho"
+
+msgid "Mirror"
+msgstr "Muuji"
+
+msgid "Output format:"
+msgstr "Qaabka wax soo saar:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Qiimayaasha kala go'an ee tabs ee xaashiada."
+
+msgid "Box borders:"
+msgstr "Xuduudaha sanduuqa:"
+
+msgid "Cell height:"
+msgstr "Dhererka unugga:"
+
+msgid "Cell width:"
+msgstr "Ballaca unugga:"
+
+msgid "Ink color:"
+msgstr "Midabka mashiinka:"
+
+msgid "Rotation start direction"
+msgstr "Bilaabista jihada wareejinta"
+
+msgid "Left (-45°)"
+msgstr "Bidix (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Mid (+45°)"
+
+msgid "No rotation"
+msgstr "Maya wareejin"
+
+msgid "Select a document size:"
+msgstr "Xulo cabbirka dukumintiga:"
+
+msgid "Dream sized, contains content"
+msgstr "Cabbir riyoon ah, ka kooban waxyaabaha"
+
+msgid "Magic Square:"
+msgstr "Gebiiska Jadoo:"
+
+msgid "Copy to Clipboard"
+msgstr "Nuqul ku dheji clipboard"
+
+msgid "Save File"
+msgstr "Kaydi Fayl"
+
+msgid "Use Indian Numbers"
+msgstr "Isticmaal Lambarada Hindiya"
+
+msgid "Odd sized (Siamese)"
+msgstr "Cabbir qaldan (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Laba jeer caadi ah (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Laba jeer caadi ah (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Laba jeer caddaan (Isbeddel fudud)"
+
+msgid "Singly even (Strachey)"
+msgstr "Hal jeer caddaan (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Xeerka Jirka:"
+
+msgid "Row"
+msgstr "Safra"
+
+msgid "Column"
+msgstr "Sutun"
+
+msgid "Main Diagonal:"
+msgstr "Diagonalka Waaweyn:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonalka dhinaca:"
+
+msgid "Total"
+msgstr "Guud"
+
+msgid "Magic square is valid!"
+msgstr "Kalka jaban ee Jirka waa sax!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Kalka jaban ee Jirka ma saxnayn!"
+
+msgid "Thank you for your support!"
+msgstr "Mahadsanid taageeradaada!"
+
+msgid "Magic Square Widget"
+msgstr "Widget-ka Jirka Jaban"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Ku daraha sameeyaha kalka jaban ee la qaabeyn karo (widget) geeska "
+"goobtaada."

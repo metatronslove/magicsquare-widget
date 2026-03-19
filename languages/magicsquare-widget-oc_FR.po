@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Occitan <oc_FR>\n"
+"Language: oc-FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Tèxte"
+
+msgid "Tabled Text"
+msgstr "Tèxte en taula"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Suport"
+
+msgid "Square Size:"
+msgstr "Talha del quadrat:"
+
+msgid "Row Sum:"
+msgstr "Somme de linha:"
+
+msgid "Algorithm:"
+msgstr "Algotim:"
+
+msgid "Generate"
+msgstr "Generar"
+
+msgid "Rotate"
+msgstr "Rotar"
+
+msgid "Mirror"
+msgstr "Mirar"
+
+msgid "Output format:"
+msgstr "Format de sortida:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Valors separadas per tabulacions per fichièrs de calcul."
+
+msgid "Box borders:"
+msgstr "Bordures del caire:"
+
+msgid "Cell height:"
+msgstr "Alcura de la cellula:"
+
+msgid "Cell width:"
+msgstr "Largor de la cellula:"
+
+msgid "Ink color:"
+msgstr "Color de l'encre:"
+
+msgid "Rotation start direction"
+msgstr "Direcion d'aviada de la rotacion"
+
+msgid "Left (-45°)"
+msgstr "Esquèrra (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Drecha (+45°)"
+
+msgid "No rotation"
+msgstr "Pas de rotacion"
+
+msgid "Select a document size:"
+msgstr "Seleccionatz una talha de document:"
+
+msgid "Dream sized, contains content"
+msgstr "Talha de son, conten lo contengut"
+
+msgid "Magic Square:"
+msgstr "Escuadrada Màgica:"
+
+msgid "Copy to Clipboard"
+msgstr "Copiar dins lo portar-ret."
+
+msgid "Save File"
+msgstr "Enregistrar lo fichièr"
+
+msgid "Use Indian Numbers"
+msgstr "Utilizar los nombres indianos"
+
+msgid "Odd sized (Siamese)"
+msgstr "Talha sen (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Talha doble paira (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Talha doble paira (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Doblement parej (echanvi simple)"
+
+msgid "Singly even (Strachey)"
+msgstr "Unicament parej (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Constanta Màgica:"
+
+msgid "Row"
+msgstr "Linha"
+
+msgid "Column"
+msgstr "Columna"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal Principal:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonal Laterala:"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Magic square is valid!"
+msgstr "Lo quadrat màgic es valid!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Lo quadrat màgic es PAS valid!"
+
+msgid "Thank you for your support!"
+msgstr "Mercé per vòstre supòrt!"
+
+msgid "Magic Square Widget"
+msgstr "Wigèt de Quadrat Màgic"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Apond un generador de quadrat màgic personalizablu (wigèt) a la cantonada d "
+"vòstre sit."

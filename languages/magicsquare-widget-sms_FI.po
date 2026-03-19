@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Skolt Sami <sms_FI>\n"
+"Language: sms-FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "teksti"
+
+msgid "Tabled Text"
+msgstr "taulu-teksti"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "tuki"
+
+msgid "Square Size:"
+msgstr "Neliö koosta:"
+
+msgid "Row Sum:"
+msgstr "Rivi summa:"
+
+msgid "Algorithm:"
+msgstr "Algoritmi:"
+
+msgid "Generate"
+msgstr "Luo"
+
+msgid "Rotate"
+msgstr "Käännä"
+
+msgid "Mirror"
+msgstr "Peila"
+
+msgid "Output format:"
+msgstr "Ulostuloformaatti:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tabulaarne arvu taulukká."
+
+msgid "Box borders:"
+msgstr "Kuutio rajat:"
+
+msgid "Cell height:"
+msgstr "Keltä kaud:"
+
+msgid "Cell width:"
+msgstr "Keltä kaat:"
+
+msgid "Ink color:"
+msgstr "Mattiŋkala:"
+
+msgid "Rotation start direction"
+msgstr "Kääntymis lähtö suunta"
+
+msgid "Left (-45°)"
+msgstr "Vaava (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Riä (+45°)"
+
+msgid "No rotation"
+msgstr "Ei kääntymist"
+
+msgid "Select a document size:"
+msgstr "Valda dokumentti koostaa:"
+
+msgid "Dream sized, contains content"
+msgstr "Unna koosta, sisältä sisntu"
+
+msgid "Magic Square:"
+msgstr "Sihte neliö:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopioi leikepöytä"
+
+msgid "Save File"
+msgstr "Tallenna tiedosto"
+
+msgid "Use Indian Numbers"
+msgstr "Käytä intiala lukuja"
+
+msgid "Odd sized (Siamese)"
+msgstr "Paritonta koosta (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Kaksinkertaisesti parinen (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Kaksinkertaisesti parinen (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Kak'čáh (Sáhká guorás)"
+
+msgid "Singly even (Strachey)"
+msgstr "Káčáh (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Mágus konstant:"
+
+msgid "Row"
+msgstr "Red"
+
+msgid "Column"
+msgstr "Kolonn"
+
+msgid "Main Diagonal:"
+msgstr "Hálldu diagonaal:"
+
+msgid "Side Diagonal:"
+msgstr "Láhdi diagonaal:"
+
+msgid "Total"
+msgstr "Summa"
+
+msgid "Magic square is valid!"
+msgstr "Mágus kvadrattis e validd!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Mágus kvadrattis e NOT validd!"
+
+msgid "Thank you for your support!"
+msgstr "Takká dišháhtá iđa!"
+
+msgid "Magic Square Widget"
+msgstr "Mágus kvadratt widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "Tuo aŋŋáhskeláhtá mága kvadratt generator (widget) iđa k'ohkán."

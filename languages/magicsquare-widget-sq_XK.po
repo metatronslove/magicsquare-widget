@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Albanian (Kosovo) <sq_XK>\n"
+"Language: sq-XK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Tabled Text"
+msgstr "Teksti i tabelës"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Mbështetje"
+
+msgid "Square Size:"
+msgstr "Madhësia e karrës:"
+
+msgid "Row Sum:"
+msgstr "Shuma e rreshtit:"
+
+msgid "Algorithm:"
+msgstr "Algoritëm:"
+
+msgid "Generate"
+msgstr "Krijo"
+
+msgid "Rotate"
+msgstr "Rrotullo"
+
+msgid "Mirror"
+msgstr "Pasqyro"
+
+msgid "Output format:"
+msgstr "Format i daljes:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Vlera të ndara me tabulacion për fletëkatrol."
+
+msgid "Box borders:"
+msgstr "Bordura e kutisë:"
+
+msgid "Cell height:"
+msgstr "Lartësia e qelisë:"
+
+msgid "Cell width:"
+msgstr "Gjerësia e qelisë:"
+
+msgid "Ink color:"
+msgstr "Ngjyra e inkut:"
+
+msgid "Rotation start direction"
+msgstr "Drejtimi i fillimit të rrotullimit"
+
+msgid "Left (-45°)"
+msgstr "Majtas (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Djathtas (+45°)"
+
+msgid "No rotation"
+msgstr "Pa rrotullim"
+
+msgid "Select a document size:"
+msgstr "Zgjidh madhësinë e dokumentit:"
+
+msgid "Dream sized, contains content"
+msgstr "Madhësi ëndërr, përmban përmbajtje"
+
+msgid "Magic Square:"
+msgstr "Karrë Magjike:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopjo në clipboard"
+
+msgid "Save File"
+msgstr "Ruaj skedarin"
+
+msgid "Use Indian Numbers"
+msgstr "Përdor numra Indi"
+
+msgid "Odd sized (Siamese)"
+msgstr "Madhësi e papërballshme (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dyfishtë (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dyfishtë (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dyherë i pari (Shkëmbim i thjeshtë)"
+
+msgid "Singly even (Strachey)"
+msgstr "E vetme e pari (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Konstantë Magjik:"
+
+msgid "Row"
+msgstr "Rresht"
+
+msgid "Column"
+msgstr "Shtyllë"
+
+msgid "Main Diagonal:"
+msgstr "Diagonalë Kryesore:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonalë Anësore:"
+
+msgid "Total"
+msgstr "Totale"
+
+msgid "Magic square is valid!"
+msgstr "Kryq i magjik është i vlefshëm!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Kryq i magjik nuk është i vlefshëm!"
+
+msgid "Thank you for your support!"
+msgstr "Faleminderit për mbështetjen tuaj!"
+
+msgid "Magic Square Widget"
+msgstr "Widget Kryq Magjik"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Shton një gjenerator të personalizueshëm të kryqit magjik (widget) në këndin"
+" e faqes suaj."

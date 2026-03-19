@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tamil (Sri Lanka) <ta_LK>\n"
+"Language: ta-LK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "உரை"
+
+msgid "Tabled Text"
+msgstr "அட்டவணை உரை"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "ஆதரவு"
+
+msgid "Square Size:"
+msgstr "சதுர அளவு:"
+
+msgid "Row Sum:"
+msgstr "வரிசை மொத்தம்:"
+
+msgid "Algorithm:"
+msgstr "அல்காரிதம்:"
+
+msgid "Generate"
+msgstr "உருவாக்கு"
+
+msgid "Rotate"
+msgstr "சுழற்று"
+
+msgid "Mirror"
+msgstr "பிரதிபலிக்க"
+
+msgid "Output format:"
+msgstr "வெளியீடு வடிவம்:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "அட்டவணைகளுக்கான தாவல்-பிரிக்கப்பட்ட மதிப்புகள்."
+
+msgid "Box borders:"
+msgstr "பெட்டி எல்லைகள்:"
+
+msgid "Cell height:"
+msgstr "செல் உயரம்:"
+
+msgid "Cell width:"
+msgstr "செல் அகலம்:"
+
+msgid "Ink color:"
+msgstr "மூச்சு நிறம்:"
+
+msgid "Rotation start direction"
+msgstr "சுழற்சி தொடக்க திசை"
+
+msgid "Left (-45°)"
+msgstr "இடது (-45°)"
+
+msgid "Right (+45°)"
+msgstr "வலது (+45°)"
+
+msgid "No rotation"
+msgstr "சுழற்சி இல்லை"
+
+msgid "Select a document size:"
+msgstr "ஆவண அளவைத் தேர்ந்தெடுக்கவும்:"
+
+msgid "Dream sized, contains content"
+msgstr "கனவு அளவு, உள்ளடக்கம் உடையது"
+
+msgid "Magic Square:"
+msgstr "மாயச் சதுரம்:"
+
+msgid "Copy to Clipboard"
+msgstr "க்ளிப்ப்போர்டிற்கு நகலெடுக்க"
+
+msgid "Save File"
+msgstr "கோப்பை சேமிக்க"
+
+msgid "Use Indian Numbers"
+msgstr "இந்திய எண்களைப் பயன்படுத்தவும்"
+
+msgid "Odd sized (Siamese)"
+msgstr "ஒற்றை அளவு (சைமீஸ்)"
+
+msgid "Doubly even (Strachey)"
+msgstr "இரட்டை ஒற்றை (ஸ்ட்ரேச்சி)"
+
+msgid "Doubly even (Durer)"
+msgstr "இரட்டை ஒற்றை (டூரர்)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "இரட்டையாக ஜோடி (எளிய பரிமாற்றம்)"
+
+msgid "Singly even (Strachey)"
+msgstr "ஒற்றை ஜோடி (ஸ்ட்ரேசே)"
+
+msgid "Magic Constant:"
+msgstr "மாய மாறிலி:"
+
+msgid "Row"
+msgstr "வரிசை"
+
+msgid "Column"
+msgstr "நெடுவரிசை"
+
+msgid "Main Diagonal:"
+msgstr "முதன்மை சாய்வு:"
+
+msgid "Side Diagonal:"
+msgstr "பக்க சாய்வு:"
+
+msgid "Total"
+msgstr "மொத்தம்"
+
+msgid "Magic square is valid!"
+msgstr "மாய சதுரம் செல்லுபடியாகும்!"
+
+msgid "Magic square is NOT valid!"
+msgstr "மாய சதுரம் செல்லுபடியாகாது!"
+
+msgid "Thank you for your support!"
+msgstr "உங்கள் ஆதரவுக்கு நன்றி!"
+
+msgid "Magic Square Widget"
+msgstr "மாய சதுர விஜெட்"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"உங்கள் வலைத்தளத்தின் மூலையில் தனிப்பயன் செய்யக்கூடிய மாய சதுர உருவாக்கியை "
+"(விஜெட்) சேர்க்கிறது."

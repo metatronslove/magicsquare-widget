@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Shona <sn_ZW>\n"
+"Language: sn-ZW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Chinyorwa"
+
+msgid "Tabled Text"
+msgstr "Chinyorwa cheTafura"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Rutsigiro"
+
+msgid "Square Size:"
+msgstr "Saizi yeBokisi:"
+
+msgid "Row Sum:"
+msgstr "Sumu yemutsara:"
+
+msgid "Algorithm:"
+msgstr "Algorithmu:"
+
+msgid "Generate"
+msgstr "Gadzira"
+
+msgid "Rotate"
+msgstr "Famba"
+
+msgid "Mirror"
+msgstr "Miririridza"
+
+msgid "Output format:"
+msgstr "Mhando yekubuda:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Mavalue akaparadzwa neTab kune spreadsheets."
+
+msgid "Box borders:"
+msgstr "Migwagwa yeBokisi:"
+
+msgid "Cell height:"
+msgstr "Hurefu hweCell:"
+
+msgid "Cell width:"
+msgstr "Ukuru hweCell:"
+
+msgid "Ink color:"
+msgstr "Ruvara rweMabhaki:"
+
+msgid "Rotation start direction"
+msgstr "Kutanga kwekutenderera"
+
+msgid "Left (-45°)"
+msgstr "Kuruboshwe (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Kurudyi (+45°)"
+
+msgid "No rotation"
+msgstr "Kusina kutenderera"
+
+msgid "Select a document size:"
+msgstr "Sarudza saizi yesangano:"
+
+msgid "Dream sized, contains content"
+msgstr "Saizi yeChiroo, ine Zvemukati"
+
+msgid "Magic Square:"
+msgstr "Bokisi ReMaitiro:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopa kuClipboard"
+
+msgid "Save File"
+msgstr "Chengetedza Faira"
+
+msgid "Use Indian Numbers"
+msgstr "Shandisa Nhamba dzeIndia"
+
+msgid "Odd sized (Siamese)"
+msgstr "Saizi isina kuenzana (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Doubly even (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Doubly even (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Kuwedzera kaviri (Kuchinjana kwakapfava)"
+
+msgid "Singly even (Strachey)"
+msgstr "Single even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Constant yeMagi:"
+
+msgid "Row"
+msgstr "Mutsetse"
+
+msgid "Column"
+msgstr "Musara"
+
+msgid "Main Diagonal:"
+msgstr "Main Diagonal:"
+
+msgid "Side Diagonal:"
+msgstr "Side Diagonal:"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Magic square is valid!"
+msgstr "Magic square is valid!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Magic square is NOT valid!"
+
+msgid "Thank you for your support!"
+msgstr "Thank you for your support!"
+
+msgid "Magic Square Widget"
+msgstr "Magic Square Widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."

@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Kinyarwanda <rw_RW>\n"
+"Language: rw-RW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Inyandiko"
+
+msgid "Tabled Text"
+msgstr "Inyandiko mu ishusho"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Ubufasha"
+
+msgid "Square Size:"
+msgstr "Ingano y'ikarita:"
+
+msgid "Row Sum:"
+msgstr "Igiteranyo cy'umurongo:"
+
+msgid "Algorithm:"
+msgstr "Algorithme:"
+
+msgid "Generate"
+msgstr "Sukura"
+
+msgid "Rotate"
+msgstr "Guhindura"
+
+msgid "Mirror"
+msgstr "Gusubiramo"
+
+msgid "Output format:"
+msgstr "Imiterere y'ibisohoka:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Agaciro gafite intera za tabu ku nyandiko za spreadsheets."
+
+msgid "Box borders:"
+msgstr "Imipaka y'ikarita:"
+
+msgid "Cell height:"
+msgstr "Ubugari bwa cellule:"
+
+msgid "Cell width:"
+msgstr "Ingano ya cellule:"
+
+msgid "Ink color:"
+msgstr "Ibara ry'ink:"
+
+msgid "Rotation start direction"
+msgstr "Umurongo wo gutangiza guhindura"
+
+msgid "Left (-45°)"
+msgstr "Ibumi (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Iburyo (+45°)"
+
+msgid "No rotation"
+msgstr "Nta guhindura"
+
+msgid "Select a document size:"
+msgstr "Hitamo ubunini bw'inyandiko:"
+
+msgid "Dream sized, contains content"
+msgstr "Igishushanyo cya Dream, harimo ibikubiyemo"
+
+msgid "Magic Square:"
+msgstr "Kare ya Magic:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopiha ku kibaho"
+
+msgid "Save File"
+msgstr "Bika dosiye"
+
+msgid "Use Indian Numbers"
+msgstr "Koresha imibare y'u Buhindi"
+
+msgid "Odd sized (Siamese)"
+msgstr "Ubunini butari bugari (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Bishoboka kabiri (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Bishoboka kabiri (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Kuri kabiri k'inyongera (Kuvugurura byoroshye)"
+
+msgid "Singly even (Strachey)"
+msgstr "Kuri rimwe k'inyongera (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Ikintu cy'ubwenge:"
+
+msgid "Row"
+msgstr "Umurongo"
+
+msgid "Column"
+msgstr "Umwanya"
+
+msgid "Main Diagonal:"
+msgstr "Umurongo w'ingenzi:"
+
+msgid "Side Diagonal:"
+msgstr "Umurongo w'imbere:"
+
+msgid "Total"
+msgstr "Itogondwe"
+
+msgid "Magic square is valid!"
+msgstr "Ubutaha bw'ubwenge ni bwemewe!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Ubutaha bw'ubwenge ntabwo bwemewe!"
+
+msgid "Thank you for your support!"
+msgstr "Murakoze ku bufasha bwawe!"
+
+msgid "Magic Square Widget"
+msgstr "Ikibaho cy'ubwenge"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Yongeramo ikibaho cy'ubwenge bushobora guhindurwa (widget) ku ruhande "
+"rw'urubuga rwawe."

@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Norwegian (Nynorsk) <nn_NO>\n"
+"Language: nn-NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Tabled Text"
+msgstr "Tabelltekst"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Støtte"
+
+msgid "Square Size:"
+msgstr "Kvadratstorleik:"
+
+msgid "Row Sum:"
+msgstr "Radsum:"
+
+msgid "Algorithm:"
+msgstr "Algoritme:"
+
+msgid "Generate"
+msgstr "Generer"
+
+msgid "Rotate"
+msgstr "Roter"
+
+msgid "Mirror"
+msgstr "Speil"
+
+msgid "Output format:"
+msgstr "Utdataformat:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tab-separerte verdiar for regneark."
+
+msgid "Box borders:"
+msgstr "Boksgrensar:"
+
+msgid "Cell height:"
+msgstr "Cellehøgd:"
+
+msgid "Cell width:"
+msgstr "Cellebreidd:"
+
+msgid "Ink color:"
+msgstr "Bleikfarge:"
+
+msgid "Rotation start direction"
+msgstr "Roteringsstartretning"
+
+msgid "Left (-45°)"
+msgstr "Venstre (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Høgre (+45°)"
+
+msgid "No rotation"
+msgstr "Ingen rotasjon"
+
+msgid "Select a document size:"
+msgstr "Vel eit dokumentstorleik:"
+
+msgid "Dream sized, contains content"
+msgstr "Drømmedimensjon, inneheld innhald"
+
+msgid "Magic Square:"
+msgstr "Tryllekvadrat:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopier til utklippstavlen"
+
+msgid "Save File"
+msgstr "Lagre fil"
+
+msgid "Use Indian Numbers"
+msgstr "Bruk indiske tal"
+
+msgid "Odd sized (Siamese)"
+msgstr "Odd storleik (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dobbeltjepar (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dobbeltjepar (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dubelt jevn (enkelt bytte)"
+
+msgid "Singly even (Strachey)"
+msgstr "Einkel jevn (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Magiisk konstant:"
+
+msgid "Row"
+msgstr "Rad"
+
+msgid "Column"
+msgstr "Kolonne"
+
+msgid "Main Diagonal:"
+msgstr "Hoveddiagonal:"
+
+msgid "Side Diagonal:"
+msgstr "Side-diagonal:"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Magic square is valid!"
+msgstr "Magiisk kvadrat er gyldig!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Magiisk kvadrat er IKKJE gyldig!"
+
+msgid "Thank you for your support!"
+msgstr "Takk for støtta di!"
+
+msgid "Magic Square Widget"
+msgstr "Magiisk kvadrat-widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Legg til ein tilpassbar magiisk kvadrat-generator (widget) til hojen på "
+"nettsida di."

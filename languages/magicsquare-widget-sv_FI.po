@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Swedish (Finland) <sv_FI>\n"
+"Language: sv-FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Tabled Text"
+msgstr "Tabellad text"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Stöd"
+
+msgid "Square Size:"
+msgstr "Kvadratstorlek:"
+
+msgid "Row Sum:"
+msgstr "Radsumma:"
+
+msgid "Algorithm:"
+msgstr "Algoritm:"
+
+msgid "Generate"
+msgstr "Generera"
+
+msgid "Rotate"
+msgstr "Rotera"
+
+msgid "Mirror"
+msgstr "Spegel"
+
+msgid "Output format:"
+msgstr "Utdataformat:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tab-separerade värden för kalkylblad."
+
+msgid "Box borders:"
+msgstr "Kantlinjer:"
+
+msgid "Cell height:"
+msgstr "Cellhöjd:"
+
+msgid "Cell width:"
+msgstr "Cellbredd:"
+
+msgid "Ink color:"
+msgstr "Bläckfärg:"
+
+msgid "Rotation start direction"
+msgstr "Rotationsstartriktning"
+
+msgid "Left (-45°)"
+msgstr "Vänster (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Höger (+45°)"
+
+msgid "No rotation"
+msgstr "Ingen rotation"
+
+msgid "Select a document size:"
+msgstr "Välj dokumentstorlek:"
+
+msgid "Dream sized, contains content"
+msgstr "Drömstorlek, innehåller innehåll"
+
+msgid "Magic Square:"
+msgstr "Magisk kvadrat:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopiera till urklipp"
+
+msgid "Save File"
+msgstr "Spara fil"
+
+msgid "Use Indian Numbers"
+msgstr "Använd indiska siffror"
+
+msgid "Odd sized (Siamese)"
+msgstr "Udda storlek (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Dubbel jämn (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Dubbel jämn (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dubbel jämn (Enkel utbyte)"
+
+msgid "Singly even (Strachey)"
+msgstr "Enkel jämn (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Magisk konstant:"
+
+msgid "Row"
+msgstr "Rad"
+
+msgid "Column"
+msgstr "Kolumn"
+
+msgid "Main Diagonal:"
+msgstr "Huvuddiagonal:"
+
+msgid "Side Diagonal:"
+msgstr "Sidodiagonal:"
+
+msgid "Total"
+msgstr "Totalt"
+
+msgid "Magic square is valid!"
+msgstr "Magisk fyrkant är giltig!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Magisk fyrkant är INTE giltig!"
+
+msgid "Thank you for your support!"
+msgstr "Tack för ditt stöd!"
+
+msgid "Magic Square Widget"
+msgstr "Magisk fyrkantswidget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Lägger till en anpassningsbar magisk fyrkantsgenerator (widget) i hörnet av "
+"din webbplats."

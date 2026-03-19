@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Odia <or_IN>\n"
+"Language: or-IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "ଲେଖା"
+
+msgid "Tabled Text"
+msgstr "ତାଲିକା ଟେକ୍ଷ୍ଟ"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "ସହଯୋଗ"
+
+msgid "Square Size:"
+msgstr "ଚତୁର୍ଭୁଜ ଆକାର:"
+
+msgid "Row Sum:"
+msgstr "ସତ୍ର ଯୋଗ:"
+
+msgid "Algorithm:"
+msgstr "ଅଲଗୋରିଥମ୍:"
+
+msgid "Generate"
+msgstr "ତିଆରି"
+
+msgid "Rotate"
+msgstr "ଘୁରଣ"
+
+msgid "Mirror"
+msgstr "ଆଇନା"
+
+msgid "Output format:"
+msgstr "ଆଉଟପୁଟ ଫର୍ମାଟ୍:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "ସ୍ପ୍ରେଡ୍ଶିଟ ପାଇଁ ଟାବ୍ ଦ୍ୱାରା ଭିନ୍ନ ମୂଲ୍ୟଗୁଡ଼ିକ।"
+
+msgid "Box borders:"
+msgstr "ଘର ମାର୍ଜିନ:"
+
+msgid "Cell height:"
+msgstr "ସେଲ ଉଚ୍ଚତା:"
+
+msgid "Cell width:"
+msgstr "ସେଲ ଚଉଡ଼ା:"
+
+msgid "Ink color:"
+msgstr "ଶାହ ରଙ୍ଗ:"
+
+msgid "Rotation start direction"
+msgstr "ଘୁରଣ ଆରମ୍ଭ ଦିଗ"
+
+msgid "Left (-45°)"
+msgstr "ବାମ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "ଦାହାଣ (+45°)"
+
+msgid "No rotation"
+msgstr "କୌଣସି ଘୁରଣ ନାହିଁ"
+
+msgid "Select a document size:"
+msgstr "ଏକ ଡକ୍ୟୁମେଣ୍ଟ ଆକାର ଚୟନ କରନ୍ତୁ:"
+
+msgid "Dream sized, contains content"
+msgstr "ସ୍ଵପ୍ନ ଆକାର, ବିଷୟ ବସ୍ତୁ ରହିଛି"
+
+msgid "Magic Square:"
+msgstr "ଜାଦୁ ଚତୁର୍ଭୁଜ:"
+
+msgid "Copy to Clipboard"
+msgstr "କ୍ଲିପ୍ବୋର୍ଡ ରେ ନକଲ କରନ୍ତୁ"
+
+msgid "Save File"
+msgstr "ଫାଇଲ ସେଭ୍ କରନ୍ତୁ"
+
+msgid "Use Indian Numbers"
+msgstr "ଭାରତୀୟ ଅଙ୍କ ବ୍ୟବହାର କରନ୍ତୁ"
+
+msgid "Odd sized (Siamese)"
+msgstr "ବିଷମ ଆକାର (ସିଆମିଜ)"
+
+msgid "Doubly even (Strachey)"
+msgstr "ଦ୍ବିଗୁଣ ଜୋଡ଼ (ଷ୍ଟ୍ରାଚି)"
+
+msgid "Doubly even (Durer)"
+msgstr "ଦ୍ବିଗୁଣ ଜୋଡ଼ (ଦୁରର)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "ଦ୍ୱିଗୁଣ ଜୋଡ଼ (ସରଳ ଆଦାନ-ପ୍ରଦାନ)"
+
+msgid "Singly even (Strachey)"
+msgstr "ଏକ ଜୋଡ଼ (ଷ୍ଟ୍ରାଚେୟ)"
+
+msgid "Magic Constant:"
+msgstr "ଜାଦୁ ଧାରା:"
+
+msgid "Row"
+msgstr "ପଙ୍କ୍ତି"
+
+msgid "Column"
+msgstr "ସ୍ତମ୍ଭ"
+
+msgid "Main Diagonal:"
+msgstr "ମୁଖ୍ୟ ତ୍ରିଭୁଜ:"
+
+msgid "Side Diagonal:"
+msgstr "ପାର୍ଶ୍ଵ ତ୍ରିଭୁଜ:"
+
+msgid "Total"
+msgstr "ମୋଟ"
+
+msgid "Magic square is valid!"
+msgstr "ଜାଦୁ ଚତୁର୍ଵାର ଠିକ ଅଛି!"
+
+msgid "Magic square is NOT valid!"
+msgstr "ଜାଦୁ ଚତୁର୍ଵାର ଠିକ ନୁହେଁ!"
+
+msgid "Thank you for your support!"
+msgstr "ଆପଣଙ୍କ ଆଧର ଦିଆ ପାଇଁ ଧନ୍ୟବାଦ!"
+
+msgid "Magic Square Widget"
+msgstr "ଜାଦୁ ଚତୁର୍ଵାର ଉଇଜେଟ"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "ଆପଣଙ୍କ ଦୃଶ୍ୟ ଗୁଣିତ ଜାଦୁ ଚତୁର୍ଵାର ଜନେରେଟର (ଉଇଜେଟ) ଗୋଡ଼ ଉପରେ ଯୋଡ଼ି ଦିଏ।"
