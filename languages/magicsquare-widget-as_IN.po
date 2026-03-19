@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Assamese <as_IN>\n"
+"Language: as-IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "টেক্সট"
+
+msgid "Tabled Text"
+msgstr "টেবুলড টেক্সট"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "সমৰ্থন"
+
+msgid "Square Size:"
+msgstr "বৰ্গ আকাৰ:"
+
+msgid "Row Sum:"
+msgstr "সারি যোগফল:"
+
+msgid "Algorithm:"
+msgstr "অ্যালগরিদম:"
+
+msgid "Generate"
+msgstr "উৎপন্ন কৰক"
+
+msgid "Rotate"
+msgstr "ঘুৰাও"
+
+msgid "Mirror"
+msgstr "প্রতিবিম্ব"
+
+msgid "Output format:"
+msgstr "আউটপুট ফর্মেট:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "স্প্ৰেডশীটৰ বাবে ট্যাব-প্ৰত্যাশিত মানসমূহ।"
+
+msgid "Box borders:"
+msgstr "বক্স সীমাৰেখা:"
+
+msgid "Cell height:"
+msgstr "কোষৰ উচ্চতা:"
+
+msgid "Cell width:"
+msgstr "কোষৰ প্ৰস্থ:"
+
+msgid "Ink color:"
+msgstr "শিনিৰ ৰং:"
+
+msgid "Rotation start direction"
+msgstr "ঘুৰণ আৰম্ভ দিশ"
+
+msgid "Left (-45°)"
+msgstr "বাওঁফালে (-45°)"
+
+msgid "Right (+45°)"
+msgstr "সোঁফালে (+45°)"
+
+msgid "No rotation"
+msgstr "কোনো ঘুৰণ নাই"
+
+msgid "Select a document size:"
+msgstr "ডকুমেণ্টৰ আকাৰ বাছনি কৰক:"
+
+msgid "Dream sized, contains content"
+msgstr "ড্ৰিম আকাৰ, সামগ্ৰী থাকে"
+
+msgid "Magic Square:"
+msgstr "ম্যাজিক স্কোৱে:"
+
+msgid "Copy to Clipboard"
+msgstr "ক্লিপবৰ্ডলৈ কপি কৰক"
+
+msgid "Save File"
+msgstr "ফাইল সংৰক্ষণ"
+
+msgid "Use Indian Numbers"
+msgstr "হিন্দি সংখ্যা ব্যৱহাৰ কৰক"
+
+msgid "Odd sized (Siamese)"
+msgstr "বিজোড় আকাৰ (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "দ্বৈত জোড় (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "দ্বৈত জোড় (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "দ্বিগুণ জোড় (সহজ বিনিময়)"
+
+msgid "Singly even (Strachey)"
+msgstr "একমাত্ৰ জোড় (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "ম্যাজিক ধ্ৰুবক:"
+
+msgid "Row"
+msgstr "পংক্তি"
+
+msgid "Column"
+msgstr "কলাম"
+
+msgid "Main Diagonal:"
+msgstr "প্রধান তির্যক:"
+
+msgid "Side Diagonal:"
+msgstr "পাশ তির্যক:"
+
+msgid "Total"
+msgstr "মুঠ"
+
+msgid "Magic square is valid!"
+msgstr "ম্যাজিক স্কোয়াৰ বৈধ!"
+
+msgid "Magic square is NOT valid!"
+msgstr "ম্যাজিক স্কোয়াৰ অবৈধ!"
+
+msgid "Thank you for your support!"
+msgstr "আপোনাৰ সমৰ্থনাৰ বাবে ধন্যবাদ!"
+
+msgid "Magic Square Widget"
+msgstr "ম্যাজিক স্কোয়াৰ উইজেট"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"আপোনাৰ ছাইটৰ কোণত কাষ্টমাইজযোগ্য ম্যাজিক স্কোয়াৰ জেনারেটৰ (উইজেট) যোগ কৰে।"

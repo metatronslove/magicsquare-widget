@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Bulgarian <bg_BG>\n"
+"Language: bg-BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Tabled Text"
+msgstr "Табличен текст"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Поддръжка"
+
+msgid "Square Size:"
+msgstr "Размер на квадрата:"
+
+msgid "Row Sum:"
+msgstr "Сума на реда:"
+
+msgid "Algorithm:"
+msgstr "Алгоритъм:"
+
+msgid "Generate"
+msgstr "Генерирай"
+
+msgid "Rotate"
+msgstr "Ротирай"
+
+msgid "Mirror"
+msgstr "Отрази"
+
+msgid "Output format:"
+msgstr "Формат на изхода:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Значения разделени с табулация за електронни таблици."
+
+msgid "Box borders:"
+msgstr "Граници на кутията:"
+
+msgid "Cell height:"
+msgstr "Височина на клетката:"
+
+msgid "Cell width:"
+msgstr "Ширина на клетката:"
+
+msgid "Ink color:"
+msgstr "Цвят на мастилото:"
+
+msgid "Rotation start direction"
+msgstr "Начална посока на завъртане"
+
+msgid "Left (-45°)"
+msgstr "Ляво (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Дясно (+45°)"
+
+msgid "No rotation"
+msgstr "Без завъртане"
+
+msgid "Select a document size:"
+msgstr "Изберете размер на документа:"
+
+msgid "Dream sized, contains content"
+msgstr "Размер по мечта, съдържа съдържание"
+
+msgid "Magic Square:"
+msgstr "Магичен квадрат:"
+
+msgid "Copy to Clipboard"
+msgstr "Копирай в клипборда"
+
+msgid "Save File"
+msgstr "Запази файл"
+
+msgid "Use Indian Numbers"
+msgstr "Използвай индийски числа"
+
+msgid "Odd sized (Siamese)"
+msgstr "Непарен размер (Сиамски)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Двойно четен (Страхей)"
+
+msgid "Doubly even (Durer)"
+msgstr "Двойно четен (Дюрър)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Двукратно парен (просто обмен)"
+
+msgid "Singly even (Strachey)"
+msgstr "Еднократно парен (Страхей)"
+
+msgid "Magic Constant:"
+msgstr "Магическа константа:"
+
+msgid "Row"
+msgstr "Ред"
+
+msgid "Column"
+msgstr "Колона"
+
+msgid "Main Diagonal:"
+msgstr "Главна диагонал:"
+
+msgid "Side Diagonal:"
+msgstr "Сторен диагонал:"
+
+msgid "Total"
+msgstr "Общо"
+
+msgid "Magic square is valid!"
+msgstr "Магичният квадрат е валиден!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Магичният квадрат НЕ е валиден!"
+
+msgid "Thank you for your support!"
+msgstr "Благодарим за вашата подкрепа!"
+
+msgid "Magic Square Widget"
+msgstr "Магически квадрат виджет"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Добавя персонализиран генератор на магически квадрати (виджет) в ъгъла на "
+"вашия сайт."

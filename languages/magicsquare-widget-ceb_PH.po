@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Cebuano <ceb_PH>\n"
+"Language: ceb-PH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Teksto"
+
+msgid "Tabled Text"
+msgstr "Teksto sa Lamesa"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Suporta"
+
+msgid "Square Size:"
+msgstr "Kadak-on sa Kuadrado:"
+
+msgid "Row Sum:"
+msgstr "Sumada sa hilera:"
+
+msgid "Algorithm:"
+msgstr "Algorithm:"
+
+msgid "Generate"
+msgstr "Gumugna"
+
+msgid "Rotate"
+msgstr "Rotate"
+
+msgid "Mirror"
+msgstr "Mirror"
+
+msgid "Output format:"
+msgstr "Format sa Output:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tab-separated values para sa mga spreadsheet."
+
+msgid "Box borders:"
+msgstr "Mga Borda sa Kahon:"
+
+msgid "Cell height:"
+msgstr "Gitas-on sa Selula:"
+
+msgid "Cell width:"
+msgstr "Lapad sa Selula:"
+
+msgid "Ink color:"
+msgstr "Kulay sa Kalo:"
+
+msgid "Rotation start direction"
+msgstr "Direksyon sa pagsugod sa pag-ikot"
+
+msgid "Left (-45°)"
+msgstr "Kaliwa (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Right (+45°)"
+
+msgid "No rotation"
+msgstr "Wala pag-ikot"
+
+msgid "Select a document size:"
+msgstr "Pili-a ang gidak-on sa dokumento:"
+
+msgid "Dream sized, contains content"
+msgstr "Gidak-on sa damgo, naglakip og sulod"
+
+msgid "Magic Square:"
+msgstr "Magic Square:"
+
+msgid "Copy to Clipboard"
+msgstr "Kopyaha sa Clipboard"
+
+msgid "Save File"
+msgstr "I-save ang File"
+
+msgid "Use Indian Numbers"
+msgstr "Gamita ang Indian Numbers"
+
+msgid "Odd sized (Siamese)"
+msgstr "Odd sized (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Doubly even (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Doubly even (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Dupla nga pares (Yano nga pagbalhin)"
+
+msgid "Singly even (Strachey)"
+msgstr "Usa ka pares (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Magiko nga Konstante:"
+
+msgid "Row"
+msgstr "Linya"
+
+msgid "Column"
+msgstr "Kolum"
+
+msgid "Main Diagonal:"
+msgstr "Primar nga Diagonal:"
+
+msgid "Side Diagonal:"
+msgstr "Ikatid nga Diagonal:"
+
+msgid "Total"
+msgstr "Kabuuan"
+
+msgid "Magic square is valid!"
+msgstr "Ang magic square balido!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Ang magic square DILI balido!"
+
+msgid "Thank you for your support!"
+msgstr "Salamat sa imong suporta!"
+
+msgid "Magic Square Widget"
+msgstr "Magic Square Widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Nagdugang kini og usa ka maangay nga magic square generator (widget) sa "
+"kilid sa imong site."

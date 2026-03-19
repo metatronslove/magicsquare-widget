@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Awadhi <awa_IN>\n"
+"Language: awa-IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "पाठ"
+
+msgid "Tabled Text"
+msgstr "सारणीबद्ध पाठ"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "सहयोग"
+
+msgid "Square Size:"
+msgstr "वर्ग आकार:"
+
+msgid "Row Sum:"
+msgstr "पंक्ति योग:"
+
+msgid "Algorithm:"
+msgstr "अल्गोरिथ्म:"
+
+msgid "Generate"
+msgstr "बनाइए"
+
+msgid "Rotate"
+msgstr "घुमाइए"
+
+msgid "Mirror"
+msgstr "मिरर"
+
+msgid "Output format:"
+msgstr "आउटपुट प्रारूप:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "स्प्रेडशीट के लिए टैब से अलग किए गए मान।"
+
+msgid "Box borders:"
+msgstr "बॉक्स की सीमाएँ:"
+
+msgid "Cell height:"
+msgstr "सेल की ऊंचाई:"
+
+msgid "Cell width:"
+msgstr "सेल की चौड़ाई:"
+
+msgid "Ink color:"
+msgstr "स्याही का रंग:"
+
+msgid "Rotation start direction"
+msgstr "रोटेशन शुरू दिशा"
+
+msgid "Left (-45°)"
+msgstr "बायाँ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "दायाँ (+45°)"
+
+msgid "No rotation"
+msgstr "कोई घुमाव नहीं"
+
+msgid "Select a document size:"
+msgstr "एक दस्तावेज़ आकार चुनें:"
+
+msgid "Dream sized, contains content"
+msgstr "सपना आकार, सामग्री समाहित"
+
+msgid "Magic Square:"
+msgstr "जादुई वर्ग:"
+
+msgid "Copy to Clipboard"
+msgstr "क्लिपबोर्ड पर कॉपी करें"
+
+msgid "Save File"
+msgstr "फ़ाइल सहेजें"
+
+msgid "Use Indian Numbers"
+msgstr "भारतीय अंक उपयोग करें"
+
+msgid "Odd sized (Siamese)"
+msgstr "विषम आकार (सियामिश)"
+
+msgid "Doubly even (Strachey)"
+msgstr "दोहरी सम (स्ट्रैची)"
+
+msgid "Doubly even (Durer)"
+msgstr "दोहरी सम (ड्यूर)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "दोहरा सम (सरल विनिमय)"
+
+msgid "Singly even (Strachey)"
+msgstr "एकल सम (स्ट्रैची)"
+
+msgid "Magic Constant:"
+msgstr "जादुई स्थिरांक:"
+
+msgid "Row"
+msgstr "पंक्ति"
+
+msgid "Column"
+msgstr "स्तम्भ"
+
+msgid "Main Diagonal:"
+msgstr "मुख्य विकर्ण:"
+
+msgid "Side Diagonal:"
+msgstr "पार्श्व विकर्ण:"
+
+msgid "Total"
+msgstr "कुल"
+
+msgid "Magic square is valid!"
+msgstr "जादुई वर्ग वैध है!"
+
+msgid "Magic square is NOT valid!"
+msgstr "जादुई वर्ग वैध नहीं है!"
+
+msgid "Thank you for your support!"
+msgstr "आपके समर्थन के लिए धन्यवाद!"
+
+msgid "Magic Square Widget"
+msgstr "जादुई वर्ग विजेट"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"आपके वेबसाइट के कोने में एक कस्टमाइज़ करने योग्य जादुई वर्ग जनरेटर (विजेट) "
+"जोड़ता है।"

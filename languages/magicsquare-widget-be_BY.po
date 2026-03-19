@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Belarusian <be_BY>\n"
+"Language: be-BY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Тэкст"
+
+msgid "Tabled Text"
+msgstr "Тэкст у табліцы"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Падтрымка"
+
+msgid "Square Size:"
+msgstr "Памер квадрата:"
+
+msgid "Row Sum:"
+msgstr "Сума радкоў:"
+
+msgid "Algorithm:"
+msgstr "Алгарытм:"
+
+msgid "Generate"
+msgstr "Генераваць"
+
+msgid "Rotate"
+msgstr "Павярнуць"
+
+msgid "Mirror"
+msgstr "Адлюстраваць"
+
+msgid "Output format:"
+msgstr "Фармат вываду:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Значэнні, аддзяляюцца табуляцыяй, для табліц."
+
+msgid "Box borders:"
+msgstr "Борды блока:"
+
+msgid "Cell height:"
+msgstr "Вышыня ячэйкі:"
+
+msgid "Cell width:"
+msgstr "Шырыня ячэйкі:"
+
+msgid "Ink color:"
+msgstr "Колер чорнила:"
+
+msgid "Rotation start direction"
+msgstr "Напрамак пачатку павароту"
+
+msgid "Left (-45°)"
+msgstr "Злева (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Справа (+45°)"
+
+msgid "No rotation"
+msgstr "Без павароту"
+
+msgid "Select a document size:"
+msgstr "Выберыце памер дакумента:"
+
+msgid "Dream sized, contains content"
+msgstr "Памер паўдня, змяшчае змесціва"
+
+msgid "Magic Square:"
+msgstr "Магічны квадрат:"
+
+msgid "Copy to Clipboard"
+msgstr "Капіяваць у буфер абмену"
+
+msgid "Save File"
+msgstr "Захаваць файл"
+
+msgid "Use Indian Numbers"
+msgstr "Выкарыстоўваць індыйскія лічбы"
+
+msgid "Odd sized (Siamese)"
+msgstr "Нароўны памер (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Двойна парны (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Двойна парны (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Двойна парны (простая замена)"
+
+msgid "Singly even (Strachey)"
+msgstr "Першапарны (Страчы)"
+
+msgid "Magic Constant:"
+msgstr "Магічная пастаянная:"
+
+msgid "Row"
+msgstr "Радок"
+
+msgid "Column"
+msgstr "Слуп"
+
+msgid "Main Diagonal:"
+msgstr "Галоўная дыяганаль:"
+
+msgid "Side Diagonal:"
+msgstr "Боковая дыяганаль:"
+
+msgid "Total"
+msgstr "Усяго"
+
+msgid "Magic square is valid!"
+msgstr "Магічная квадратная матрыца сапраўдная!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Магічная квадратная матрыца НЕ сапраўдная!"
+
+msgid "Thank you for your support!"
+msgstr "Дзякуй за вашу падтрымку!"
+
+msgid "Magic Square Widget"
+msgstr "Магічны квадратычны віджэт"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Дадае наладжвальны генератар магічных квадратных матрыц (віджэт) у кут "
+"вашага сайта."

@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Bavarian <bar_AT>\n"
+"Language: bar-AT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Tabled Text"
+msgstr "Tischdetaxt"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Unterstützn"
+
+msgid "Square Size:"
+msgstr "Quadratgöße:"
+
+msgid "Row Sum:"
+msgstr "Rei-Summe:"
+
+msgid "Algorithm:"
+msgstr "Algorithmus:"
+
+msgid "Generate"
+msgstr "Erstelln"
+
+msgid "Rotate"
+msgstr "Dreihn"
+
+msgid "Mirror"
+msgstr "Spiegeln"
+
+msgid "Output format:"
+msgstr "Ausgabeformat:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tab-getrennte Werte für Tabellenkalkulation."
+
+msgid "Box borders:"
+msgstr "Boxrahmen:"
+
+msgid "Cell height:"
+msgstr "Zellhöhe:"
+
+msgid "Cell width:"
+msgstr "Zellbreit:"
+
+msgid "Ink color:"
+msgstr "Tintenfärb:"
+
+msgid "Rotation start direction"
+msgstr "Drehungsstart-Richtig:"
+
+msgid "Left (-45°)"
+msgstr "Links (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Rechts (+45°)"
+
+msgid "No rotation"
+msgstr "Keine Drehn"
+
+msgid "Select a document size:"
+msgstr "Wähln a Dokumentgrösse:"
+
+msgid "Dream sized, contains content"
+msgstr "Traumgrösse, enthält Inhalt"
+
+msgid "Magic Square:"
+msgstr "Magisches Quadrat:"
+
+msgid "Copy to Clipboard"
+msgstr "In die Zwischenspeicher kopiern"
+
+msgid "Save File"
+msgstr "Datei speichern"
+
+msgid "Use Indian Numbers"
+msgstr "Indische Zahln benutzt"
+
+msgid "Odd sized (Siamese)"
+msgstr "Ungerade Grösse (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Doppelt gerade (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Doppelt gerade (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Zwoit ahr (Einfach Austausch)"
+
+msgid "Singly even (Strachey)"
+msgstr "Einfach ahr (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Magische Konstante:"
+
+msgid "Row"
+msgstr "Rei"
+
+msgid "Column"
+msgstr "Spal"
+
+msgid "Main Diagonal:"
+msgstr "Hauptdiagonale:"
+
+msgid "Side Diagonal:"
+msgstr "Seitendiagonale:"
+
+msgid "Total"
+msgstr "Summe"
+
+msgid "Magic square is valid!"
+msgstr "Magisches Quadrat is gscheit!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Magisches Quadrat is NI gscheit!"
+
+msgid "Thank you for your support!"
+msgstr "Dank fia deine Unterstützunga!"
+
+msgid "Magic Square Widget"
+msgstr "Magisches Quadrat-Widget"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Fügt a anpassbares magisches Quadrat Generator (Widget) in d' Ecke deiner "
+"Site hinzu."

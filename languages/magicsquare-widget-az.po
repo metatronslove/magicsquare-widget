@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Azerbaijani (Latin) <az_AZ>\n"
+"Language: az-AZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Mətn"
+
+msgid "Tabled Text"
+msgstr "Cədvəl Mətni"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Dəstək"
+
+msgid "Square Size:"
+msgstr "Kvadrat ölçüsü:"
+
+msgid "Row Sum:"
+msgstr "Sətir cəmi:"
+
+msgid "Algorithm:"
+msgstr "Algoritm:"
+
+msgid "Generate"
+msgstr "Yarat"
+
+msgid "Rotate"
+msgstr "Bük"
+
+msgid "Mirror"
+msgstr "Aynala"
+
+msgid "Output format:"
+msgstr "Çıxış formatı:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Cədvəllər üçün tab ilə ayrılmış dəyərlər."
+
+msgid "Box borders:"
+msgstr "Qutu kənarları:"
+
+msgid "Cell height:"
+msgstr "Hüceyrə hündürlüyü:"
+
+msgid "Cell width:"
+msgstr "Hüceyrə eni:"
+
+msgid "Ink color:"
+msgstr "Mərcəm rəngi:"
+
+msgid "Rotation start direction"
+msgstr "Bükmə başlanğıc istiqaməti"
+
+msgid "Left (-45°)"
+msgstr "Sol (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Sağ (+45°)"
+
+msgid "No rotation"
+msgstr "Bükmə yoxdur"
+
+msgid "Select a document size:"
+msgstr "Sənəd ölçüsünü seç:"
+
+msgid "Dream sized, contains content"
+msgstr "Rüya ölçülü, məzmun daşıyır"
+
+msgid "Magic Square:"
+msgstr "Mərcəm Kvadrat:"
+
+msgid "Copy to Clipboard"
+msgstr "Panoya kopyala"
+
+msgid "Save File"
+msgstr "Faylı saxla"
+
+msgid "Use Indian Numbers"
+msgstr "Hind ədədlərindən istifadə et"
+
+msgid "Odd sized (Siamese)"
+msgstr "Tək ölçülü (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Çoxlu cüt (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Çoxlu cüt (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "İki dəfə cüt (Sadə Əvəz)"
+
+msgid "Singly even (Strachey)"
+msgstr "Bir dəfə cüt (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Sihirli Dəyişən:"
+
+msgid "Row"
+msgstr "Sətir"
+
+msgid "Column"
+msgstr "Sütun"
+
+msgid "Main Diagonal:"
+msgstr "Əsas Diagonal:"
+
+msgid "Side Diagonal:"
+msgstr "Yan Diagonal:"
+
+msgid "Total"
+msgstr "Cəmi"
+
+msgid "Magic square is valid!"
+msgstr "Sihirli kvadrat etibarlıdır!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Sihirli kvadrat etibarlı deyil!"
+
+msgid "Thank you for your support!"
+msgstr "Dəstəyiniz üçün təşəkkürlər!"
+
+msgid "Magic Square Widget"
+msgstr "Sihirli Kvadrat Vidjeti"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Saytınızın küncündə tənzimlənə bilən bir sihirli kvadrat generatoru (vidjet)"
+" əlavə edir."

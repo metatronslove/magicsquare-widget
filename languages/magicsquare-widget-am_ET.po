@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Amharic <am_ET>\n"
+"Language: am-ET\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "ጽሑፍ"
+
+msgid "Tabled Text"
+msgstr "የተለያዩ ጽሑፍ"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "ድጋፍ"
+
+msgid "Square Size:"
+msgstr "ተሰር መጠን:"
+
+msgid "Row Sum:"
+msgstr "ረዘም ድምር:"
+
+msgid "Algorithm:"
+msgstr "አልጎርስትም:"
+
+msgid "Generate"
+msgstr "ማዘጋጀት"
+
+msgid "Rotate"
+msgstr "ማውሰድ"
+
+msgid "Mirror"
+msgstr "ተለቀቂያ"
+
+msgid "Output format:"
+msgstr "ውጤት ቅርጽ:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "ለሰርዘት የትብ የተቀመጠ ዋጋዎች"
+
+msgid "Box borders:"
+msgstr "የቦክስ ጣላት:"
+
+msgid "Cell height:"
+msgstr "ክፍል ርዝም:"
+
+msgid "Cell width:"
+msgstr "ክፍል ስፋት:"
+
+msgid "Ink color:"
+msgstr "የገል ቀለም:"
+
+msgid "Rotation start direction"
+msgstr "የማውሰድ የጀምር አቀማመጥ:"
+
+msgid "Left (-45°)"
+msgstr "ግራ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "በትርፈ (+45°)"
+
+msgid "No rotation"
+msgstr "ያልተለዋዋጭ"
+
+msgid "Select a document size:"
+msgstr "የሰነድ መጠን ይምረጡ:"
+
+msgid "Dream sized, contains content"
+msgstr "የተስፋ ደረጃ, ይዞታ ይያዝ"
+
+msgid "Magic Square:"
+msgstr "አስደናቂ ተሰር:"
+
+msgid "Copy to Clipboard"
+msgstr "በቁልፍ ሰንደት አቅርብ"
+
+msgid "Save File"
+msgstr "ፋይል አስቀምጡ"
+
+msgid "Use Indian Numbers"
+msgstr "ኢንዲያ ቁጥር ይጠቀሙ"
+
+msgid "Odd sized (Siamese)"
+msgstr "የተለዋዋጭ ወቅት (ሳይዛ)"
+
+msgid "Doubly even (Strachey)"
+msgstr "የሁለት ወደ ትክክል (ስትራቺ)"
+
+msgid "Doubly even (Durer)"
+msgstr "የሁለት ወደ ትክክል (ዱረ)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "ሁለት ተወስዷል (ቀላል ውለት)"
+
+msgid "Singly even (Strachey)"
+msgstr "አንድ ተወስዷል (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "አስደናቂ ቁጥር:"
+
+msgid "Row"
+msgstr "ረዘም"
+
+msgid "Column"
+msgstr "አምድ"
+
+msgid "Main Diagonal:"
+msgstr "ዋና ነጠል:"
+
+msgid "Side Diagonal:"
+msgstr "ግልጽ ነጠል:"
+
+msgid "Total"
+msgstr "በሙሉ"
+
+msgid "Magic square is valid!"
+msgstr "ሰማይ አራት ቅርጽ ተቀባይነት አለው!"
+
+msgid "Magic square is NOT valid!"
+msgstr "ሰማይ አራት ቅርጽ አይተስማሚ ነው!"
+
+msgid "Thank you for your support!"
+msgstr "ድጋፍዎ ስለሆነ እናመሰግናለን!"
+
+msgid "Magic Square Widget"
+msgstr "ሰማይ አራት ድር እቃ"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "የተለየ ሰማይ አራት ፈጠራ (ድር እቃ) ወደ ገጽታዎ የሚጨምር ነው."

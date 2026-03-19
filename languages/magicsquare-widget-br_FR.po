@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Breton <br_FR>\n"
+"Language: br-FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Testenn"
+
+msgid "Tabled Text"
+msgstr "Testenn skoll"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Skoazell"
+
+msgid "Square Size:"
+msgstr "Ment ar c'hevil:"
+
+msgid "Row Sum:"
+msgstr "Sammad ar renz:"
+
+msgid "Algorithm:"
+msgstr "Algoritme:"
+
+msgid "Generate"
+msgstr "Krouiñ"
+
+msgid "Rotate"
+msgstr "Traozañ"
+
+msgid "Mirror"
+msgstr "Eil"
+
+msgid "Output format:"
+msgstr "Mav ezporzh:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Talvezoutoù e-tre taboù evit ar c'heblataerien."
+
+msgid "Box borders:"
+msgstr "Bordoù ar voestad:"
+
+msgid "Cell height:"
+msgstr "Uhelder an eilenn:"
+
+msgid "Cell width:"
+msgstr "Ledander an eilenn:"
+
+msgid "Ink color:"
+msgstr "Liv an ink:"
+
+msgid "Rotation start direction"
+msgstr "Kav evit an dremmadur"
+
+msgid "Left (-45°)"
+msgstr "Kleiz (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Dehou (+45°)"
+
+msgid "No rotation"
+msgstr "Goullo"
+
+msgid "Select a document size:"
+msgstr "Dibabit ment ur dokumant:"
+
+msgid "Dream sized, contains content"
+msgstr "Ment soñj, aotreet endro"
+
+msgid "Magic Square:"
+msgstr "C'hevil gwiz:"
+
+msgid "Copy to Clipboard"
+msgstr "Eilañ d'ar bevenn"
+
+msgid "Save File"
+msgstr "Enrollañ restr"
+
+msgid "Use Indian Numbers"
+msgstr "Implij an niveroù Indiaou"
+
+msgid "Odd sized (Siamese)"
+msgstr "Ment disoc'h (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Doubly even (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Doubly even (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Par daou (Kemm simpl)"
+
+msgid "Singly even (Strachey)"
+msgstr "Par unan (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Konstant war c'hem:"
+
+msgid "Row"
+msgstr "Renk"
+
+msgid "Column"
+msgstr "Kolonn"
+
+msgid "Main Diagonal:"
+msgstr "Diagonal pennañ:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonell tiriad:"
+
+msgid "Total"
+msgstr "Hollad"
+
+msgid "Magic square is valid!"
+msgstr "Ar c'hevreañ war c'hem a zo talvoudus!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Ar c'hevreañ war c'hem n'eus ket talvoudus!"
+
+msgid "Thank you for your support!"
+msgstr "Trugarez deoc'h evit ho sikour!"
+
+msgid "Magic Square Widget"
+msgstr "Widget ar c'hevreañ war c'hem"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Ouzhpennañ ur gereller c'hevreañ war c'hem anavezet (widget) d'ar c'hornel "
+"ho lec'hienn."

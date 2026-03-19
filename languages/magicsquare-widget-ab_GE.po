@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Abkhaz <ab_GE>\n"
+"Language: ab-GE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "текст"
+
+msgid "Tabled Text"
+msgstr "Таблицадаги текст"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Поддержка"
+
+msgid "Square Size:"
+msgstr "Квадрат өлчәм:"
+
+msgid "Row Sum:"
+msgstr "Жол суммасы:"
+
+msgid "Algorithm:"
+msgstr "Алгоритм:"
+
+msgid "Generate"
+msgstr "Тудыру"
+
+msgid "Rotate"
+msgstr "Бұрау"
+
+msgid "Mirror"
+msgstr "Айналасу"
+
+msgid "Output format:"
+msgstr "Чыгару форматы:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Электрон кестелер үшін табуляцияланған бағандар."
+
+msgid "Box borders:"
+msgstr "Кутия шекаралары:"
+
+msgid "Cell height:"
+msgstr "Ұяшық биіктігі:"
+
+msgid "Cell width:"
+msgstr "Ұяшық ені:"
+
+msgid "Ink color:"
+msgstr "Маска түсі:"
+
+msgid "Rotation start direction"
+msgstr "Бұрау бастау бағыты"
+
+msgid "Left (-45°)"
+msgstr "Сол (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Оң (+45°)"
+
+msgid "No rotation"
+msgstr "Бұраусыз"
+
+msgid "Select a document size:"
+msgstr "Құжат өлшемін таңдаңыз:"
+
+msgid "Dream sized, contains content"
+msgstr "Қиял өлшемі, мазмұнды қамтиды"
+
+msgid "Magic Square:"
+msgstr "Магиялық квадрат:"
+
+msgid "Copy to Clipboard"
+msgstr "Клипбордқа көшіру"
+
+msgid "Save File"
+msgstr "Файлды сақтау"
+
+msgid "Use Indian Numbers"
+msgstr "Индий нөмірлерін пайдалану"
+
+msgid "Odd sized (Siamese)"
+msgstr "Бейелгілік (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Қос жұп (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Қос жұп (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Дупло чоъ (Простой обмен)"
+
+msgid "Singly even (Strachey)"
+msgstr "Еднократный чоъ (Страхей)"
+
+msgid "Magic Constant:"
+msgstr "Магический Констант:"
+
+msgid "Row"
+msgstr "Ряд"
+
+msgid "Column"
+msgstr "Столбец"
+
+msgid "Main Diagonal:"
+msgstr "Главна Диагональ:"
+
+msgid "Side Diagonal:"
+msgstr "Побочная Диагональ:"
+
+msgid "Total"
+msgstr "Общая Сума"
+
+msgid "Magic square is valid!"
+msgstr "Магический квадра дозволен!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Магический квадра недозволен!"
+
+msgid "Thank you for your support!"
+msgstr "Спасибо за вашу поддержку!"
+
+msgid "Magic Square Widget"
+msgstr "Магический квадра Виджет"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Добавляет настройвуварый генератор магического квадра (виджет) к углу вашего"
+" сайта."

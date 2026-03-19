@@ -1,0 +1,143 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Bambara <bm_ML>\n"
+"Language: bm-ML\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Tɛk"
+
+msgid "Tabled Text"
+msgstr "Tábèlè tèx"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Sɔ́ngɔ"
+
+msgid "Square Size:"
+msgstr "Kɛlɛ bɛlɛ:"
+
+msgid "Row Sum:"
+msgstr "Rɔ̀ bɛlɛ:"
+
+msgid "Algorithm:"
+msgstr "Alʒɔrìtɛm:"
+
+msgid "Generate"
+msgstr "Sɔ̀"
+
+msgid "Rotate"
+msgstr "Sò"
+
+msgid "Mirror"
+msgstr "Kɔ̀"
+
+msgid "Output format:"
+msgstr "Bɔ̀ kè:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Tab-séparèti valù fɔ̀ lɔ́fɔ̀"
+
+msgid "Box borders:"
+msgstr "Bok bɛlɛ:"
+
+msgid "Cell height:"
+msgstr "Sɛl hɔ̀t:"
+
+msgid "Cell width:"
+msgstr "Sɛl wìd:"
+
+msgid "Ink color:"
+msgstr "Tìrì kòlòr:"
+
+msgid "Rotation start direction"
+msgstr "Sò fɔ̀ kɔ̀"
+
+msgid "Left (-45°)"
+msgstr "Bɛ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "Wɔ́ (+45°)"
+
+msgid "No rotation"
+msgstr "Bà sò"
+
+msgid "Select a document size:"
+msgstr "Sélék a dɔ́kúmènt bɛlɛ:"
+
+msgid "Dream sized, contains content"
+msgstr "Sɔ̀ kɛ, wàbɛ̀ nɔ̀"
+
+msgid "Magic Square:"
+msgstr "Magi kɛlɛ:"
+
+msgid "Copy to Clipboard"
+msgstr "Kópì nè kùpù"
+
+msgid "Save File"
+msgstr "Bɛ̀kè fáil"
+
+msgid "Use Indian Numbers"
+msgstr "Kùlì Bèŋ nùmè"
+
+msgid "Odd sized (Siamese)"
+msgstr "Sà siza (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Bá sà bɛ (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Bá sà bɛ (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "Doubly even (Simple exchange)"
+
+msgid "Singly even (Strachey)"
+msgstr "Singly even (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Sɔŋ kili kɔntan:"
+
+msgid "Row"
+msgstr "tɔ"
+
+msgid "Column"
+msgstr "kɔlɔŋ"
+
+msgid "Main Diagonal:"
+msgstr "Bô dɔng:"
+
+msgid "Side Diagonal:"
+msgstr "Yɛ dɔng:"
+
+msgid "Total"
+msgstr "fù"
+
+msgid "Magic square is valid!"
+msgstr "Sɔŋ kili kɔw fɛ!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Sɔŋ kili kɔw fɛ ka fɔ!"
+
+msgid "Thank you for your support!"
+msgstr "Sɛbɛɛ ka a fɔ!"
+
+msgid "Magic Square Widget"
+msgstr "Sɔŋ kili wɛtɪg"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr "Bɛ fɔ ka sɔŋ kili wɛtɪg (wɛtɪg) dɛ kɔw kɔla fɔ."

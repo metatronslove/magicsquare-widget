@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Tibetan <bo_CN>\n"
+"Language: bo-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "གནད་བརྡ"
+
+msgid "Tabled Text"
+msgstr "གནད་བརྡ་གདུག"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "གནང་བ"
+
+msgid "Square Size:"
+msgstr "གདུག་གི་ཚད:"
+
+msgid "Row Sum:"
+msgstr "གྲལ་གྱི་མཉམ:"
+
+msgid "Algorithm:"
+msgstr "ལམ་ལུགས:"
+
+msgid "Generate"
+msgstr "གསར་པ"
+
+msgid "Rotate"
+msgstr "གཡུར"
+
+msgid "Mirror"
+msgstr "ལོག"
+
+msgid "Output format:"
+msgstr "ཕན་ཚུན་བཀོད་:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "གཏད་གནང་པའི་དེག་གནད་བརྟགས:"
+
+msgid "Box borders:"
+msgstr "གཞན་བཞག:"
+
+msgid "Cell height:"
+msgstr "ནང་གནད་ཀྱི་མཐོ:"
+
+msgid "Cell width:"
+msgstr "ནང་གནད་ཀྱི་ནུས:"
+
+msgid "Ink color:"
+msgstr "བརྟགས་ཚོད:"
+
+msgid "Rotation start direction"
+msgstr "གཡུར་འགོ་བརྗེས།"
+
+msgid "Left (-45°)"
+msgstr "གཡོན་ (-45°)"
+
+msgid "Right (+45°)"
+msgstr "གཡས་ (+45°)"
+
+msgid "No rotation"
+msgstr "གཡུར་མེད"
+
+msgid "Select a document size:"
+msgstr "ཡིག་གནད་ཀྱི་ཚད་ འདེམ་:"
+
+msgid "Dream sized, contains content"
+msgstr "འདིའི་བརྗེས་གནང་འདིར"
+
+msgid "Magic Square:"
+msgstr "གདུག་བརྗེས་:"
+
+msgid "Copy to Clipboard"
+msgstr "གནད་གནང་ དུ་གཞན་པའི་དེར་བརྗེས"
+
+msgid "Save File"
+msgstr "ཡིག་ཆའི་གསར་འགུལ"
+
+msgid "Use Indian Numbers"
+msgstr "རྒྱ་ཐུག་གྱི་གྲངས་གཞིའི་འགའ་བརྒྱུད"
+
+msgid "Odd sized (Siamese)"
+msgstr "མེད་གནད་ (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "གཉིས་པའི་ (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "གཉིས་པའི་ (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "གཉིས་པའི་བཞག (Simple exchange)"
+
+msgid "Singly even (Strachey)"
+msgstr "གཅིག་པའི་བཞག (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "དམའམ་གནད།:"
+
+msgid "Row"
+msgstr "གྲལ"
+
+msgid "Column"
+msgstr "གཞུག"
+
+msgid "Main Diagonal:"
+msgstr "གཞན་ཕུལ་བཅོས།:"
+
+msgid "Side Diagonal:"
+msgstr "གནག་འབད་དབང།:"
+
+msgid "Total"
+msgstr "མཉམ་"
+
+msgid "Magic square is valid!"
+msgstr "དབྱིབས་རྟགས་ ནུས་པར་འདུག!"
+
+msgid "Magic square is NOT valid!"
+msgstr "དབྱིབས་རྟགས་ ནུས་པར་མེད!"
+
+msgid "Thank you for your support!"
+msgstr "ཁྱེད་རང་གི་གནད་རྟགས་ལ་གནོན!"
+
+msgid "Magic Square Widget"
+msgstr "དབྱིབས་རྟགས་ གནད་ཡིག"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"ཁྱོད་རང་གི་ས་མཁན་གྱི་གནམ་འདུག་པའི་དབྱིབས་རྟགས་ མཚོན་དུག་འདུག (widget) བཙུགས།"

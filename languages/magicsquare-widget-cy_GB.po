@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Magic Square Widget 1.0.0\n"
+"Last-Translator: Ollama gpt-oss:20b <auto@localhost>\n"
+"Language-Team: Welsh <cy_GB>\n"
+"Language: cy-GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Ollama Translator v7.0\n"
+
+msgid "Text"
+msgstr "Testun"
+
+msgid "Tabled Text"
+msgstr "Testun Tablu"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "PDF/PNG"
+msgstr "PDF/PNG"
+
+msgid "Support"
+msgstr "Cefnogaeth"
+
+msgid "Square Size:"
+msgstr "Maint Sae:"
+
+msgid "Row Sum:"
+msgstr "Cyfanswm Rhes:"
+
+msgid "Algorithm:"
+msgstr "Algorithm:"
+
+msgid "Generate"
+msgstr "Creu"
+
+msgid "Rotate"
+msgstr "Rhowch gylch"
+
+msgid "Mirror"
+msgstr "Llygaid"
+
+msgid "Output format:"
+msgstr "Fformat allbwn:"
+
+msgid "Tab-separated values for spreadsheets."
+msgstr "Gwerthoedd wedi'u rhannu gan tab ar gyfer tablau cyfrifiad."
+
+msgid "Box borders:"
+msgstr "Borderi Blwch:"
+
+msgid "Cell height:"
+msgstr "Uchder Cell:"
+
+msgid "Cell width:"
+msgstr "Lled Cell:"
+
+msgid "Ink color:"
+msgstr "Lliw Penw:"
+
+msgid "Rotation start direction"
+msgstr "Cyfeiriad cychwyn y gylchliad"
+
+msgid "Left (-45°)"
+msgstr "Chwith (-45°)"
+
+msgid "Right (+45°)"
+msgstr "De (+45°)"
+
+msgid "No rotation"
+msgstr "Dim ymarfer"
+
+msgid "Select a document size:"
+msgstr "Dewis maint y ddogfen:"
+
+msgid "Dream sized, contains content"
+msgstr "Maint breuddwyd, yn cynnwys cynnwys"
+
+msgid "Magic Square:"
+msgstr "Sae Ddaol:"
+
+msgid "Copy to Clipboard"
+msgstr "Copïo i'r clipbard"
+
+msgid "Save File"
+msgstr "Cadw Ffeil"
+
+msgid "Use Indian Numbers"
+msgstr "Defnyddio Rhifau Indiaidd"
+
+msgid "Odd sized (Siamese)"
+msgstr "Meid nôl (Siamese)"
+
+msgid "Doubly even (Strachey)"
+msgstr "Cyf ddwywaith (Strachey)"
+
+msgid "Doubly even (Durer)"
+msgstr "Cyf ddwywaith (Durer)"
+
+msgid "Doubly even (Simple exchange)"
+msgstr "ddwywaith cymrwydd (Cyfnewid syml)"
+
+msgid "Singly even (Strachey)"
+msgstr "unwaith cymrwydd (Strachey)"
+
+msgid "Magic Constant:"
+msgstr "Cyfyngiad Duwiol:"
+
+msgid "Row"
+msgstr "Rhes"
+
+msgid "Column"
+msgstr "Colofn"
+
+msgid "Main Diagonal:"
+msgstr "Diagonl Grem:"
+
+msgid "Side Diagonal:"
+msgstr "Diagonl O'r Hyn:"
+
+msgid "Total"
+msgstr "Cyfanswm"
+
+msgid "Magic square is valid!"
+msgstr "Mae'r sgyrd duiol yn ddilys!"
+
+msgid "Magic square is NOT valid!"
+msgstr "Nid yw'r sgyrd duiol yn ddilys!"
+
+msgid "Thank you for your support!"
+msgstr "Diolch am eich cefnogaeth!"
+
+msgid "Magic Square Widget"
+msgstr "Cymhwysydd Sgyrd Duwiol"
+
+msgid ""
+"Adds a customizable magic square generator (widget) to the corner of your "
+"site."
+msgstr ""
+"Ychwanegu cynhyrchydd sgyrd duiol (wediogiad) galluog i gornel eich gwefan."
